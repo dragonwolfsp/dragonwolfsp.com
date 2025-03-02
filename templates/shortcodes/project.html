@@ -1,0 +1,8 @@
+{%if url %}<h2> <a href={{ url }}>{{ name }}</a></h2>
+{% else %}<h2>{{ name }}</h2>
+{% endif %}
+
+<details>
+    <summary>{{ summary }}</summary>
+    {{ body | markdown | safe }}
+</details>

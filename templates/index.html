@@ -1,0 +1,116 @@
+{% extends "base.html" %}
+
+{% block content %}
+{{ section.content | safe }}
+
+<script src="/js/weather.js"></script>
+
+<script>
+    (async function () {
+        document.getElementById('location').innerText = `the mists`;
+        const weatherData = await fetchWeatherData();
+        if (weatherData) {
+            const { weatherDescription, tempC, tempF, city, state, country, moonPhase, ip} = weatherData;
+
+            // Define messages for each moon phase
+            let moonMessage;
+            switch (moonPhase.toLowerCase()) {
+                case 'new moon':
+                    moonMessage = "The moon hides its face, shrouded in shadow. It is a time for quiet reflection.";
+                    break;
+                case 'waxing crescent':
+                    moonMessage = "A sliver of silver graces the sky, a promise of light to come.";
+                    break;
+                case 'first quarter':
+                    moonMessage = "Half lit and half shadowed, the moon speaks of balance and decisions.";
+                    break;
+                case 'waxing gibbous':
+                    moonMessage = "The moon grows bold, a harbinger of fullness and ambition.";
+                    break;
+                case 'full moon':
+                    moonMessage = "The moon shines bright, a beacon of clarity and power in the night.";
+                    break;
+                case 'waning gibbous':
+                    moonMessage = "The moon begins to wane, its light softening into wisdom.";
+                    break;
+                case 'last quarter':
+                    moonMessage = "The moon stands divided, urging contemplation of what was and what will be.";
+                    break;
+                case 'waning crescent':
+                    moonMessage = "A delicate crescent lingers, whispering of endings and new beginnings.";
+                    break;
+                default:
+                    moonMessage = "The moon is mysterious, eluding even the stars' wisdom.";
+                    break;
+            }
+
+            // Update the content of the moonFraze div
+            document.getElementById('moonFraze').innerHTML = `
+                <p>${moonMessage}</p>
+            `;
+            document.getElementById('location').innerText = `${city} in ${state}`;
+            // Define phrases based on temperature ranges
+            let temperatureMessage;
+            if (tempF <= -10) {
+                temperatureMessage = "The world is gripped by frost, as if the shadows themselves have frozen in place.";
+            } else if (tempF > -10 && tempF <= 10) {
+                temperatureMessage = "The very breath of winter is upon your skin,  as the ice elder watches over you.";
+            } else if (tempF > 10 && tempF <= 30) {
+                temperatureMessage = "A harsh winter still lingers, whispering secrets of the cold.";
+            } else if (tempF > 30 && tempF <= 50) {
+                temperatureMessage = "The  cold begins  to fade, perhaps the emerald elder shal soon breach the horizon.";
+            } else if (tempF > 50 && tempF <= 79) {
+                temperatureMessage = "A gentle warmth surrounds you, where the shadows and sun share dominion.";
+            } else {
+                temperatureMessage = "Beware, for fire and emerald shal soon meet overhead.";
+            }
+            // Update the DOM with the temperature message
+            document.getElementById('temperatureFraze').innerHTML = `
+                <p>${temperatureMessage}</p>
+            `;
+            const lowerWeatherDescription = weatherDescription.toLowerCase();
+            let weatherDescripter;
+            if (lowerWeatherDescription.includes('cloud')) {
+                weatherDescripter = "shrouded";
+            } else if (lowerWeatherDescription.includes('sun')) {
+                weatherDescripter = "radiant";
+            } else if (lowerWeatherDescription.includes('rain')) {
+                weatherDescripter = "renewing";
+            } else if (lowerWeatherDescription.includes('snow')) {
+                weatherDescripter = "frosted";
+            } else if (lowerWeatherDescription.includes('storm')) {
+                weatherDescripter = "tempestuous";
+            } else if (lowerWeatherDescription.includes('fog')) {
+                weatherDescripter = "veiled";
+            } else {
+                weatherDescripter = "enigmatic";
+            }
+            document.getElementById('weatherKeyWord').innerText = `${weatherDescripter}`;
+        }
+    })();
+</script>
+
+{% if config.extra.list_pages %}
+
+{% if paginator %}
+{% set pages = paginator.pages %}
+{% else %}
+{% set pages = section.pages %}
+{% endif %}
+
+<ul class="titleList">
+{% for page in pages %}
+  <li>
+    <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    <br />
+    {{ page.description }}
+  </li>
+{% endfor %}
+</ul>
+
+{% if paginator %}
+<div class="metaData">{% if paginator.previous %}<a href="{{ paginator.first }}">⥶</a> &nbsp <a href="{{ paginator.previous }}"><</a>{% endif %} &nbsp {{ paginator.current_index }} / {{ paginator.number_pagers }} &nbsp {% if paginator.next %}<a href="{{ paginator.next }}">></a> &nbsp <a href="{{ paginator.last }}">⥸</a>{% endif %}</div>
+{% endif %}
+
+{% endif %}
+{% endblock content %}

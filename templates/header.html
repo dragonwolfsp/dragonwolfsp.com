@@ -1,0 +1,32 @@
+{% set current_lang = config.default_language %}
+{% if page %}
+  {% set current_lang = page.lang %}
+{% elif section %}
+  {% set current_lang = section.lang %}
+{% endif %}
+{% if not current_url %}
+{% set current_url = "/" %}
+{% endif %}
+<img src="{{ get_url(path='graphics/dragonwolfsp_profile.png', trailing_slash=false) | safe }}" alt="A majestic hybrid creature stands poised for action, its form a seamless fusion of wolf, lion, and dragon. Black fur streaked with silver flows into shimmering green and iridescent blue scales, its powerful frame radiating strength. Draconic feet grip the earth, a long spiked tail sways behind, and vast blue wings extend from its back, ready to carry it skyward. Its left hand is a formidable wolf’s paw, the right that of a lion, each clawed and deadly. Swirling, ever-shifting eyes—amber, green, blue, red, and white—gleam with fierce intelligence. A wolf’s muzzle lined with dragon’s teeth gives it a fearsome presence, while lion’s ears and caramel-colored horns curving slightly at the tips complete its regal visage. Strapped across its back, two swords await their call to battle—one glowing with golden light, its circular hilt radiating power, the other a silver blade etched with sun and moon symbols, its ornate grip gleaming in the sun. The creature stands beneath a brilliant sky, the sun casting golden rays over the lush trees behind it and the endless blue ocean stretching beyond the sandy shore. Strength, mystery, and primal majesty intertwine in its presence—guardian of the wilds, ruler of the unseen, and force of untamed legend.">
+{% if config.extra.header_nav %}
+  <nav id="nav-bar">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    {% for nav_item in config.extra.header_nav %}
+      <a href="{{ nav_item.url }}" class="{% if nav_item.url == current_url %}active{% endif %}">
+        {% set language_key = 'name_' ~ current_lang %}
+        {{ nav_item[language_key] }}
+      </a>
+    {% endfor %}
+  </nav>
+{% endif %}
+<div>
+        <input type="checkbox" id="theme-toggle" style="display: none;" aria-label="Toggle dark mode">
+    <label for="theme-toggle" id="theme-toggle-label">
+            <svg id="theme-icon" class="icons" role="img" aria-label = "Toggle Dark Mode">
+    <use href="{{ get_url(path='/icons.svg#lightMode', trailing_slash=false) | safe }}"></use>
+    </svg>
+    </label>
+    <audio id="theme-sound">
+        <source src="{{ get_url(path='click.ogg', trailing_slash=false) | safe }}" type="audio/ogg">
+    </audio>
+</div>

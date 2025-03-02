@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="{% if page %}{{ page.lang }}{% else %}{{ config.default_language }}{% endif %}">
+{% block head %}
+<head>
+    {% include "head.html" %}
+    <a href = "https://dragonscave.space/@dragonwolfsp" style = "display: none;"></a>
+    {% include "css.html" %}
+</head>
+{% endblock head %}
+<body>
+      <header>
+          {% include "header.html" %}
+      </header>
+      <main id = "main-content">
+          {% block content %}
+          {% endblock content %}
+      </main>
+      <footer>
+          {% include "footer.html" %}
+      </footer>
+</body>
+</html>
