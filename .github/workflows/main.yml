@@ -13,5 +13,4 @@ jobs:
           # Target branch
           PAGES_BRANCH: deploy
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BUILD_DIR: .
-          BUILD_ONLY: true
+          
