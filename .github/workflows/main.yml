@@ -3,7 +3,7 @@ name: Build and deploy Zola Pages
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
     steps:
       - name: checkout
         uses: actions/checkout@v4
@@ -13,3 +13,4 @@ jobs:
           # Target branch
           PAGES_BRANCH: deploy
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
