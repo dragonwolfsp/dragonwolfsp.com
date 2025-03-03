@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+<meta name="robots" content="index, follow">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title>Syncing Secrets: How I Manage Config Files Across All Devices!</title>
+
+
+
+<meta name="title" content="Syncing Secrets: How I Manage Config Files Across All Devices!">
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://dragonwolfsp.com/blog/syncing-secrets-how-i-manage-config-files-across-all-devices/">
+
+<meta property="og:site_name" content="the dragonwolf&#x27;s den">
+
+
+<meta property="og:title" content="Syncing Secrets: How I Manage Config Files Across All Devices!">
+
+
+
+<meta property="og:image" content="https:&#x2F;&#x2F;dragonwolfsp.com&#x2F;graphics&#x2F;dragonwolf.ico">
+
+
+
+<link rel="canonical" href="https://dragonwolfsp.com/blog/syncing-secrets-how-i-manage-config-files-across-all-devices/">
+
+<link rel="shortcut icon" type="image/x-icon" href="https://dragonwolfsp.com/graphics/dragonwolf.ico">
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://speyll.github.io/suCSS/reset-min.css"/>
+<link rel="stylesheet" type="text/css" href="https://speyll.github.io/suCSS/suCSS-min.css"/>
+<link rel="stylesheet" type="text/css" href="https://dragonwolfsp.com/css/style.css"/>
+
+<script src="https://dragonwolfsp.com/js/script.js" defer></script>
+
+
+    <a href = "https://dragonscave.space/@dragonwolfsp" style = "display: none;"></a>
+    <link rel="stylesheet" type="text/css" href="https://dragonwolfsp.com/css/srOnly.css"/>
+<link rel="stylesheet" type="text/css" href="https://dragonwolfsp.com/css/skip-link.css"/>
+</head>
+
+<body>
+      <header>
+          
+
+  
+
+
+<img src="https://dragonwolfsp.com/graphics/dragonwolfsp_profile.png" alt="A majestic hybrid creature stands poised for action, its form a seamless fusion of wolf, lion, and dragon. Black fur streaked with silver flows into shimmering green and iridescent blue scales, its powerful frame radiating strength. Draconic feet grip the earth, a long spiked tail sways behind, and vast blue wings extend from its back, ready to carry it skyward. Its left hand is a formidable wolf’s paw, the right that of a lion, each clawed and deadly. Swirling, ever-shifting eyes—amber, green, blue, red, and white—gleam with fierce intelligence. A wolf’s muzzle lined with dragon’s teeth gives it a fearsome presence, while lion’s ears and caramel-colored horns curving slightly at the tips complete its regal visage. Strapped across its back, two swords await their call to battle—one glowing with golden light, its circular hilt radiating power, the other a silver blade etched with sun and moon symbols, its ornate grip gleaming in the sun. The creature stands beneath a brilliant sky, the sun casting golden rays over the lush trees behind it and the endless blue ocean stretching beyond the sandy shore. Strength, mystery, and primal majesty intertwine in its presence—guardian of the wilds, ruler of the unseen, and force of untamed legend.">
+
+  <nav id="nav-bar">
+    <a href="#main-content" class="skip-link">Skip to main content</a>
+    
+      <a href="&#x2F;" class="">
+        
+        home
+      </a>
+    
+      <a href="&#x2F;projects" class="">
+        
+        projects
+      </a>
+    
+      <a href="&#x2F;blog" class="">
+        
+        blog
+      </a>
+    
+      <a href="&#x2F;social" class="">
+        
+        social media
+      </a>
+    
+      <a href="&#x2F;about" class="">
+        
+        about
+      </a>
+    
+      <a href="&#x2F;credits" class="">
+        
+        credits
+      </a>
+    
+  </nav>
+
+<div>
+        <input type="checkbox" id="theme-toggle" style="display: none;" aria-label="Toggle dark mode">
+    <label for="theme-toggle" id="theme-toggle-label">
+            <svg id="theme-icon" class="icons" role="img" aria-label = "Toggle Dark Mode">
+    <use href="https://dragonwolfsp.com/icons.svg#lightMode"></use>
+    </svg>
+    </label>
+    <audio id="theme-sound">
+        <source src="https://dragonwolfsp.com/click.ogg" type="audio/ogg">
+    </audio>
+</div>
+
+      </header>
+      <main id = "main-content">
+          
+<div><a href="..">..</a>/<span class="accent-data">syncing-secrets-how-i-manage-config-files-across-all-devices</span></div>
+<time datetime="2023-12-24">Published on: <span class="accent-data">2023-12-24</span></time>
+
+<h1>Syncing Secrets: How I Manage Config Files Across All Devices!</h1>
+
+
+
+<h1 id="introduction">introduction.</h1>
+<p>Syncing configuration files across multiple devices poses a grate challenge. Tools like Syncthing or Resilio Sync can help, but what happens when a device goes offline? Massive sync conflicts arise, necessitating a manual hunt for the root cause and deletion of conflicting files. Sometimes, these conflicts spread throughout your sync network, causing persistent issues. Cloud services like Dropbox, OneDrive, Google Drive, or iCloud Drive are alternatives, but trusting a company with your data may be a concern. What you  need is a solution that handles versioning, conflict resolution, and is easy to manage. Enter Git – the go-to tool for software developers, even used by major companies like Uber. In this article, I'll walk you through how I use Git to effortlessly sync my configuration files across all devices. Let's dive into the details and get you started on simplifying your configuration file management.</p>
+<h2 id="what-you-ll-need">What you'll need.</h2>
+<p>Before diving in, ensure you have a couple of essential prerequisites in place. Firstly, you'll need a <a href="https://github.com">GitHub</a> account, and secondly, make sure <a href="https://git-scm.com">Git</a> is installed on your computer. Once you've taken care of these two steps, you'll be all set for the next stage.</p>
+<h2 id="setting-up-your-configuration-repository">Setting up your configuration repository.</h2>
+<p>Now, to create your configuration repository, I'll demonstrate using<a href="https://cli.github.com">gh-cli</a>but you can also achieve this on the<a href="https://github.com">github</a>website. With<a href="https://cli.github.com">gh-cli</a>open a PowerShell window on Windows or Bash/Zsh on Linux, then run:</p>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>gh repo create
+</span></code></pre>
+<p>Answer the prompted questions with your preferred settings. If you opted not to clone the repository locally, use one of the following commands:</p>
+<ul>
+<li>If not using SSH.</li>
+</ul>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>git clone https://github.com/yourUserName/yourRepositoryName.git
+</span></code></pre>
+<ul>
+<li>If using SSH without <a href="https://cli.github.com">gh-cli</a></li>
+</ul>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>git clone git@github.com:yourUsername/yourRepositoryName
+</span></code></pre>
+<ul>
+<li>If using <a href="https://cli.github.com">gh-cli</a></li>
+</ul>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>gh repo clone yourUsername/yourRepositoryName
+</span></code></pre>
+<p>Now, let's move on to the next stage.</p>
+<h2 id="getting-your-configs-in-the-right-place">Getting your configs in the right place.</h2>
+<p>To start, you'll need to copy all of the configuration files that you want to store in git in to the directory in which your repository is located. Now, we need to create some links so that hour programs will still think that hour configuration files are in the right place. I like to set up a script to do this(links.bat on Windows, links.sh on Linux and MacOs)
+here is an example for Linux and MacOs showing how I simlinked my <a href="https://starship.rs">starship</a> config:</p>
+<pre data-lang="bash" style="background-color:#2b303b;color:#c0c5ce;" class="language-bash "><code class="language-bash" data-lang="bash"><span style="color:#bf616a;">ln -s ~</span><span>/configs/.config/starship.toml </span><span style="color:#bf616a;">~</span><span>/.config/starship.toml
+</span></code></pre>
+<p>This can also be done with a directory. It is a bit more complicated to do this on windows, if your going to link a file you need to make a hardlink using:</p>
+<pre data-lang="ps" style="background-color:#2b303b;color:#c0c5ce;" class="language-ps "><code class="language-ps" data-lang="ps"><span>mklink /H /path/to/destination/file /path/to/source/file
+</span></code></pre>
+<p>If you want to link an entire folder, you'll need a junction link using:</p>
+<pre data-lang="ps" style="background-color:#2b303b;color:#c0c5ce;" class="language-ps "><code class="language-ps" data-lang="ps"><span>mklink /J /path/to/destination/directory /path/to/source/directory
+</span></code></pre>
+<p>Here is my links.bat as an example.</p>
+<pre data-lang="batch" style="background-color:#2b303b;color:#c0c5ce;" class="language-batch "><code class="language-batch" data-lang="batch"><span>mklink /J %appdata%\foobar2000-v2 foobar2000-v2 
+</span><span>mklink /J %appdata%\ExplorerPatcher ExplorerPatcher
+</span><span>mklink /J %appdata%\Rizonesoft Rizonesoft 
+</span><span>mklink /J %userprofile%\Documents\WindowsPowerShell ps5
+</span><span>mklink /J %userprofile%\Documents\PowerShell ps7
+</span><span>mklink /J %localappdata%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState terminal
+</span><span>mklink /J %userprofile%\portable\KeyOp\data keyop
+</span><span>mklink /J %appdata%\nvda nvda
+</span><span>mklink /J %userprofile%\.config\scoop scoop
+</span><span>mklink /H %appdata%\Notepad2.ini unsorted\Notepad2.ini 
+</span><span>mklink /H %userprofile%\komorebi.json komorebi\komorebi.json
+</span><span>mklink /H %userprofile%\applications.yaml komorebi\applications.yaml
+</span><span>mklink /H %userprofile%\.config\whkdrc unsorted\whkdrc
+</span></code></pre>
+<p>Now that we've got that out of the way, lets move on.</p>
+<h2 id="making-your-first-commit-and-push">Making your first commit and push.</h2>
+<p>In order to push hour files to github, we need to commit the changes we just made to the repository. To do this run the following while in the repositories directory:</p>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>git add .
+</span><span>git commit -m &quot;Initial configuration upload.
+</span></code></pre>
+<p>Than to push hour changes to the github remote:</p>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>git push
+</span></code></pre>
+<h2 id="your-all-done-but-heres-some-tips">Your all done, but heres some tips.</h2>
+<p>Now all you have to do is clone the repo on to another computer and run your links script. Boom! you have your configs. If you ever want to update them from your main machine or a nother computer, all you have to do is commit and push your changes. Heres some tips to improove your experience.</p>
+<ol>
+<li>Handling multiple operating systems.</li>
+</ol>
+<p>To do this I Have created a git branch for each operating system. If you also want to do this, run the following on the repository (I'll use Windows as an example):</p>
+<pre data-lang="ps" style="background-color:#2b303b;color:#c0c5ce;" class="language-ps "><code class="language-ps" data-lang="ps"><span>git branch win
+</span><span>git checkout win
+</span></code></pre>
+<p>Add your files and links script. than run:</p>
+<pre data-lang="ps" style="background-color:#2b303b;color:#c0c5ce;" class="language-ps "><code class="language-ps" data-lang="ps"><span>git add .
+</span><span>git commit -m &quot;Initial upload of windows files.&quot;
+</span><span>git push -u origin win
+</span></code></pre>
+<p>This allows git to seporate and keep a completely different version history than the Mac, Linux, or main branch. I tipicly just use main for configs that are universal accross all   operating systems.</p>
+<ol start="2">
+<li>Clean and clear commit messages.</li>
+</ol>
+<p>You may have been wondering what the -m flag was for in the git commit command. The m stands for message, this allows you to attach a message to your commit. It is very useful wen looking thrue your git history, but not if you have unclear messages. I have a specific method I follow wen writing commit messages for my config repo. It goes as follows.</p>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>git commit -m &quot;config I updated: Changes I made.&quot;
+</span></code></pre>
+<p>For example: lets say I added Kubernetes to my starship config. I would write something like this:</p>
+<pre data-lang="console" style="background-color:#2b303b;color:#c0c5ce;" class="language-console "><code class="language-console" data-lang="console"><span>git commit -m &quot;starship: Adds Kubernetes module, sets an accessible symbol for it.&quot;
+</span></code></pre>
+<p>This way I keep my git commit history readable and organized.</p>
+<h2 id="conclusion">conclusion</h2>
+<p>With this approach, you can effortlessly synchronize your configuration files across all your devices, ensuring a conflict-free environment that won't disrupt your workflow. Thanks for reading—I trust this simplifies the syncing process for you.</p>
+<h3 id="watch-the-video">Watch the video</h3>
+<div >
+    <iframe
+        src="https://www.youtube-nocookie.com/embed/AT6kPGx9cLU"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        webkitallowfullscreen
+        mozallowfullscreen
+        allowfullscreen>
+    </iframe>
+</div>
+
+<p class="tags-data">
+  
+</p>
+
+      </main>
+      <footer>
+          <hr>
+<div id="footer-container">
+  
+    <div>Except where otherwise noted, content on this site is &copy; copyright 2025 by Ethan Jones under a 
+    
+    <a target="_blank" rel="noopener noreferrer" href="https:&#x2F;&#x2F;creativecommons.org&#x2F;licenses&#x2F;by-nc-sa&#x2F;4.0&#x2F;">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International</a>
+    
+    license.</div>
+  
+  <div>
+    <p>Theme and color theme licensed under the <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Licence_MIT">MIT</a> license.<br>
+      Built with <a target="_blank" rel="noopener noreferrer" href="https://www.getzola.org">Zola</a> using the <a target="_blank" rel="noopener noreferrer" href="https://github.com/Speyll/anemone">Anemone</a> theme, <a target="_blank" rel="noopener noreferrer" href="https://speyll.github.io/SuCSS/">suCSS</a> framework &amp; <a target="_blank" rel="noopener noreferrer" href="https://github.com/Speyll/veqev">Veqev</a> theme configurater.<br>
+    </p>
+
+  </div>
+  
+</div>
+
+      </footer>
+</body>
+</html>
