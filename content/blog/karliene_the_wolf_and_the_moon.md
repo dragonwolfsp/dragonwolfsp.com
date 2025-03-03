@@ -1,6 +1,7 @@
 +++
 title = "The wolf and the moon by karliene, a song of moonlight and pachion."
 date = 2025-02-24
+updated = 2025-03-03
 +++
 
 The Wolf and The Moon is a folk song released in 2016 by Scottish artist Karliene. It tells the story of a wounded wolf, alone in the winter snow. A fight with a bear had left the wolf injured, exposed, and dying. As he lay there, he looked up at the moon, and she smiled upon him. At this moment, the moon becomes a comforting presence to the wolf, as the song describes:  
@@ -11,7 +12,7 @@ The wolf sings songs of "passion and love" to the moon, pouring out his soul. Wh
 
 The first time I heard this song, it felt like the emotional equivalent of a slap upside the head. I was coding my game engine, Electrode, at the time, listening to Karliene's music in the background. My friend Deann had just told me about her music, so I figured I'd give it a listen. I was in the middle of trying to solve a particular problem with the game engine when The Wolf and The Moon came on. It had a very different mood compared to the previous song, so it immediately grabbed my attention. By the time the song ended, my brain was pretty much in a non-functioning state. I can't fully describe how I felt, but let's just say I didn’t get any more coding done that day. The story in this song pulls you in, and the raw emotion in Karliene's voice is nothing short of staggering. Wolves have always been one of my favorite animals—and one of my top four favorite fantasy tropes. I’m not sure why, but I've always felt a strong connection to them. This song tugs on that emotional thread in a way that’s hard to put into words, and it will always be one of my favorites.
 
-References
+# References
 
 Balestri, A. (2016, May 11). A cat of a different coat: Spirituality, storytelling, and the music of karliene. Geeks Under Grace.   
 [https://www.geeksundergrace.com/music/a-cat-of-a-different-coat-spirituality-storytellilng-and-the-music-of-karliene/](https://www.geeksundergrace.com/music/a-cat-of-a-different-coat-spirituality-storytellilng-and-the-music-of-karliene/)  
