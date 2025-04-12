@@ -27,7 +27,7 @@ Step into the heart of the shadows and join the conversations:
 ---
 
 ## 🔴 Live Streams  
-Experience the Dragonwolf in action on **Dragonhowl Live**: [Watch the stream](https://live.dragonwolfsp.com) — coding, gaming, music production, and spontaneous adventures await. Follow to be notified when the howl begins.
+Experience the Dragonwolf in action on **Dragonhowl Live**: [Watch the stream](//owncast.dragonwolfsp.com) — coding, gaming, music production, and spontaneous adventures await. Follow to be notified when the howl begins.
 
 ---
 
