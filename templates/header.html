@@ -13,11 +13,11 @@
 <a href="#main-content" class="skip-link">Skip to main content</a>
 {% if config.extra.header_nav %}
     {% for nav_item in config.extra.header_nav %}
+      <br/>
       <a href="{{ nav_item.url }}" {% if nav_item.url == current_url %}class="active"{% endif %}>
         {% set language_key = 'name_' ~ current_lang %}
         {{ nav_item[language_key] }}
-      </a>
-      <br>|</br>
+      </a>|
     {% endfor %}
 {% endif %}
 </nav>
