@@ -15,7 +15,7 @@ const updateTheme = (isDarkMode) => {
     document.documentElement.setAttribute('data-theme', theme);
     updateThemeIcon(isDarkMode);
     const labelText = isDarkMode ? 'Switch to light mode' : 'Switch to dark mode';
-    toggleButton.setAttribute('aria-label', labelText);
+    //toggleButton.setAttribute('aria-label', labelText);
     themeIcon.setAttribute('aria-label', labelText);
 };
 
