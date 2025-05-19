@@ -10,7 +10,7 @@
         document.getElementById('location').innerText = `the mists`;
         const weatherData = await fetchWeatherData();
         if (weatherData) {
-            const { weatherDescription, tempC, tempF, city, state, country, moonPhase, ip} = weatherData;
+            const { weatherDescription, tempC, tempF, city, state, country, moonPhase} = weatherData;
 
             // Define messages for each moon phase
             let moonMessage;
