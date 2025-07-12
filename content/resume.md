@@ -5,6 +5,7 @@ title = "The Dragonwolf's Skillset"
 
 # Ethan Jones
 📞 +1 (763) 220-0559
+
 📧 contact@dragonwolfsp.com
 
 ---
