@@ -23,6 +23,7 @@ If you’re curious about what I’m building or want to explore the tools and s
 Step into the heart of the shadows and join the conversations:
 - **Telegram Group**: [Shadowmoon Reach](https://t.me/shadowmoonreach) — A place to connect, share, and discuss with fellow wanderers.
 - **Discord Server**: [Shadowscale Spire](https://discord.gg/v6zt72RNxA) — The citadel where kindred spirits gather.
+- **Matrix**: @dragonwolfsp:matrix.org — Another path through the Everdark, where I can be found beyond the walled gardens.
 
 ---
 
