@@ -2,10 +2,30 @@
 title = "who is the Dragonwolf of the Shadow Pride?"
 +++
 
-Ethan Jones, known as the Dragonwolf of the Shadow Pride, is a creator who walks the line between worlds. A coder, musician, and dreamer, he brings together the sharp intellect of the wolf and the fierce imagination of the dragon, forging ideas in the fires of passion and shaping them with precision and care.  
+# Who is the Dragonwolf of the Shadow Pride?
 
-In the realm of software, he crafts tools that empower and innovate, whether building accessible game engines or weaving logic into the intricate dance of commands. A guardian of balance, he values privacy and individuality, creating spaces where creativity and security coexist.  
+I am **Ethan Jones**, though I carry many names: the **Dragonwolf of the Shadow Pride**, **Hundra Wilblade**, **Silver Wolf of Coltonn**, **Guardian of Azcarr**, and **Shade of Valshear**. These are not just titles. They are facets of me, bound to the wolf, dragon, lion, and shadow that shape my spirit.
 
-Beyond the lines of code, Ethan delves into the fantastical. A lover of stories, he draws inspiration from dragons, wolves, shadows, lions, and the ever-shifting tides of imagination. In his creative pursuits—be it music, writing, or collaboration—he channels the spirit of his chosen name, forging connections that linger like echoes in the void.  
+I am both **furry** and **therian(ΘΔ)**. For me, that means more than fandom or interest; it means identity. The instincts of the wolf, the fire of the dragon, the courage of the lion, and the depth of the shadow are threads woven into my life.
 
-But who is he, truly? The answer lies not in the words you read, but in the spaces between them—the whispers of fire and shadow, of worlds yet unseen, of a presence felt even when unseen. Ethan is a guardian of the balance, a seeker of truth, and a voice for those who walk paths less traveled.
+By trade and passion, I am a **developer and builder**. I craft software, design homelabs, and manage self-hosted systems where privacy and individuality come first. To me, technology should serve balance — empowering its users while respecting freedom.
+
+Beyond code, I am a **creator of worlds**. I compose music, write lyrics and stories, and step into voices as an actor, shaping characters that linger in memory. In every note, word, and performance, I strive to carry the same essence that defines me: fire, shadow, instinct, and imagination.
+
+I am also a **mid-level hockey player** and a **martial artist**, finding strength and clarity in movement, discipline, and competition. These pursuits sharpen not only body but also mind and spirit.
+
+I stand as a guardian of balance and a dreamer between realms, not only in what I make, but in who I am.
+
+---
+
+## Furcode 
+
+legacy:
+```
+FXhwmp2arsw A-- C- D H++ M- P+ R T+++ W Z- Sm# RLCT* a- cblmn++ d e f++ h# iw+++ j! p- sm!
+```
+
+new(V2.0):
+```
+FDDhmpw3arsw/FCWhmp/FFLhmp/F[Kitsune]dhmp A-- C- D H+ M++ P++ R T+++ V-- W RLCT^ a- c+++blmw e+ f++ g h# i+++w j-- m+++ai p- a18 Smb sm
+```
