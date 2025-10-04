@@ -1,7 +1,7 @@
----
++++
 title = "Rise of the Dragonwolf"
 date = 2025-10-04
----
++++
 
 There are defining moments in my life. Moments that strike deep and leave echoes in my mind. Those thoughts turn into understanding, and understanding sharpens into experience. Those experiences lay the foundation of who I am.  One part of me was shaped in very specific moments, carved out of time itself. That is the Dragonwolf of the Shadow Pride. His roots stretch far back in my life, but his true inception was marked by several distinct moments, each a spark to his flame. Every spark lit a different part of me, wolf, dragon, shadow, and lion. Together they shaped me. To tell that story, I must tell theirs, beginning with the wolf.
 
