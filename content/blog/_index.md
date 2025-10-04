@@ -11,3 +11,5 @@ Welcome to **Tales from the Shadow Pride**, where thoughts prowl and ideas take 
 Here, you'll find guides forged through experience, insights into the shifting landscapes of tech, and musings on books that have left their mark upon me. But not all paths are charted—some posts will wander freely, following the call of inspiration wherever it may lead.  
 
 Step into the den, and explore the echoes of my journey.
+
+[Subscribe via RSS](https://dragonwolfsp.com/blog/rss.xml)
