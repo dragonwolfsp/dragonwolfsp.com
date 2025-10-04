@@ -2,8 +2,6 @@
 title = "who is the Dragonwolf of the Shadow Pride?"
 +++
 
-# Who is the Dragonwolf of the Shadow Pride?
-
 I am **Ethan Jones**, though I carry many names: the **Dragonwolf of the Shadow Pride**, **Hundra Wilblade**, **Silver Wolf of Coltonn**, **Guardian of Azcarr**, and **Shade of Valshear**. These are not just titles. They are facets of me, bound to the wolf, dragon, lion, and shadow that shape my spirit.
 
 I am both **furry** and **therian(ΘΔ)**. For me, that means more than fandom or interest; it means identity. The instincts of the wolf, the fire of the dragon, the courage of the lion, and the depth of the shadow are threads woven into my life.
