@@ -1,0 +1,28 @@
+{% set path = src %}
+{% set ext = path | split(pat=".") | last %}
+
+{% set mime = "" %}
+{% if ext == "mp3" %}
+	{% set mime = "audio/mpeg" %}
+{% elif ext == "ogg" %}
+	{% set mime = "audio/ogg" %}
+{% elif ext == "wav" %}
+	{% set mime = "audio/wav" %}
+{% elif ext == "flac" %}
+	{% set mime = "audio/flac" %}
+{% else %}
+	{% set mime = "application/octet-stream" %}
+{% endif %}
+
+<div class="audio-player" style="margin: 1rem 0;">
+	<audio controls preload="metadata" style="width: 100%; max-width: 100%;">
+		<source src="{{ src | safe }}" type="{{ mime }}">
+		Your browser does not support the audio element.
+	</audio>
+
+	{% if title %}
+		<div class="audio-title" style="margin-top: .5rem; font-weight: 600;">
+			{{ title }}
+		</div>
+	{% endif %}
+</div>
