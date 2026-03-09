@@ -2,7 +2,7 @@
 title = "Tales from the Shadow Pride"
 paginate_by = 15
 sort_by = "date"
-page_template = "blog-page.html"
+
 generate_feeds = true
 +++
 
