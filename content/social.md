@@ -12,6 +12,16 @@ For the latest news, insights, and discoveries, join my **Telegram Channel**: [@
 
 ---
 
+## ❓ Ask the Dragonwolf
+
+If you have a question, a curious thought, or a mystery you’d like to cast into the dark, you can send it directly to me through my **Ask page**.
+
+No account is required, and if you prefer to remain unseen, you may ask **anonymously**. Whether your question is about technology, stories, philosophy, or the strange corners of the world, the Dragonwolf listens.
+
+- **Ask a Question**: [Ask the Dragonwolf](//ask.dragonwolfsp.com)
+
+---
+
 ## 🔧 Projects and Creations
 If you’re curious about what I’m building or want to explore the tools and software I’ve crafted, head to:
 - **GitHub**: [DragonwolfSP](https://github.com/dragonwolfsp)
