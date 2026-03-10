@@ -2,11 +2,11 @@
 title = "Wolves and Wonders"
 +++
 
-Welcome to the crossroads where ingenuity meets imagination—a realm of Wolves and Wonders. Here, in the heart of the den, you’ll find the creations that shape my journey: tools forged in the fires of innovation and projects that howl with purpose.  
+Welcome to the crossroads where ingenuity meets imagination—a realm of Wolves and Wonders. Here, in the heart of the den, you’ll find the creations that shape our journey: tools forged in the fires of innovation and projects that howl with purpose.  
 
 Each endeavor is a testament to the balance I guard, blending the ferocity of the wolf, the pride of the lion, and the unyielding drive of the dragon. These are not just projects; they are pieces of the story I’m weaving, one step closer to the wonders yet to come.  
 
-Explore the paths below and discover the heart of my craft.
+Explore the paths below and discover the heart of our craft.
 
 
 {% project(name="Git Syncer", url = "https://github.com/dragonwolfsp/git-cyncer", summary = "Keep a directory in sync with a git repo.") %}
@@ -32,7 +32,7 @@ This small Python script lets you receive notifications from the [ntfy](https://
 {% end %}
 
 {% project(name="Dot Files", url = "https://github.com/dragonwolfsp/dotfiles", summary = "Configure your system just like me.") %}
-These are my configuration files (often called dotfiles) for most of the programs I use. They are set up for deployment with [chezmoi](https://chezmoi.io/), allowing you to replicate my configuration with minimal effort.
+These are our configuration files (often called dotfiles) for most of the programs we use. They are set up for deployment with [chezmoi](https://chezmoi.io/), allowing you to replicate our configuration with minimal effort.
 {% end %}
 
 
