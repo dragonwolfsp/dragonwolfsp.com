@@ -6,18 +6,12 @@ Behind every great creation lies a network of support, inspiration, and tools. T
 
 ## Special Thanks  
 
-### 🛡️ Cloudflare  
-First and foremost, my gratitude goes to [Cloudflare](https://www.cloudflare.com) for the domain that brought you here. Without their services, dragonwolfsp.com wouldn't exist, and you'd be stuck typing something cryptic like `192.32.47.4` just to visit this site. Thank you, Cloudflare, for making this dream a reality.  
-
-### 🐤 DuckDNS  
-A shout-out to [DuckDNS](https://duckdns.org), my original domain host, for providing me with the domain blind-electron.duckdns.org. This humble subdomain kept my website alive and well before I transitioned to Cloudflare. Thank you for being a reliable stepping stone on this journey.  
-
 ### 🐧 Daniel Nash and Patrick Wilson  
-A heartfelt thank-you to [Daniel Nash](https://nashcentral.duckdns.org) and [Patrick Wilson](https://braillescreen.net) for guiding me through the depths of Linux. Your patience and expertise were invaluable as I found my footing in the world of open-source and command lines.  
+A heartfelt thank-you to [Daniel Nash](//nash-central.com) and [Patrick Wilson](//braillescreen.net) for guiding us through the depths of Linux. Your patience and expertise were invaluable as we found our footing in the world of open-source and command lines.  
 
 ### 🌊 Zola and Speyll  
-To the creators of [Zola](https://getzola.org), the incredible static site generator powering this website—thank you for making site-building such an enjoyable process.  
-A special thanks to **Speyll** for the stunning [Anemone theme](https://github.com/Speyll/anemone) that brought this site to life. Your design expertise is deeply appreciated.  
+To the creators of [Zola](//getzola.org), the incredible static site generator powering this website—thank you for making site-building such an enjoyable process.  
+A special thanks to **Speyll** for the stunning [Anemone theme](//github.com/Speyll/anemone) that brought this site to life. Your design expertise is deeply appreciated.  
 
 ---  
 
