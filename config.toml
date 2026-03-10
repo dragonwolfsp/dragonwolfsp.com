@@ -22,6 +22,7 @@ header_nav = [
     { url = "/projects", name_en = "projects" },
         { url = "/resume", name_en = "resume"},
     { url = "/blog", name_en = "blog" },
+    { url = "/buttons", name_en = "buttons" },
     { url = "/social", name_en = "social media" },
     { url = "/about", name_en = "about" },
     { url = "/credits", name_en = "credits" }
