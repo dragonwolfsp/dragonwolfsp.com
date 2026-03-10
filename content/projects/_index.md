@@ -36,10 +36,6 @@ These are our configuration files (often called dotfiles) for most of the progra
 {% end %}
 
 
-{% project(name="Sound Schemes", url = "/projects/soundschemes", summary = "Immerse yourself in a world where sound resonates with your soul.") %}
-Explore a collection of carefully crafted sound schemes designed to enhance your auditory experience. From subtle tones to dynamic soundscapes, these schemes are meant to create an atmosphere that aligns with your environment and mood.
-{% end %}
-
 {% project(name="Dwcom", url = "https://github.com/dragonwolfsp/dwcom", summary = "A flexable event distribution plugin for TTCom.") %}
 **dwcom** is a plugin for the [TeamTalk Commander](https://dlee.org/teamtalk/ttcom) that enables the distribution of events through sounds, speech, notifications, and logs.
 {% end %}

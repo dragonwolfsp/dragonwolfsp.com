@@ -20,7 +20,8 @@ twitter_card = false
 header_nav = [
     { url = "/", name_en = "home" },
     { url = "/projects", name_en = "projects" },
-        { url = "/resume", name_en = "resume"},
+    { url = "/soundschemes", name_en = "sound schemes" },
+    { url = "/resume", name_en = "resume"},
     { url = "/blog", name_en = "blog" },
     { url = "/buttons", name_en = "buttons" },
     { url = "/social", name_en = "social media" },
