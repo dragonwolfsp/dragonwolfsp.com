@@ -19,7 +19,7 @@ render_emoji = true
 twitter_card = false
 header_nav = [
     { url = "/", name_en = "home" },
-    { url = "/projects", name_en = "projects" },
+    { url = "/software", name_en = "software" },
     { url = "/soundschemes", name_en = "sound schemes" },
     { url = "/resume", name_en = "resume"},
     { url = "/blog", name_en = "blog" },
