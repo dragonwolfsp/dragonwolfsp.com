@@ -21,11 +21,13 @@ header_nav = [
     { url = "/", name_en = "home" },
     { url = "/software", name_en = "software" },
     { url = "/soundschemes", name_en = "sound schemes" },
+    { url = "/services", name_en = "services" },
     { url = "/resume", name_en = "resume"},
     { url = "/blog", name_en = "blog" },
     { url = "/buttons", name_en = "buttons" },
     { url = "/social", name_en = "social media" },
     { url = "/about", name_en = "about" },
+    { url = "//status.dragonwolfsp.com", name_en = "status" },
     { url = "/credits", name_en = "credits" }
 ]
 footer_content_license = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International"
