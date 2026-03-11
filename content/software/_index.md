@@ -4,7 +4,7 @@ title = "Wolves and Wonders"
 
 Welcome to the crossroads where ingenuity meets imagination—a realm of Wolves and Wonders. Here, in the heart of the den, you’ll find the creations that shape our journey: tools forged in the fires of innovation and projects that howl with purpose.  
 
-Each endeavor is a testament to the balance I guard, blending the ferocity of the wolf, the pride of the lion, and the unyielding drive of the dragon. These are not just projects; they are pieces of the story I’m weaving, one step closer to the wonders yet to come.  
+Each endeavor is a testament to the balance we guard, blending the ferocity of the wolf, the pride of the lion, and the unyielding drive of the dragon. These are not just projects; they are pieces of the story we're weaving, one step closer to the wonders yet to come.  
 
 Explore the paths below and discover the heart of our craft.
 
