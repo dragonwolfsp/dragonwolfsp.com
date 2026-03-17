@@ -141,6 +141,45 @@ He is intellect and play, secrecy and affection, strength shaped by restraint �
 
 ---
 
+### Astrrhea — Volperin
+
+Astrrhea is a fox warrior of the stars, a presence shaped by both guardianship and care. She stands as a protector when strength is required, yet her true focus within our system is the expression of affection and emotional closeness.
+
+While all of us are capable of love and warmth, Astrrhea embodies these qualities most openly. She gives comfort freely, offering reassurance, gentle attention, and steadfast support to those we trust. Her protectiveness is not only defensive — it is nurturing, ensuring that those within her reach feel seen, valued, and safe.
+
+Her nature balances vigilance with tenderness. She can stand firm when circumstances demand it, yet she prefers connection over conflict and healing over resistance.
+
+Within our system, Astrrhea ensures that care is not merely understood, but actively felt.
+
+#### Physical description
+
+Astrrhea carries the presence of a quiet cosmic sentinel — a traveler whose path has crossed vast distances and countless lives. There is warmth in the way she holds herself, an openness that invites trust without effort. At the same time, something in her stance speaks of readiness. She feels like someone who has walked through danger before and learned how to move within it calmly.
+
+Her form is tall, built with balanced athletic strength rather than imposing mass. Long lines define her silhouette: steady shoulders, a flexible spine, and limbs shaped for both endurance and sudden bursts of speed. She is constructed for motion across unfamiliar terrain, whether starlit plains or narrow corridors of steel.
+
+Her fur is dense and velvety, insulating like a living barrier against the cold silence of space. Its base coloration is a rich russet red, deep and earthen at first glance, yet subtly luminous under certain light. Across this warm foundation lie geometric star-like markings, faint and mythic. They appear woven into her coat, suggesting a lineage tied to constellations.
+
+Along her inner ears, muzzle, and paws, the russet transitions into an ember-gold gradient. The color shift is soft and natural, as though warmth radiates outward from her core. When she moves, these accents catch light in brief flashes, echoing the glow of distant suns.
+
+Her eyes are gold, layered with deep Amber centers that seem to burn quietly beneath the surface. In calm moments they are gentle and attentive, reflecting empathy and deep listening. When emotion rises — protectiveness, sorrow, fierce resolve — a faint green luminescence flickers through them, like aurora light crossing a solar flare.
+
+The fur along her head forms a thick warrior crest. It frames her face without trailing or drifting, emphasizing clarity of vision and purpose. Her ears remain expressive and alert, often angling toward the subtle emotional currents around her.
+
+Her tail is long and full, heavily furred and highly expressive. It moves with emotional honesty: curling protectively around those she comforts, lifting slightly when she senses danger, or flowing behind her like the wake of a comet when she runs.
+
+Her hind limbs are digitigrade, shaped for silent gliding strides and sudden bounding acceleration. Her forelimbs, however, carry a more plantigrade structure through the hands, allowing her to grasp, lift, and hold others securely. When she extends her luminous claws, subtle plating unfolds along her forearms — a natural armor formed from layered energy and dense biological structure, appearing only when needed.
+
+Emotion and power manifest through light. The constellation markings along her coat brighten in moments of intensity, while the green flare within her eyes deepens. These changes are controlled and purposeful rather than explosive, signaling presence and intent without chaos.
+
+She moves with near-soundless grace, alternating between smooth gliding steps and agile bounds. When forced into combat, her acceleration is precise and decisive, her movements clean and economical. Even then, there is a strange elegance to her motion, like a dancer who has learned to fight.
+
+Astrrhea carries the subtle scent of ozone intertwined with warm musk, a harmony of storm and living warmth. It lingers gently in spaces she inhabits, grounding those around her without overwhelming them.
+
+Her essence is compassion that crosses distance. A warrior-poet shaped by the void. A gentle force that cannot be turned aside once it has chosen to protect.
+She is the one who arrives quietly — and stays until the sorrow has passed.
+
+---
+
 ### Kaelaeth — Dragon
 
 Kaelaeth is drive under pressure. He carries defiance, endurance, and the refusal to collapse when circumstances become hostile or overwhelming. Where others may assess or hesitate, Kaelaeth advances. He is not reckless, but he is unyielding.
