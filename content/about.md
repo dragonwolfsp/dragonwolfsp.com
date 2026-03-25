@@ -240,6 +240,46 @@ Snow and ember, held in balance.
 
 ---
 
+### Kairren — Coyote
+
+Kairren is mischief shaped into instinct and awareness. Where Arcanleof’s cleverness is deliberate and carefully constructed, Kairren’s emerges more abruptly — quick, reactive, and grounded in intuition. His humor is sharper, his tricks more immediate, yet never careless toward those he considers his own.
+
+Though he carries the nature of a trickster, his mischief is rarely without purpose. Kairren plays games, creates distractions, and weaves small deceptions not for chaos alone, but to protect those he loves. His tricks often serve as shields — redirecting attention, confusing threats, or quietly guiding situations away from danger.
+
+He is deeply tied to the natural world around him. Kairren observes like a creature of open wilderness, attentive to subtle shifts and quiet movements others might miss. He watches more than he speaks, and he understands far more than he openly reveals.
+
+His presence is alert and adaptable, equally comfortable in stillness or sudden motion. When he acts, it is often swift and unexpected, guided by instinct refined through careful observation.
+
+Within our system, Kairren serves as both watcher and trickster — using misdirection, intuition, and quiet awareness to keep those he cares for safe.
+
+#### Physical description
+
+Kairren carries the presence of a wild trickster softened by quiet awareness. There is something playful about him even in stillness, a barely restrained energy that suggests motion waiting to happen. Yet beneath that mischief lies watchfulness. He notices small things — shifts in tone, subtle movements, changes in atmosphere — and stores them away behind a knowing, almost private smile. His presence feels both unpredictable and quietly protective, like a creature of the wild who has chosen to linger near those he cares about.
+
+He is slightly larger than a typical coyote, with long limbs built for endurance and bounding motion. His frame is lean and rangy, shaped for distance rather than brute force. There is a natural fluidity to his build, a sense that he is always prepared to move — to slip between trees, crest a ridge, or vanish into brush with effortless grace.
+
+His fur is thick and layered, textured with the slightly rough, wind-touched feel of a creature deeply tied to open landscapes. It carries the sandy tones of desert earth, warm and natural, blending easily into dry grass and stone. Subtle reddish patterns thread through his coat, faint and irregular, like shifting shadows cast by sunset across uneven terrain. These markings are not symmetrical, giving him a slightly chaotic, organic appearance that suits his personality.
+
+His eyes are mismatched — one green, one gold. The green eye carries quiet curiosity, sharp and perceptive, always watching. The gold eye holds warmth and playful intelligence, glinting with mischief even in calm moments. When he grows particularly amused or intrigued, both eyes catch light differently, creating a shifting expression that makes it difficult to tell exactly what he is thinking.
+
+His ears are large and expressive, tipped with faint tufts of fur that move with every subtle shift in attention. They angle constantly, responding to sounds and emotions alike, reinforcing the sense that very little escapes his notice.
+
+His tail is long and slightly scruffy, dark-tipped and highly expressive. It flicks, sways, and curls with his mood — bristling slightly when excitement rises, loosening when relaxed, and swaying lazily when he is simply observing. Even when standing still, his tail often moves faintly, betraying the restless energy beneath his calm exterior.
+
+Kairren moves lightly and almost silently, his gait casual but never careless. He wanders with an easy, relaxed stride, though bursts of sudden movement come without warning — a quick dash, a bounding leap, or a sharp turn that seems to follow instinct more than deliberate planning. His motion often feels playful, unpredictable, and fluid, like wind shifting direction without explanation.
+
+When emotion rises — especially mischief or curiosity — his fur subtly ruffles as though touched by a passing breeze. His eyes glint sharply, and his tail becomes more animated, flicking and curling in expressive patterns. The effect is subtle but noticeable, a quiet signal that something playful or unexpected may be about to unfold.
+
+He carries the scent of pine and wild brush, grounding and natural, like open woodland after wind has moved through it.
+
+Kairren embodies the watcher who knows more than he lets on. He is playful, chaotic, and curious, yet deeply tied to the natural world and quietly loyal to those he claims as his own. He observes, learns, and waits — and when he acts, it is often with a grin and a flash of unexpected cleverness.
+
+He is the rustle in tall grass. The flash of movement at the edge of vision.
+
+The playful trickster who sees far more than he ever admits.
+
+---
+
 ### Luminoct — Wolf
 
 Luminoct is our system’s stabilizer and anchor. He governs instinct, loyalty, and long-term cohesion. His attention is outward-facing: evaluating trust, tracking social terrain, and maintaining the integrity of the “pack,” however, that manifests in context.
