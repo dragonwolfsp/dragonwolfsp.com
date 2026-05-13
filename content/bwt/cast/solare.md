@@ -22,4 +22,4 @@ When relaxed, she can sound almost playful or teasing. Under pressure, that comp
 
 ## Audio Reference
 
-{{ audio(src="./audio/solare_ref.mp3", title="Solare Reference") }}
+{{ audio(src="/bwt/audio/solare_ref.mp3", title="Solare Reference") }}

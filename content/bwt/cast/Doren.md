@@ -22,4 +22,4 @@ There is a controlled intensity beneath his calm. When pushed into combat or pro
 
 ## Audio Reference
 
-{{ audio(src="./audio/doren_ref.mp3", title="Doren Blackwood Reference") }}
+{{ audio(src="/bwt/audio/doren_ref.mp3", title="Doren Blackwood Reference") }}

@@ -22,4 +22,4 @@ There is compassion beneath his restraint, but also profound weariness. He speak
 
 ## Audio Reference
 
-{{ audio(src="./audio/yanlyn_ref.mp3", title="Yanlyn Reference") }}
+{{ audio(src="/bwt/audio/yanlyn_ref.mp3", title="Yanlyn Reference") }}

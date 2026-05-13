@@ -22,4 +22,4 @@ There should still be traces of the person he once was—humor, compassion, prot
 
 ## Audio Reference
 
-{{ audio(src="./audio/clint_ref.mp3", title="Clint of Valshearr Reference") }}
+{{ audio(src="/bwt/audio/clint_ref.mp3", title="Clint of Valshearr Reference") }}

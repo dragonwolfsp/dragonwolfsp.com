@@ -22,4 +22,4 @@ He is not openly cruel, but there is hardness in him shaped by duty, fear, and r
 
 ## Audio Reference
 
-{{ audio(src="./audio/goreth_ref.mp3", title="Goreth Reference") }}
+{{ audio(src="/bwt/audio/goreth_ref.mp3", title="Goreth Reference") }}

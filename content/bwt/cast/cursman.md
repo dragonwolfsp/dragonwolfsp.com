@@ -22,4 +22,4 @@ There is strength in his delivery, but also restraint. He should sound like some
 
 ## Audio Reference
 
-{{ audio(src="./audio/cursman_ref.mp3", title="Cursman Blackflame Reference") }}
+{{ audio(src="/bwt/audio/cursman_ref.mp3", title="Cursman Blackflame Reference") }}

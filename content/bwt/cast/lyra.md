@@ -22,4 +22,4 @@ She is not a warrior by nature, so moments of aggression should feel learned, no
 
 ## Audio Reference
 
-{{ audio(src="./audio/lyra_ref.mp3", title="Lyra Blackwood Reference") }}
+{{ audio(src="/bwt/audio/lyra_ref.mp3", title="Lyra Blackwood Reference") }}

@@ -25,4 +25,4 @@ Despite her gentler presence, she is not fragile. Under pressure, her tone sharp
 
 ## Audio Reference
 
-{{ audio(src="./audio/mira_ref.mp3", title="Mira Reference") }}
+{{ audio(src="/bwt/audio/mira_ref.mp3", title="Mira Reference") }}

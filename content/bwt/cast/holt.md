@@ -22,4 +22,4 @@ When challenged, his tone becomes sharper and more forceful, but not chaotic. Ev
 
 ## Audio Reference
 
-{{ audio(src="./audio/holt_ref.mp3", title="Captain Garic Holt Reference") }}
+{{ audio(src="/bwt/audio/holt_ref.mp3", title="Captain Garic Holt Reference") }}
