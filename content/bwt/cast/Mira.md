@@ -25,7 +25,7 @@ Despite her gentler presence, she is not fragile. Under pressure, her tone sharp
 
 ### additional notes
 
-* If you wish to play Cursman, some singing talent is required. You need not be a professional leval singer, but you do need to be able to sing on more than just a basic levle.
+* If you wish to play Mira, some singing talent is required. You need not be a professional leval singer, but you do need to be able to sing on more than just a basic levle.
 
 * Some intimate seens between Mira and Cursman may occur. If you are not comfortable with this, please refrane from auditioning for this charactar.
 
