@@ -78,6 +78,12 @@ She struggles with guilt and responsibility, often placing the burden of others�
 
 ---
 
+### [Fin](./cast/fin)
+
+A young werewolf who became Solare’s first true companion after losing his pack to a disaster they refused to flee from. Loyal, resilient, and fiercely protective, Fin throws himself fully behind the people he trusts, even when fear or grief cloud his judgment. Though impulsive and quick to assume the worst, he carries a deep emotional sincerity beneath his rough edges, and his bond with Solare remains one of the strongest connections in his life.
+
+---
+
 ### [Captain Garic Holt](./cast/holt)
 
 A ruthless officer of the king's guard who values order and authority above compassion. Holt believes strength and obedience are the foundation of civilization, making him a dangerous enemy to anyone who threatens the kingdom's control. Cold, ambitious, and unforgiving, he serves as one of the first major obstacles standing in the protagonists' path.
@@ -161,3 +167,35 @@ The tyrannical ruler of Terinia, wielding absolute political authority over the 
 ### [Admiral Chuvvar](./cast/chuvvar)
 
 A high-ranking Coalition admiral operating within the broader galactic military structure. Chuvvar is pragmatic, aggressive, and openly contemptuous of species she considers weaker or inferior. She enforces Coalition expansion policies with efficiency, treating resistance as an obstacle to be removed rather than negotiated with. While disciplined in command, her worldview is explicitly hierarchical, and she sees subjugation as both justified and inevitable under Coalition doctrine. Her loyalty lies with strength, control, and dominance.
+
+---
+
+### [Jason Quanzza](./cast/jason)
+
+A half-giant traveler who has walked across countless worlds, though he still considers Terinia the only place truly worthy of being called home. Calm under pressure and deeply compassionate, Jason carries a quiet warmth that puts others at ease, especially those who feel isolated or unwanted. Rejected by the giant tribe he was born into because of his human blood, he now dedicates himself to ensuring others never face that loneliness alone. Wise, steady, and emotionally grounded, he eventually becomes an important figure within the resistance opposing the forces tightening their grip on Terinia and the wider univerce.
+
+---
+
+### [Isaac Ren](./cast/isaac)
+
+A brilliant but dangerously unconventional engineer working with the galactic resistance. Specializing in artificial intelligence and biotechnology, Isaac has heavily modified his own body with experimental cybernetic and biological systems that allow him to interface directly with technology and weaponize electricity itself. Cynical, sharp-witted, and slightly unstable in the eyes of many, he nevertheless remains deeply committed to fighting the systems that exploit and control others.
+
+---
+
+### [Sora](./cast/sora)
+
+A hellhound taken from Terinia and weaponized by the Coalition as a living execution tool before being freed by Isaac Ren during his escape from a Coalition prison. Fierce, intimidating, and deeply protective, Sora carries the instincts of a predator shaped by years of abuse and control. Despite her terrifying reputation, she possesses a surprisingly gentle side around those she trusts, especially Isaac and Enec. Now fighting alongside the resistance, she fiercely protects the few people she considers family.
+
+---
+
+### [Enec Blackwood](./cast/enec)
+
+An older cousin of the Blackwood siblings and one of the last surviving Coltonnions, a race known for their immense mental abilities and deeply disciplined warrior traditions. Compassionate, emotionally open, and quietly resilient, Enec carries the burden of preserving a nearly extinct culture while still believing it can one day live again. After being imprisoned by the Coalition alongside Isaac Ren, he helped free Sora from the role of mindless execution beast the Coalition forced upon her, forming a close bond with both of them in the process. Though powerful in both mind and spirit, Enec approaches others with understanding rather than superiority, offering support through action, guidance, and genuine connection instead of pity.
+
+---
+
+### [The Crimson Den](./cast/den)
+
+A living Vulperin vessel of ancient origin and the command ship of Rheea Saffron. The Crimson Den is not merely a craft but a sentient presence, capable of thought, emotion, and deep attachment to her crew. Protective, perceptive, and quietly compassionate, she treats those aboard as her responsibility and her family, often expressing concern in ways that feel both alien and deeply personal.
+
+Once partially bound by Coalition-imposed protocols, she initially operates under rigid constraints of control and compliance. After being freed and “reset” through Rheea and Ortaiga’s actions, she begins to fully express her true nature—becoming an active, caring participant in the lives of her crew rather than a restricted instrument of war.
