@@ -20,6 +20,12 @@ When relaxed, she can sound almost playful or teasing. Under pressure, that comp
 
 ---
 
+### additional notes
+
+* Some intimate seens between Solare, Rheea  and Ortaiga may occur. If you are not comfortable with this, please refrane from auditioning for this charactar.
+
+---
+
 ## Audio Reference
 
 {{ audio(src="/bwt/cast/audio/solare_ref.mp3", title="Solare Reference") }}

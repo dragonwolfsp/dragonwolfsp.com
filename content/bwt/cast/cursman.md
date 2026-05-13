@@ -20,6 +20,15 @@ There is strength in his delivery, but also restraint. He should sound like some
 
 ---
 
+
+### additional notes
+
+* If you wish to play Cursman, some singing talent is required. You need not be a professional leval singer, but you do need to be able to sing on more than just a basic levle.
+
+* Some intimate seens between Cursman and Mira may occur. If you are not comfortable with this, please refrane from auditioning for this charactar.
+
+---
+
 ## Audio Reference
 
 {{ audio(src="/bwt/cast/audio/cursman_ref.mp3", title="Cursman Blackflame Reference") }}

@@ -22,6 +22,12 @@ When she cares, it is absolute. That care should be audible even when she tries 
 
 ---
 
+### additional notes
+
+* Some intimate seens between Rheea, Solare and Ortaiga may occur. If you are not comfortable with this, please refrane from auditioning for this charactar.
+
+---
+
 ## Audio Reference
 
 {{ audio(src="/bwt/cast/audio/rheea_ref.mp3", title="Rheea Saffron Reference") }}
