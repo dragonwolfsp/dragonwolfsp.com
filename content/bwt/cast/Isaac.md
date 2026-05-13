@@ -24,4 +24,4 @@ He has the demeanor of someone who has survived too much to romanticize the worl
 
 ## Audio Reference
 
-{{ audio(src="/bwt/cast/audio/isaa_ref.mp3", title="Isaac Ren Reference") }}
+{{ audio(src="/bwt/cast/audio/isaac_ref.mp3", title="Isaac Ren Reference") }}
