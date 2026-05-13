@@ -22,4 +22,4 @@ When speaking to others, she often comes across as direct and slightly intimidat
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/surren_ref.mp3", title="Surren Reference") }}
+{{ audio(src="/bwt/cast/audio/surren_ref.mp3", title="Surren Reference") }}

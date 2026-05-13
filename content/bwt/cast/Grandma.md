@@ -22,4 +22,4 @@ She speaks with intention and clarity, often pausing naturally as though allowin
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/grandma_ref.mp3", title="Grandmother Blackwood Reference") }}
+{{ audio(src="/bwt/cast/audio/grandma_ref.mp3", title="Grandmother Blackwood Reference") }}

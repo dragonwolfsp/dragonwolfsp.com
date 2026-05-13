@@ -22,4 +22,4 @@ She should sound like someone who has long since stopped debating morality and i
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/chuvvar_ref.mp3", title="Admiral Chuvvar Reference") }}
+{{ audio(src="/bwt/cast/audio/chuvvar_ref.mp3", title="Admiral Chuvvar Reference") }}

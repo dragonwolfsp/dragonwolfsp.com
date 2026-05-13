@@ -24,4 +24,4 @@ When she cares, it is absolute. That care should be audible even when she tries 
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/rheea_ref.mp3", title="Rheea Saffron Reference") }}
+{{ audio(src="/bwt/cast/audio/rheea_ref.mp3", title="Rheea Saffron Reference") }}

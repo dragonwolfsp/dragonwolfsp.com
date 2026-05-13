@@ -22,4 +22,4 @@ He is not warm in a conventional sense, but he is not hostile either. His tone i
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/gratolas_ref.mp3", title="Gratolas Reference") }}
+{{ audio(src="/bwt/cast/audio/gratolas_ref.mp3", title="Gratolas Reference") }}

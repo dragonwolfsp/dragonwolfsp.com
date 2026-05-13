@@ -22,4 +22,4 @@ Despite her analytical mind, she is not emotionally detached. There is a control
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/talla_ref.mp3", title="Talla Reference") }}
+{{ audio(src="/bwt/cast/audio/talla_ref.mp3", title="Talla Reference") }}

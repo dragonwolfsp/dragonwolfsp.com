@@ -22,4 +22,4 @@ He is not overly emotional in expression, but he is deeply caring. That care com
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/grant_ref.mp3", title="Grant Blackwood Reference") }}
+{{ audio(src="/bwt/cast/audio/grant_ref.mp3", title="Grant Blackwood Reference") }}

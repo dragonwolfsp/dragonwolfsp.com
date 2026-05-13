@@ -22,4 +22,4 @@ His voice should carry the sense of someone constantly thinking several steps ah
 
 ## Audio Reference
 
-{{ audio(src="/bwt/audio/jamarn_ref.mp3", title="Jamarn Reference") }}
+{{ audio(src="/bwt/cast/audio/jamarn_ref.mp3", title="Jamarn Reference") }}
