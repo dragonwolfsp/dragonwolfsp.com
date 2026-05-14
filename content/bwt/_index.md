@@ -32,6 +32,9 @@ Below you will find a brief description of each available character. Each charac
 
 If you are interested in auditioning, you can apply [here.](https://forms.dragonwolfsp.com/p/bwtcastsubmit)
 
+**Note:** The form requires that you submit an mp3 file. If you need to convert your recording to mp3 you can do so using [cloudconvert.com](https://cloudconvert.com)
+
+
 ---
 
 ## Available Characters
