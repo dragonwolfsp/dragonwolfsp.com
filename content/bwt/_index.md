@@ -67,9 +67,11 @@ Mysterious but not evasive, Gratolas is driven by a long-standing desire to see 
 
 ---
 
-### [Solare](./cast/solare)
+### Solare
 
 A mysterious Kitsune with a sharp tongue, dangerous intelligence, and far more secrets than she willingly admits. Elegant, manipulative, and emotionally guarded, Solare hides deep loneliness beneath humor and confidence. Despite her reputation, she has spent centuries trying to become something better than what the world expects her to be.
+
+**Cast as Lori Swayze (unavailable)**
 
 ---
 
@@ -81,9 +83,11 @@ She struggles with guilt and responsibility, often placing the burden of othersâ
 
 ---
 
-### [Fin](./cast/fin)
+### Fin
 
 A young werewolf who became Solareâ€™s first true companion after losing his pack to a disaster they refused to flee from. Loyal, resilient, and fiercely protective, Fin throws himself fully behind the people he trusts, even when fear or grief cloud his judgment. Though impulsive and quick to assume the worst, he carries a deep emotional sincerity beneath his rough edges, and his bond with Solare remains one of the strongest connections in his life.
+
+**Cast as Aria (unavailable)**
 
 ---
 
@@ -107,15 +111,19 @@ Though stern and deeply practical, her wisdom shaped the moral foundation of the
 
 ---
 
-### [Surren](./cast/surren)
+### Surren
 
 A Luperin warrior and one of Rheea's oldest companions. Towering, disciplined, and fiercely protective, Surren serves as both shield and moral anchor for her crew. Though intimidating at first glance, she values honesty, loyalty, and emotional strength above brute force, believing true leadership comes from accepting failure rather than denying it.
 
+**Cast as Alfa Ramirez (unavailable)**
+
 ---
 
-### [Mira](./cast/mira)
+### Mira
 
 A Vulperin navigator , assassin, and trusted member of Rheea's crew whose quiet emotional insight often steadies those around her. Gentle in demeanor but unwavering in conviction, Mira possesses a rare ability to see through fear and self-deception. Her loyalty to Rheea runs deep, making their separation far more painful than either wishes to admit.
+
+**Cast as Hannah C (unavailable)**
 
 ---
 
