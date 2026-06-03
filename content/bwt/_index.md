@@ -47,9 +47,11 @@ A young man born with magic considered weak and impractical by most of society. 
 
 ---
 
-### [Lyra Blackwood](./cast/lyra)
+### Lyra Blackwood
 
 A healer and hunter raised alongside her brothers in the forests of Terrinia. Compassionate but fierce when pushed, Lyra carries the burden of believing she must protect everyone around her, even when doing so tears her apart emotionally. Though not a traditional warrior, she is far from helpless.
+
+**Cast as Cat McGuire(unavailable)**
 
 ---
 
@@ -97,9 +99,11 @@ A ruthless officer of the king's guard who values order and authority above comp
 
 ---
 
-### [Grant Blackwood](./cast/grant)
+### grant Blackwood
 
 The late uncle of the Blackwood siblings, remembered through lessons, memories, and the impact he left behind. A survivalist, hunter, and mentor, Grant helped shape the values that continue to guide Ortaiga, Lyra, and Doren long after his death.
+
+**Cast as Ryan (unavailable)**
 
 ---
 
@@ -127,11 +131,13 @@ A Vulperin navigator , assassin, and trusted member of Rheea's crew whose quiet 
 
 ---
 
-### [Talla](./cast/talla)
+### Talla
 
 A Tokren engineer and the technical core of Rheea’s crew. Calm under pressure and highly intelligent, she specializes in repairing and building complex systems in extreme conditions.
 
 Talla is known for unconventional, often extreme solutions that most others would dismiss as impossible, yet which consistently work. Beneath her composed exterior lies a sharp, inventive mind with a quiet streak of chaotic creativity, always focused on keeping her crew alive.
+
+**Cast as Eunoia Sonders(unavailable)**
 
 ---
 
@@ -193,9 +199,11 @@ A brilliant but dangerously unconventional engineer working with the galactic re
 
 ---
 
-### [Sora](./cast/sora)
+### Sora
 
 A hellhound taken from Terinia and weaponized by the Coalition as a living execution tool before being freed by Isaac Ren during his escape from a Coalition prison. Fierce, intimidating, and deeply protective, Sora carries the instincts of a predator shaped by years of abuse and control. Despite her terrifying reputation, she possesses a surprisingly gentle side around those she trusts, especially Isaac and Enec. Now fighting alongside the resistance, she fiercely protects the few people she considers family.
+
+**Cast as Gwendolyn (unavailable)**
 
 ---
 
@@ -210,3 +218,4 @@ An older cousin of the Blackwood siblings and one of the last surviving Coltonni
 A living Vulperin vessel of ancient origin and the command ship of Rheea Saffron. The Crimson Den is not merely a craft but a sentient presence, capable of thought, emotion, and deep attachment to her crew. Protective, perceptive, and quietly compassionate, she treats those aboard as her responsibility and her family, often expressing concern in ways that feel both alien and deeply personal.
 
 Once partially bound by Coalition-imposed protocols, she initially operates under rigid constraints of control and compliance. After being freed and “reset” through Rheea and Ortaiga’s actions, she begins to fully express her true nature—becoming an active, caring participant in the lives of her crew rather than a restricted instrument of war.
+
