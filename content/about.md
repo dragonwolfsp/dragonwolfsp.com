@@ -606,6 +606,42 @@ Seravyn is not merely a dragon of mutable form. They are adaptability without lo
 
 ---
 
+### Sylveth — Jorōgumo
+
+Sylveth embodies patience, interconnectedness, and the quiet certainty that every life is part of something greater than itself. He rarely rushes to action, preferring first to observe, understand, and recognize the unseen threads that bind people, choices, and consequences together. His calm nature is not born from hesitation, but from confidence that wisdom comes from seeing the whole tapestry before altering a single thread.
+
+Though deeply tied to darkness, Sylveth does not view it as something to be feared. To him, darkness is a place of rest, reflection, and renewal—a space where endings quietly give rise to beginnings. This understanding shapes his connection to the cycle of life and death. He accepts both with equal reverence, recognizing that neither can exist without the other.
+
+Sylveth is gentle by nature, offering comfort with quiet presence more often than words. His compassion is steady rather than expressive, creating spaces where others feel safe simply because he is there. While capable of great strength and possessing the instincts of a formidable predator, he exercises remarkable restraint, believing that power serves life best when guided by patience and understanding.
+
+Within our system, Sylveth serves as a quiet keeper of perspective. He reminds us that every action sends ripples through countless unseen connections, and that growth often comes not from resisting change, but from understanding our place within it.
+
+#### Physical description
+
+Sylveth most often takes the form of a towering, semi-anthropomorphic Jorōgumo, his body blending the elegant proportions of a giant spider with the upright posture and expressive presence of a humanoid. Long-limbed and graceful, he possesses an understated strength that becomes evident only through movement. His build is lean rather than imposing, every line of his form shaped for balance, precision, and quiet endurance. Even standing still, he gives the impression of patient vigilance, as though he has all the time in the world to observe before acting.
+
+Much of Sylveth's body is covered in a soft layer of velvety fur. Its rich forest-brown coloration carries the warmth of ancient woodlands, giving him an unexpectedly gentle appearance despite his size. The fine hairs shimmer faintly in dim light, catching moonlight and shadow alike with a quiet luster. Across his body, delicate silver-gray markings weave through the fur alongside subtle moss-green accents, their shapes resembling intricate webs spun by nature itself. Upon closer inspection, these markings form elegant mandala-like patterns that seem almost intentionally woven into his coat, hinting at an ancient understanding of life's interconnectedness.
+
+His eight silver eyes rest within a calm, thoughtful face, each reflecting light with a gentle luminescence that becomes most apparent in darkness. Their glow carries a quiet serenity, allowing others to feel watched over rather than watched. Together they miss very little, yet their gaze is remarkably soft, conveying patience, compassion, and careful understanding. They are the eyes of one who has witnessed countless beginnings and endings, yet has never grown indifferent to either.
+
+Nestled beneath his expressive face are elegant ivory fangs touched with a subtle metallic sheen. They lend his gentle expression a quiet reminder of the predator that exists within every keeper of the natural cycle. Though capable of delivering potent venom, they never seem threatening in their resting state. Instead, they reflect the truth that gentleness and danger are not opposites, but parts of the same living whole.
+
+His pedipalps are covered in the same soft fur as the rest of his body and move with remarkable dexterity. They shift almost constantly in quiet expression, conveying warmth, curiosity, reassurance, or contemplation with subtle motions that often speak more clearly than words. When offering comfort, they are as gentle as careful hands, capable of reassuring touches that feel both delicate and deeply sincere.
+
+His long spider legs are powerful yet remarkably elegant, carrying him across almost any surface with effortless silence. Whether climbing sheer stone, weaving through branches, or crossing the forest floor, every movement is smooth and deliberate. Their joints are reinforced for strength without sacrificing grace, allowing bursts of astonishing speed when necessity demands it, though such displays remain rare. More often, his movements resemble a slow current flowing through the forest, quiet enough that one may only realize he has arrived after he is already beside them.
+
+Hidden beneath his abdomen are spinnerets capable of producing exceptionally strong silk, dark in color yet catching moonlight with a subtle sheen. His silk rarely serves as a hunting tool alone. Instead, he instinctively weaves organic, flowing structures that resemble roots, branches, and living vines more than geometric traps. These woven sanctuaries often become temporary shelters, resting places, or quiet spaces where others may find safety. They seem less like webs and more like physical expressions of care, each thread carefully placed with intention.
+
+When Sylveth moves, he embodies patient certainty. Every motion is measured, fluid, and nearly silent, flowing naturally from stillness into action without haste or hesitation. Despite his considerable size, he traverses both land and vertical surfaces with astonishing grace, his many limbs working together in perfect harmony. When speed becomes necessary, it arrives suddenly but never chaotically, each movement remaining purposeful and controlled.
+
+His emotions reveal themselves not through dramatic gestures but through subtle shifts. His pedipalps become more animated during conversation or moments of affection, while the intricate web-like markings upon his body brighten ever so slightly when strong feelings surface. Joy, sorrow, protectiveness, and contemplation all ripple gently across his form like vibrations carried through silk.
+
+His scent carries the quiet fragrance of moss-covered stone and fresh earth beneath fallen leaves, evoking cool forests after rain and the rich stillness of ancient places untouched by haste. It is grounding and familiar, lingering softly like the memory of a peaceful woodland path.
+
+Sylveth is not merely a great spider, nor simply a creature of darkness. He is the patient thread that binds endings to beginnings, the quiet weaver who understands that every life touches countless others before its journey continues. Within every web he spins lies the same quiet truth: nothing is ever truly separate, and every ending becomes the first thread of something yet to come.
+
+---
+
 ### Solaryn — Lion
 
 Solaryn is our system’s shield. He embodies vigilance, responsibility, and the willingness to stand between harm and those under our protection. His loyalty is deliberate and chosen, not automatic.
@@ -674,6 +710,48 @@ When Solmara moves, she embodies smooth, water-bound grace. Her motion is fluid 
 Her scent carries the clean presence of saltwater and sun-warmed sea air, with a faint undertone of tropical citrus. It is warm, coastal, and slightly bright, evoking open shores and sunlit tides.
 
 Solmara is not simply a seal of ocean and light; she is warmth carried through water, playful mischief shaped by tide and sun, and quiet strength that rises without warning when those she cares for are at risk.
+
+---
+
+### Symvara — Kitsune–Symbiote
+
+Symvara embodies chosen devotion, mutual sacrifice, and the quiet strength that grows from trust freely given. They were not born in the ordinary sense, but emerged when a kitsune and a symbiote each chose to give their life for the other. Rather than one surviving the other, both lives became something entirely new. That shared origin shapes every part of who they are.
+
+Because of this, Symvara forms bonds carefully and deliberately. Their trust is not given easily, nor is their affection scattered lightly. Yet once someone is welcomed into their heart, they love with unwavering loyalty and a willingness to give far more of themselves than most would ever ask. They understand sacrifice not as an abstract virtue, but as an act of love freely chosen.
+
+Despite this quiet depth, Symvara possesses a playful, mischievous streak. They delight in gentle teasing, unexpected affection, and finding small moments of joy with those they trust. Their humor is soft rather than chaotic, never seeking to embarrass or deceive, but simply to remind others that comfort and laughter often belong together.
+
+Their identity is naturally fluid. Sometimes they experience themselves more strongly as he, sometimes as she, and often simply as Symvara. This is not uncertainty but an expression of their nature—a single life woven from two beings whose perspectives remain forever intertwined.
+
+Within our system, Symvara reminds us that our greatest strength often comes through the bonds we choose. They embody the belief that true connection is not possession or dependence, but two lives walking forward together, each made stronger because the other is there.
+
+#### Physical description
+
+Symvara most often takes the form of a massive, anthropomorphic kitsune whose appearance reflects both the lives that came before and the new being born from their union. Broad-shouldered and powerfully built, they possess a frame designed as much for protection as for strength. Their body carries a natural grace despite its size, moving with an ease that makes their considerable mass seem almost weightless. Every aspect of their form feels built for sheltering others, whether through physical protection, gentle comfort, or simple presence.
+
+Their fur is exceptionally soft and dense, pure white across nearly their entire body. Around the neck, shoulders, and chest it grows longer and fuller, creating a thick mantle of warmth that softens their silhouette and emphasizes their nurturing nature. Along the limbs and torso the fur becomes smoother and more streamlined, allowing freedom of movement while still maintaining its luxurious texture. When Symvara moves, the fur ripples softly around them, giving the impression of flowing silk touched by a gentle breeze.
+
+Beneath this soft exterior lies a second layer of protection. Hidden under the fur are powerful midnight-black scales that cover much of their body. These scales are  thick, resilient, and protective, capable of turning aside harm that would threaten others. Though largely concealed beneath the fur, hints of their presence can often be seen where fur parts around joints, along the underside of the body, and around areas where the symbiote's influence becomes more apparent. In certain lighting, subtle silver highlights seem to dance across the white fur while faint rose-gold accents catch along the edges of scales and wings.
+
+The most striking feature of Symvara's form is their three fox-like heads. All three are similar in appearance, sharing the same white fur, luminous green eyes, and elegant features, though subtle differences in expression and coloration make each recognizable to those who know them well. Despite their separate movements and independent awareness of their surroundings, they are not separate minds. One consciousness guides all three, creating a unity that can feel almost uncanny to witness. At times one head naturally takes the lead in conversation while the others observe or support, yet all remain perfectly synchronized in purpose. When they speak together, their voices blend into a natural harmony that feels almost musical.
+
+Their eyes glow with a deep bioluminescent green, bright enough to be visible in darkness yet soft enough to remain welcoming rather than intimidating. Those eyes carry warmth, patience, and understanding, though they can become piercingly focused when protecting those under their care. Beneath expressive fox ears, their gaze often reveals far more emotion than words ever could.
+
+Crowning each head is a set of elegant horns that sweep smoothly backward. While sharing a common structure, each set bears subtle differences that make them uniquely their own. Delicate glowing veins and flowing symbiotic patterns travel through the horns, shifting and changing with emotion. When Symvara experiences powerful feelings, the horns seem to come alive with faint internal light, revealing the living bond woven into their very being.
+
+Extending from their back are a pair of enormous hybrid wings, combining the structure of feathers with the strength and flexibility of membranous wings. Flowing symbiotic patterns spread across the membranes, resembling living designs that shift and evolve over time. When folded, the wings rest protectively against their back. When spread, they create a silhouette both majestic and reassuring, capable of wrapping around others like a living shield.
+
+Running beneath the fur along their shoulders and spine lies another hidden feature: a series of retractable dragon-like spines. Normally concealed beneath thick fur, these structures emerge only when needed. Formed through the symbiote's influence, they resemble pale crystalline growths infused with a metallic sheen. Smaller frilled structures connect larger spines, creating a flowing line from the shoulders toward the base of the tail. Though capable of intimidation, they most often appear during moments of intense protectiveness rather than aggression.
+
+Behind them trail twelve long tails. At first glance they appear like unusually graceful fox tails, thickly furred and impossibly soft. Beneath the fur, however, each tail possesses a fully integrated tentacular structure that grants remarkable flexibility and dexterity. They move with extraordinary precision, capable of delicate manipulation, comforting embraces, or subtle gestures that communicate emotion as clearly as words. The tails are among the most visible expressions of the symbiote's presence, and faint shifting patterns sometimes travel beneath their fur like currents moving through water.
+
+When Symvara moves, they do so with smooth, deliberate grace. Their motions are fluid and quiet, each step measured yet natural. There is no wasted energy in the way they carry themselves. Even when moving quickly, their body seems to flow rather than run, transitioning seamlessly between stillness, motion, and sudden action when protection becomes necessary.
+
+The symbiote's influence remains present throughout their form, though rarely in obvious ways. It flows beneath the fur like living shadow, revealing itself through shifting patterns across scales, tails, wings, and spines. During strong emotion these patterns become more visible, moving like streams of living energy through their body. The effect never feels invasive or separate; it is simply another part of Symvara, inseparable from the being they have become.
+
+Their scent carries the warmth of soft fur and fresh moss, mingled with the subtle fragrance of night-blooming flowers. It is comforting and grounding, evoking quiet forests, safety, and the feeling of being welcomed without judgment.
+
+Symvara is not merely a kitsune bonded to a symbiote, nor a fusion of two lives that once stood apart. They are a new being entirely—devotion made tangible, sacrifice transformed into life, and the enduring proof that two souls can choose one another so completely that neither walks alone again.
 
 ---
 
