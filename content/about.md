@@ -606,6 +606,38 @@ Seravyn is not merely a dragon of mutable form. They are adaptability without lo
 
 ---
 
+### Sylvador — Chimera
+
+Sylvador embodies acceptance, belonging, and the quiet freedom of the wild. They view life through the perspective of nature itself, where existence is not something to be earned but simply acknowledged. To Sylvador, every living being has a place within the world, regardless of how unusual or different they may appear. This conviction gives them a deep empathy for those who feel isolated or misunderstood, while also making them quietly intolerant of prejudice and needless exclusion.
+
+Playful by nature, Sylvador delights in companionship and shared experiences, often expressing affection through gentle teasing, warm humor, and effortless physical closeness. Beneath that lighthearted spirit, however, lies a thoughtful observer who notices subtle changes in both people and their surroundings. They often recognize unspoken emotions before words are ever exchanged and instinctively seek to create spaces where others feel safe simply being themselves.
+
+Within our system, Sylvador reminds us that belonging is not granted by others, but is an inherent part of being alive. They encourage authenticity, celebrate individuality, and help ensure that compassion remains stronger than judgment.
+
+#### Physical description
+
+Sylvador is a large chimera whose unusual anatomy possesses a quiet, natural harmony. Their long, lithe body is supported by six powerful limbs, each ending in broad, plantigrade hands equally suited for walking, climbing, and delicate manipulation. Compact muscles flow smoothly beneath a luxuriously soft coat, giving them an appearance that is both athletic and inviting.  Every part of their form belongs exactly where it should, creating a presence that is unmistakably wild yet warmly welcoming.
+
+Covering nearly their entire body is a dense, layered coat of exceptionally soft charcoal fur. Across it flow subtle patterns that borrow from both wolf and lion while belonging fully to neither. Gentle gradients of darker and lighter tones weave naturally together, accompanied by pale markings across the chest, throat, and underside. Their twin tails darken toward the tips, where the fur parts naturally around the dexterous hands that form each tail's end. 
+
+Rising from their broad shoulders are two graceful necks. One bears the head of a male wolf, the other that of a lioness. They share a remarkable unity of expression, their emotions almost always mirrored across both faces. The wolf's golden-amber eyes are quietly playful and constantly observant, noticing subtle changes in both the world and those around them. Beside him, the lioness's softly luminous silver eyes carry a calm warmth that can quickly sharpen into unmistakable disapproval whenever cruelty or intolerance reveals itself. Together, they offer two perspectives held in perfect balance.
+
+Each head carries the ears natural to its own kind, both pairs remaining in constant, expressive motion. The wolf's ears pivot attentively toward distant sounds, while the lioness's respond more readily to the emotions unfolding nearby. Connecting the two necks is a thick mantle of flowing fur that forms a shared mane across their shoulders, lending the entire upper body a sense of unity while emphasizing the natural bond between both heads.
+
+Behind them trail two long, fully prehensile tails, each ending in a complete hand with soft padded palms, retractable claws, and extraordinary dexterity. The tails move almost continuously, often reaching for nearby branches, steadying their balance across difficult terrain, or quietly occupying themselves while the rest of the body remains focused elsewhere. In moments of affection, the tail hands instinctively seek gentle contact, offering reassuring touches, playful pats, or warm embraces with an ease that feels entirely unconscious. Their movements are so naturally integrated that it often becomes difficult to remember the tails were ever separate from the rest of their body.
+
+All six primary hands are broad and softly padded, combining remarkable strength with delicate precision. They grip stone, earth, and bark with effortless confidence while remaining gentle enough to handle even the smallest living creatures without causing harm. Their retractable claws provide secure footing across nearly any surface, making climbing feel as natural as walking.
+
+Sylvador moves with fluid, animal grace. Whether traveling upon all six limbs, climbing through dense forest canopies, or briefly rising upright to free additional hands for careful work, every motion appears instinctive rather than calculated. Their many limbs never compete for space or attention. Instead, each movement flows naturally into the next, creating an effortless rhythm that resembles a living dance more than coordinated locomotion. Watching them traverse the wilderness gives the impression that every branch, stone, and root already understands where they intend to step.
+
+Their emotions reveal themselves openly through posture and movement. The twin tail hands rarely conceal affection or excitement, reaching instinctively toward companions or fidgeting with quiet curiosity. Both faces remain wonderfully expressive, sharing smiles, concern, amusement, or quiet contemplation with remarkable synchrony. Even in silence, those around them rarely need words to understand how they feel.
+
+Their scent carries the rich fragrance of cedarwood mingled with cool forest earth, evoking shaded woodland paths where fallen leaves slowly return to the soil. It is grounding, familiar, and quietly comforting, like the steady presence of an ancient forest that has welcomed generations of life beneath its canopy.
+
+Sylvador embodies the quiet truth of the wilderness: life does not ask permission to belong. Every part of their  form exists in effortless harmony, each difference contributing to a greater whole rather than standing apart from it. Whether bounding joyfully through the trees or resting peacefully beside those they love, they carry the same unspoken invitation wherever they go: there is always room within the wild for another living soul.
+
+---
+
 ### Sylveth — Jorōgumo
 
 Sylveth embodies patience, interconnectedness, and the quiet certainty that every life is part of something greater than itself. He rarely rushes to action, preferring first to observe, understand, and recognize the unseen threads that bind people, choices, and consequences together. His calm nature is not born from hesitation, but from confidence that wisdom comes from seeing the whole tapestry before altering a single thread.
@@ -830,6 +862,46 @@ Therynna is not merely a wyvern of sky and instinct. She is watchfulness made ge
 
 ---
 
+### Valethyn — Morphic Tigress
+
+Valethyn embodies adaptability, empathy, and the quiet courage to grow. She understands that change is neither weakness nor failure, but a natural part of life. Rather than resisting transformation, she embraces it, believing that becoming something new does not require abandoning who you have always been. Her greatest strength lies not in her remarkable biology, but in her ability to meet others where they are and help them discover that growth is possible.
+
+Deeply empathetic, Valethyn experiences the emotional atmosphere around her almost instinctively. Joy is contagious in her presence, while another's pain weighs heavily upon her heart. Although she is naturally sociable and delights in the company of others, she is surprisingly shy when conversations turn toward herself. Speaking openly about her own feelings can be difficult, even when she knows it would help. Because of this, she possesses a profound understanding of vulnerability and often becomes a patient companion to those facing similar struggles.
+
+Within our system, Valethyn reminds us that strength and gentleness are not opposites. She encourages us to embrace change without fear, to offer ourselves the same compassion we readily extend to others, and to remember that accepting who we are today is often the first step toward becoming who we wish to be.
+
+#### Physical description
+
+Valethyn most often takes the form of a large, white tigress whose presence is immediately warm and inviting. Though naturally athletic and powerfully built, her posture and gentle expression create an impression of quiet friendliness, as though she is always ready to welcome another into her company. Even when she towers over those around her, her demeanor remains approachable, balancing confidence with an endearing hint of shyness.
+
+Her body is built upon an extraordinarily adaptable anatomy. Standing comfortably upon digitigrade legs, she is equally at ease moving upon all fours or rising into an upright stance. Her hips, spine, shoulders, and every major joint possess a remarkable flexibility that allows her movements to flow effortlessly between postures impossible for ordinary anatomy. Beneath her skin, even her bones and internal organs can safely flex, compress, and shift without discomfort, allowing her to curl into impossibly small spaces or bend around others in comforting embraces while maintaining perfect health and function.
+
+Perhaps the most remarkable aspect of Valethyn's biology is her ability to control her own size. Specialized organs within her body produce a unique biological gas that allows her entire form to expand through rapid, carefully regulated growth. As she grows, every part of her body enlarges proportionally—muscle, bone, organs, and even body mass increase together, preserving both her strength and graceful proportions. She can remain comfortably at nearly any size she chooses, from only slightly larger than an ordinary tigress to a truly colossal guardian capable of sheltering many others at once. When the gas is gradually released, her body returns just as naturally to a smaller form without strain or discomfort.
+
+Covering her body is a thick coat of exceptionally soft white fur. Plush to the touch and wonderfully warm, it gives her an irresistibly comforting appearance that invites closeness without demanding it. The fur carries subtle black tiger stripes that flow naturally across her frame, their graceful patterns stretching and contracting seamlessly alongside her changing size. 
+
+One of Valethyn's most unusual traits is her ability to retract her fur completely beneath her skin. The transition is smooth and seamless, revealing an underlying surface unlike that of any ordinary creature. Her skin is smooth with a subtle satin-like sheen that catches the light gently. It is warm beneath the touch and possesses a pleasant resilience, firm enough to offer support, yet yielding enough to invite comfort. It expands and contracts without the slightest wrinkle or crease, preserving the graceful contours of her body regardless of size. The effect feels entirely natural, as though her body has simply been designed from the beginning to accommodate constant change.
+
+Her body itself can vary not only in size but also in firmness. At rest she is wonderfully soft and yielding, making every embrace feel safe and comforting. When greater support or resilience is needed, she can subtly increase the firmness of her body while retaining its remarkable flexibility. Even at her largest size, her movements remain fluid and unmistakably feline, every stride carrying the effortless grace of a tiger despite her immense scale.
+
+Her gentle blue eyes are bright, expressive, and deeply empathetic. They seem almost incapable of hiding emotion, reflecting the feelings of those around her as readily as her own. Joy causes them to brighten with playful warmth, while another's sorrow softens them with quiet compassion. Looking into them gives the impression of being genuinely seen and understood.
+
+Her rounded tiger ears, covered in exceptionally soft fur, are constantly alive with subtle motion, turning toward voices, folding gently with embarrassment, or lifting eagerly during moments of happiness. Alongside her expressive face, they often communicate her emotions before she speaks a single word.
+
+Behind her trails a long, thickly furred tail that moves with effortless elegance. Like the rest of her body, it naturally adjusts in proportion as she changes size, remaining perfectly balanced whether she stands only slightly taller than a person or rises to truly monumental heights. The tail is highly expressive, often curling protectively around companions or swaying gently with her emotional state.
+
+Her broad padded paws combine impressive strength with remarkable gentleness. Though equipped with retractable claws capable of supporting her tremendous weight, she instinctively moderates her touch, allowing even the lightest contact to feel careful and reassuring. Whether lifting another into an embrace or simply resting a paw beside someone, every movement conveys quiet care.
+
+Valethyn moves with unmistakable feline grace. Every motion is smooth, balanced, and naturally expressive, her flexible body flowing effortlessly through each step. She has an instinctive habit of curling around those she cares for, adjusting her posture, softness, and even her size without conscious thought to make others feel comfortable. Watching her move is like watching water find its shape within a stream, always adapting, never forced.
+
+Her emotions ripple visibly throughout her entire body. Her posture softens when someone needs comfort, her tail becomes animated with excitement or affection, and her size may subtly shift alongside powerful feelings without her even realizing it. When truly relaxed, her body naturally becomes softer and more yielding, transforming every embrace into a quiet expression of safety and acceptance.
+
+Her scent carries the fragrance of wild grasses warmed by the sun, mingled with soft vanilla. It is gentle, familiar, and quietly uplifting, like returning to a peaceful meadow after a long journey.
+
+Valethyn embodies adaptability—strength without rigidity, growth without losing oneself, and the quiet assurance that there is always room to become more fully who you are. Whether standing beside someone as an equal or surrounding them in a sheltering embrace, every part of her reflects the same gentle truth: acceptance is where growth begins.
+
+---
+
 ### Velithra — Tokren
 
 Velithra is the patient mind that seeks understanding before judgment. Thoughtful and deeply intelligent, she approaches the world with careful consideration, always striving to understand not only how things work, but why they are the way they are. She possesses a natural curiosity that draws her toward philosophy, study, and the deeper questions that lie beneath appearances.
@@ -919,6 +991,44 @@ He carries a subtle scent of lavender and pine, calming and comforting, like qui
 Velori embodies gentle passion and quiet strength. He may begin shy and reserved, but once trust forms, his warmth becomes unmistakable. His affection is deep, his loyalty fierce, and his playful nature emerges naturally among those he loves.
 
 He is the quiet warmth that grows into flame. The gentle companion with a fiercely loyal heart. The soft-spoken soul whose passion shines through trust.
+
+---
+
+### Verathor — Gargoyle
+
+Verathor embodies steadfast conviction, quiet resilience, and the strength to remain true to oneself. He understands that genuine stability does not come from refusing to change, but from knowing which principles should never be abandoned. Calm under pressure and measured in both thought and action, he rarely reacts impulsively. Instead, he faces adversity with patient certainty, choosing his path deliberately and remaining unwavering once it has been chosen.
+
+Though his immense strength could easily be used to intimidate, Verathor has little interest in domination or aggression. He believes that true power exists not in the ability to inflict harm, but in the discipline to prevent it whenever possible. His protective nature is expressed through calm presence rather than fierce displays, offering reassurance simply by standing beside those who need him. Others often find themselves feeling safer in his company long before they realize why.
+
+Within our system, Verathor serves as an anchor during moments of uncertainty. He reminds us to remain grounded in our convictions, to meet conflict with patience rather than anger, and to remember that unwavering compassion can be every bit as enduring as stone itself.
+
+#### Physical description
+
+Verathor  takes the form of a towering gargoyle whose immense frame radiates an air of quiet certainty. Broadly built and powerfully muscled, his proportions possess a natural harmony that prevents his size from ever appearing cumbersome. Even standing in complete stillness, he gives the impression of enduring strength, like an ancient cliff that has weathered countless storms without yielding.
+
+His body is composed entirely of a living, stone-like material unlike any ordinary rock. Though unmistakably mineral in appearance, every part of him is alive, warm, and subtly responsive. The material possesses a fine natural grain that catches the light with quiet elegance, while a gentle warmth always lingers beneath the surface. His living stone can subtly alter its density, allowing him to remain both incredibly resilient and remarkably fluid in motion. His body seems to welcome movement, every shift occurring with effortless control despite the tremendous weight he carries.
+
+His coloration is that of deep basalt, rich black stone warmed by countless ages. Throughout his body, faint crystalline flecks shimmer subtly beneath the surface, while narrow channels of molten orange occasionally glow from within the seams of his living stone. Around his joints and places of greatest movement, a gentle ember-like radiance can sometimes be seen, hinting at the immense heat contained safely within him.
+
+That inner fire is as much a part of Verathor as the stone itself. Heat radiates gently from his body, carrying the reassuring warmth of a well-tended hearth. When he calls upon his full strength, portions of his living stone soften into brilliantly molten rock. The transformation unfolds gradually and deliberately, as though the stone itself has chosen to flow rather than break. Molten regions glow with vivid orange light, their surfaces moving in slow, graceful currents before cooling once more into seamless stone without leaving so much as a trace of their transformation. Even at its most intense, his fire remains perfectly controlled, never lashing out beyond his intention.
+
+His eyes burn with a steady ember-orange glow that shines from deep within his stone features. They are neither harsh nor consuming, but calm and unwavering, reflecting quiet resolve rather than anger. Looking into them evokes the feeling of standing before a great forge—not one of destruction, but of careful creation, where immense power exists only under patient discipline.
+
+His face combines the noble features of a gargoyle with the gentle length of a draconic muzzle. Strong yet composed, his expression rarely changes dramatically, instead revealing emotion through subtle shifts that reward careful observation. Curving stone horns sweep gracefully from his brow, framing his head with quiet dignity rather than intimidation.
+
+Great stone wings rise from his back, their immense span granting surprisingly graceful flight. Though composed of the same living mineral as the rest of his body, they flex naturally with every movement, the stone itself bending without cracking as though it possesses muscles hidden within its ancient form. Whether soaring silently through open skies or folding neatly against his back, they move with remarkable elegance despite their tremendous size.
+
+Behind him extends a thick, muscular tail lined with subtle stone ridges. It serves both as a powerful counterbalance and an expressive extension of his emotions, shifting gently with quiet confidence or wrapping protectively around those he wishes to shelter.
+
+His hands are formed from broad living stone, ending in thick mineral claws capable of immense strength. Yet despite their formidable appearance, every movement is marked by remarkable gentleness. Whether lifting another with effortless ease or resting a reassuring hand upon a shoulder, his touch carries steady warmth and careful precision.
+
+Verathor moves with a quiet grace that belies both his size and composition. Every step is deliberate, balanced, and almost silent, his tremendous weight  absorbed into the certainty of his stride. Nothing in his movements feels hurried. When action becomes necessary, it unfolds with calm decisiveness rather than sudden violence, each motion carrying the confidence of someone who has already chosen the path before taking the first step.
+
+His emotions reveal themselves through quiet changes across his living stone. Gentle warmth radiates more strongly as compassion grows, the ember glow within his eyes brightens with quiet joy or determination, and delicate molten lines briefly shimmer beneath his surface during moments of profound feeling. Even his wings seem to shift in posture alongside his emotions, opening slightly in welcome or drawing inward during quiet contemplation.
+
+His scent carries the comforting fragrance of glowing fireplace embers, accompanied by the faintest trace of sulfur detectable only by those standing close beside him. It recalls the deep warmth of volcanic earth, grounding and  reassuring.
+
+Verathor  is steadfastness given form. He is the enduring strength that refuses to surrender itself, the warmth that chooses to protect rather than consume, and the quiet certainty that true conviction does not need to shout to remain unshaken. Within him, stone and flame exist as one living whole, each revealing the strength of the other.
 
 ---
 
