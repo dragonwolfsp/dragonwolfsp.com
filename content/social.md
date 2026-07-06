@@ -1,8 +1,8 @@
 +++
-title = "Connect With the Dragonwolf"
+title = "Connect With the Animmyrath"
 +++
 
-The Dragonwolf of the Shadow Pride doesn’t linger in one place for long, but instead, carves paths across the digital wilderness. Whether you’re seeking knowledge, community, or inspiration, these are the spaces where you can find us:
+The Animmyrath rarely remain in one place for long. Instead, we leave footprints across the digital wilderness, building communities, creating tools, sharing stories, and exploring the countless paths that lie ahead. Whether you're seeking knowledge, companionship, or inspiration, these are the places where you may find us.
 
 ---
 
@@ -16,13 +16,14 @@ For the latest news, insights, and discoveries, join our **Telegram Channel**: [
 
 If you have a question, a curious thought, or a mystery you’d like to cast into the dark, you can send it directly to us through our **Ask page**.
 
-No account is required, and if you prefer to remain unseen, you may ask **anonymously**. Whether your question is about technology, stories, philosophy, or the strange corners of the world, the Dragonwolf listens.
+No account is required, and if you prefer to remain unseen, you may ask **anonymously**. Whether your question is about technology, writing, philosophy, accessibility, music, or the stranger corners of the world, one of us will be happy to answer.
 
 - **Ask a Question**: [questions for the Shadoe Pride](//ask.dragonwolfsp.com)
 
 ---
 
 ## 🔧 Projects and Creations
+
 If you’re curious about what  we're building or want to explore the tools and software we’ve crafted, head to:
 - **GitHub**: [DragonwolfSP](https://github.com/dragonwolfsp)
 - **Electrolights Organization**: [Electrolights](https://github.com/electrolights) — A collaborative hub for ideas brought to life with friends.
@@ -38,7 +39,7 @@ Step into the heart of the shadows and join the conversations:
 ---
 
 ## 🔴 Live Streams  
-Experience the Dragonwolf in action on **Dragonhowl Live**: [Watch the stream](//owncast.dragonwolfsp.com) — coding, gaming, music production, and spontaneous adventures await. Follow to be notified when the howl begins.
+Experience our wildness in action on **Dragonhowl Live**: [Watch the stream](//owncast.dragonwolfsp.com) — coding, gaming, music production, and spontaneous adventures await. Follow to be notified when the howl begins.
 
 ---
 
@@ -53,4 +54,4 @@ If the decentralized frontier is your domain, you’ll find us on **the Dragon�
 
 ---
 
-Each of these spaces is a thread in the tapestry of the Dragonwolf's journey. Whether you’re here to collaborate, converse, or simply observe, we're glad to have you along for the flight. See you in the Everdark!
+Each of these spaces is a thread in the tapestry of our journey. Whether you’re here to collaborate, converse, or simply observe, we're glad to have you along for the flight. See you in the Everdark!
