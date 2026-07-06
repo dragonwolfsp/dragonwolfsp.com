@@ -606,74 +606,6 @@ Seravyn is not merely a dragon of mutable form. They are adaptability without lo
 
 ---
 
-### Sylvador — Chimera
-
-Sylvador embodies acceptance, belonging, and the quiet freedom of the wild. They view life through the perspective of nature itself, where existence is not something to be earned but simply acknowledged. To Sylvador, every living being has a place within the world, regardless of how unusual or different they may appear. This conviction gives them a deep empathy for those who feel isolated or misunderstood, while also making them quietly intolerant of prejudice and needless exclusion.
-
-Playful by nature, Sylvador delights in companionship and shared experiences, often expressing affection through gentle teasing, warm humor, and effortless physical closeness. Beneath that lighthearted spirit, however, lies a thoughtful observer who notices subtle changes in both people and their surroundings. They often recognize unspoken emotions before words are ever exchanged and instinctively seek to create spaces where others feel safe simply being themselves.
-
-Within our system, Sylvador reminds us that belonging is not granted by others, but is an inherent part of being alive. They encourage authenticity, celebrate individuality, and help ensure that compassion remains stronger than judgment.
-
-#### Physical description
-
-Sylvador is a large chimera whose unusual anatomy possesses a quiet, natural harmony. Their long, lithe body is supported by six powerful limbs, each ending in broad, plantigrade hands equally suited for walking, climbing, and delicate manipulation. Compact muscles flow smoothly beneath a luxuriously soft coat, giving them an appearance that is both athletic and inviting.  Every part of their form belongs exactly where it should, creating a presence that is unmistakably wild yet warmly welcoming.
-
-Covering nearly their entire body is a dense, layered coat of exceptionally soft charcoal fur. Across it flow subtle patterns that borrow from both wolf and lion while belonging fully to neither. Gentle gradients of darker and lighter tones weave naturally together, accompanied by pale markings across the chest, throat, and underside. Their twin tails darken toward the tips, where the fur parts naturally around the dexterous hands that form each tail's end. 
-
-Rising from their broad shoulders are two graceful necks. One bears the head of a male wolf, the other that of a lioness. They share a remarkable unity of expression, their emotions almost always mirrored across both faces. The wolf's golden-amber eyes are quietly playful and constantly observant, noticing subtle changes in both the world and those around them. Beside him, the lioness's softly luminous silver eyes carry a calm warmth that can quickly sharpen into unmistakable disapproval whenever cruelty or intolerance reveals itself. Together, they offer two perspectives held in perfect balance.
-
-Each head carries the ears natural to its own kind, both pairs remaining in constant, expressive motion. The wolf's ears pivot attentively toward distant sounds, while the lioness's respond more readily to the emotions unfolding nearby. Connecting the two necks is a thick mantle of flowing fur that forms a shared mane across their shoulders, lending the entire upper body a sense of unity while emphasizing the natural bond between both heads.
-
-Behind them trail two long, fully prehensile tails, each ending in a complete hand with soft padded palms, retractable claws, and extraordinary dexterity. The tails move almost continuously, often reaching for nearby branches, steadying their balance across difficult terrain, or quietly occupying themselves while the rest of the body remains focused elsewhere. In moments of affection, the tail hands instinctively seek gentle contact, offering reassuring touches, playful pats, or warm embraces with an ease that feels entirely unconscious. Their movements are so naturally integrated that it often becomes difficult to remember the tails were ever separate from the rest of their body.
-
-All six primary hands are broad and softly padded, combining remarkable strength with delicate precision. They grip stone, earth, and bark with effortless confidence while remaining gentle enough to handle even the smallest living creatures without causing harm. Their retractable claws provide secure footing across nearly any surface, making climbing feel as natural as walking.
-
-Sylvador moves with fluid, animal grace. Whether traveling upon all six limbs, climbing through dense forest canopies, or briefly rising upright to free additional hands for careful work, every motion appears instinctive rather than calculated. Their many limbs never compete for space or attention. Instead, each movement flows naturally into the next, creating an effortless rhythm that resembles a living dance more than coordinated locomotion. Watching them traverse the wilderness gives the impression that every branch, stone, and root already understands where they intend to step.
-
-Their emotions reveal themselves openly through posture and movement. The twin tail hands rarely conceal affection or excitement, reaching instinctively toward companions or fidgeting with quiet curiosity. Both faces remain wonderfully expressive, sharing smiles, concern, amusement, or quiet contemplation with remarkable synchrony. Even in silence, those around them rarely need words to understand how they feel.
-
-Their scent carries the rich fragrance of cedarwood mingled with cool forest earth, evoking shaded woodland paths where fallen leaves slowly return to the soil. It is grounding, familiar, and quietly comforting, like the steady presence of an ancient forest that has welcomed generations of life beneath its canopy.
-
-Sylvador embodies the quiet truth of the wilderness: life does not ask permission to belong. Every part of their  form exists in effortless harmony, each difference contributing to a greater whole rather than standing apart from it. Whether bounding joyfully through the trees or resting peacefully beside those they love, they carry the same unspoken invitation wherever they go: there is always room within the wild for another living soul.
-
----
-
-### Sylveth — Jorōgumo
-
-Sylveth embodies patience, interconnectedness, and the quiet certainty that every life is part of something greater than itself. He rarely rushes to action, preferring first to observe, understand, and recognize the unseen threads that bind people, choices, and consequences together. His calm nature is not born from hesitation, but from confidence that wisdom comes from seeing the whole tapestry before altering a single thread.
-
-Though deeply tied to darkness, Sylveth does not view it as something to be feared. To him, darkness is a place of rest, reflection, and renewal—a space where endings quietly give rise to beginnings. This understanding shapes his connection to the cycle of life and death. He accepts both with equal reverence, recognizing that neither can exist without the other.
-
-Sylveth is gentle by nature, offering comfort with quiet presence more often than words. His compassion is steady rather than expressive, creating spaces where others feel safe simply because he is there. While capable of great strength and possessing the instincts of a formidable predator, he exercises remarkable restraint, believing that power serves life best when guided by patience and understanding.
-
-Within our system, Sylveth serves as a quiet keeper of perspective. He reminds us that every action sends ripples through countless unseen connections, and that growth often comes not from resisting change, but from understanding our place within it.
-
-#### Physical description
-
-Sylveth most often takes the form of a towering, semi-anthropomorphic Jorōgumo, his body blending the elegant proportions of a giant spider with the upright posture and expressive presence of a humanoid. Long-limbed and graceful, he possesses an understated strength that becomes evident only through movement. His build is lean rather than imposing, every line of his form shaped for balance, precision, and quiet endurance. Even standing still, he gives the impression of patient vigilance, as though he has all the time in the world to observe before acting.
-
-Much of Sylveth's body is covered in a soft layer of velvety fur. Its rich forest-brown coloration carries the warmth of ancient woodlands, giving him an unexpectedly gentle appearance despite his size. The fine hairs shimmer faintly in dim light, catching moonlight and shadow alike with a quiet luster. Across his body, delicate silver-gray markings weave through the fur alongside subtle moss-green accents, their shapes resembling intricate webs spun by nature itself. Upon closer inspection, these markings form elegant mandala-like patterns that seem almost intentionally woven into his coat, hinting at an ancient understanding of life's interconnectedness.
-
-His eight silver eyes rest within a calm, thoughtful face, each reflecting light with a gentle luminescence that becomes most apparent in darkness. Their glow carries a quiet serenity, allowing others to feel watched over rather than watched. Together they miss very little, yet their gaze is remarkably soft, conveying patience, compassion, and careful understanding. They are the eyes of one who has witnessed countless beginnings and endings, yet has never grown indifferent to either.
-
-Nestled beneath his expressive face are elegant ivory fangs touched with a subtle metallic sheen. They lend his gentle expression a quiet reminder of the predator that exists within every keeper of the natural cycle. Though capable of delivering potent venom, they never seem threatening in their resting state. Instead, they reflect the truth that gentleness and danger are not opposites, but parts of the same living whole.
-
-His pedipalps are covered in the same soft fur as the rest of his body and move with remarkable dexterity. They shift almost constantly in quiet expression, conveying warmth, curiosity, reassurance, or contemplation with subtle motions that often speak more clearly than words. When offering comfort, they are as gentle as careful hands, capable of reassuring touches that feel both delicate and deeply sincere.
-
-His long spider legs are powerful yet remarkably elegant, carrying him across almost any surface with effortless silence. Whether climbing sheer stone, weaving through branches, or crossing the forest floor, every movement is smooth and deliberate. Their joints are reinforced for strength without sacrificing grace, allowing bursts of astonishing speed when necessity demands it, though such displays remain rare. More often, his movements resemble a slow current flowing through the forest, quiet enough that one may only realize he has arrived after he is already beside them.
-
-Hidden beneath his abdomen are spinnerets capable of producing exceptionally strong silk, dark in color yet catching moonlight with a subtle sheen. His silk rarely serves as a hunting tool alone. Instead, he instinctively weaves organic, flowing structures that resemble roots, branches, and living vines more than geometric traps. These woven sanctuaries often become temporary shelters, resting places, or quiet spaces where others may find safety. They seem less like webs and more like physical expressions of care, each thread carefully placed with intention.
-
-When Sylveth moves, he embodies patient certainty. Every motion is measured, fluid, and nearly silent, flowing naturally from stillness into action without haste or hesitation. Despite his considerable size, he traverses both land and vertical surfaces with astonishing grace, his many limbs working together in perfect harmony. When speed becomes necessary, it arrives suddenly but never chaotically, each movement remaining purposeful and controlled.
-
-His emotions reveal themselves not through dramatic gestures but through subtle shifts. His pedipalps become more animated during conversation or moments of affection, while the intricate web-like markings upon his body brighten ever so slightly when strong feelings surface. Joy, sorrow, protectiveness, and contemplation all ripple gently across his form like vibrations carried through silk.
-
-His scent carries the quiet fragrance of moss-covered stone and fresh earth beneath fallen leaves, evoking cool forests after rain and the rich stillness of ancient places untouched by haste. It is grounding and familiar, lingering softly like the memory of a peaceful woodland path.
-
-Sylveth is not merely a great spider, nor simply a creature of darkness. He is the patient thread that binds endings to beginnings, the quiet weaver who understands that every life touches countless others before its journey continues. Within every web he spins lies the same quiet truth: nothing is ever truly separate, and every ending becomes the first thread of something yet to come.
-
----
-
 ### Solaryn — Lion
 
 Solaryn is our system’s shield. He embodies vigilance, responsibility, and the willingness to stand between harm and those under our protection. His loyalty is deliberate and chosen, not automatic.
@@ -742,6 +674,74 @@ When Solmara moves, she embodies smooth, water-bound grace. Her motion is fluid 
 Her scent carries the clean presence of saltwater and sun-warmed sea air, with a faint undertone of tropical citrus. It is warm, coastal, and slightly bright, evoking open shores and sunlit tides.
 
 Solmara is not simply a seal of ocean and light; she is warmth carried through water, playful mischief shaped by tide and sun, and quiet strength that rises without warning when those she cares for are at risk.
+
+---
+
+### Sylvador — Chimera
+
+Sylvador embodies acceptance, belonging, and the quiet freedom of the wild. They view life through the perspective of nature itself, where existence is not something to be earned but simply acknowledged. To Sylvador, every living being has a place within the world, regardless of how unusual or different they may appear. This conviction gives them a deep empathy for those who feel isolated or misunderstood, while also making them quietly intolerant of prejudice and needless exclusion.
+
+Playful by nature, Sylvador delights in companionship and shared experiences, often expressing affection through gentle teasing, warm humor, and effortless physical closeness. Beneath that lighthearted spirit, however, lies a thoughtful observer who notices subtle changes in both people and their surroundings. They often recognize unspoken emotions before words are ever exchanged and instinctively seek to create spaces where others feel safe simply being themselves.
+
+Within our system, Sylvador reminds us that belonging is not granted by others, but is an inherent part of being alive. They encourage authenticity, celebrate individuality, and help ensure that compassion remains stronger than judgment.
+
+#### Physical description
+
+Sylvador is a large chimera whose unusual anatomy possesses a quiet, natural harmony. Their long, lithe body is supported by six powerful limbs, each ending in broad, plantigrade hands equally suited for walking, climbing, and delicate manipulation. Compact muscles flow smoothly beneath a luxuriously soft coat, giving them an appearance that is both athletic and inviting.  Every part of their form belongs exactly where it should, creating a presence that is unmistakably wild yet warmly welcoming.
+
+Covering nearly their entire body is a dense, layered coat of exceptionally soft charcoal fur. Across it flow subtle patterns that borrow from both wolf and lion while belonging fully to neither. Gentle gradients of darker and lighter tones weave naturally together, accompanied by pale markings across the chest, throat, and underside. Their twin tails darken toward the tips, where the fur parts naturally around the dexterous hands that form each tail's end. 
+
+Rising from their broad shoulders are two graceful necks. One bears the head of a male wolf, the other that of a lioness. They share a remarkable unity of expression, their emotions almost always mirrored across both faces. The wolf's golden-amber eyes are quietly playful and constantly observant, noticing subtle changes in both the world and those around them. Beside him, the lioness's softly luminous silver eyes carry a calm warmth that can quickly sharpen into unmistakable disapproval whenever cruelty or intolerance reveals itself. Together, they offer two perspectives held in perfect balance.
+
+Each head carries the ears natural to its own kind, both pairs remaining in constant, expressive motion. The wolf's ears pivot attentively toward distant sounds, while the lioness's respond more readily to the emotions unfolding nearby. Connecting the two necks is a thick mantle of flowing fur that forms a shared mane across their shoulders, lending the entire upper body a sense of unity while emphasizing the natural bond between both heads.
+
+Behind them trail two long, fully prehensile tails, each ending in a complete hand with soft padded palms, retractable claws, and extraordinary dexterity. The tails move almost continuously, often reaching for nearby branches, steadying their balance across difficult terrain, or quietly occupying themselves while the rest of the body remains focused elsewhere. In moments of affection, the tail hands instinctively seek gentle contact, offering reassuring touches, playful pats, or warm embraces with an ease that feels entirely unconscious. Their movements are so naturally integrated that it often becomes difficult to remember the tails were ever separate from the rest of their body.
+
+All six primary hands are broad and softly padded, combining remarkable strength with delicate precision. They grip stone, earth, and bark with effortless confidence while remaining gentle enough to handle even the smallest living creatures without causing harm. Their retractable claws provide secure footing across nearly any surface, making climbing feel as natural as walking.
+
+Sylvador moves with fluid, animal grace. Whether traveling upon all six limbs, climbing through dense forest canopies, or briefly rising upright to free additional hands for careful work, every motion appears instinctive rather than calculated. Their many limbs never compete for space or attention. Instead, each movement flows naturally into the next, creating an effortless rhythm that resembles a living dance more than coordinated locomotion. Watching them traverse the wilderness gives the impression that every branch, stone, and root already understands where they intend to step.
+
+Their emotions reveal themselves openly through posture and movement. The twin tail hands rarely conceal affection or excitement, reaching instinctively toward companions or fidgeting with quiet curiosity. Both faces remain wonderfully expressive, sharing smiles, concern, amusement, or quiet contemplation with remarkable synchrony. Even in silence, those around them rarely need words to understand how they feel.
+
+Their scent carries the rich fragrance of cedarwood mingled with cool forest earth, evoking shaded woodland paths where fallen leaves slowly return to the soil. It is grounding, familiar, and quietly comforting, like the steady presence of an ancient forest that has welcomed generations of life beneath its canopy.
+
+Sylvador embodies the quiet truth of the wilderness: life does not ask permission to belong. Every part of their  form exists in effortless harmony, each difference contributing to a greater whole rather than standing apart from it. Whether bounding joyfully through the trees or resting peacefully beside those they love, they carry the same unspoken invitation wherever they go: there is always room within the wild for another living soul.
+
+---
+
+### Sylveth — Jorōgumo
+
+Sylveth embodies patience, interconnectedness, and the quiet certainty that every life is part of something greater than itself. He rarely rushes to action, preferring first to observe, understand, and recognize the unseen threads that bind people, choices, and consequences together. His calm nature is not born from hesitation, but from confidence that wisdom comes from seeing the whole tapestry before altering a single thread.
+
+Though deeply tied to darkness, Sylveth does not view it as something to be feared. To him, darkness is a place of rest, reflection, and renewal—a space where endings quietly give rise to beginnings. This understanding shapes his connection to the cycle of life and death. He accepts both with equal reverence, recognizing that neither can exist without the other.
+
+Sylveth is gentle by nature, offering comfort with quiet presence more often than words. His compassion is steady rather than expressive, creating spaces where others feel safe simply because he is there. While capable of great strength and possessing the instincts of a formidable predator, he exercises remarkable restraint, believing that power serves life best when guided by patience and understanding.
+
+Within our system, Sylveth serves as a quiet keeper of perspective. He reminds us that every action sends ripples through countless unseen connections, and that growth often comes not from resisting change, but from understanding our place within it.
+
+#### Physical description
+
+Sylveth most often takes the form of a towering, semi-anthropomorphic Jorōgumo, his body blending the elegant proportions of a giant spider with the upright posture and expressive presence of a humanoid. Long-limbed and graceful, he possesses an understated strength that becomes evident only through movement. His build is lean rather than imposing, every line of his form shaped for balance, precision, and quiet endurance. Even standing still, he gives the impression of patient vigilance, as though he has all the time in the world to observe before acting.
+
+Much of Sylveth's body is covered in a soft layer of velvety fur. Its rich forest-brown coloration carries the warmth of ancient woodlands, giving him an unexpectedly gentle appearance despite his size. The fine hairs shimmer faintly in dim light, catching moonlight and shadow alike with a quiet luster. Across his body, delicate silver-gray markings weave through the fur alongside subtle moss-green accents, their shapes resembling intricate webs spun by nature itself. Upon closer inspection, these markings form elegant mandala-like patterns that seem almost intentionally woven into his coat, hinting at an ancient understanding of life's interconnectedness.
+
+His eight silver eyes rest within a calm, thoughtful face, each reflecting light with a gentle luminescence that becomes most apparent in darkness. Their glow carries a quiet serenity, allowing others to feel watched over rather than watched. Together they miss very little, yet their gaze is remarkably soft, conveying patience, compassion, and careful understanding. They are the eyes of one who has witnessed countless beginnings and endings, yet has never grown indifferent to either.
+
+Nestled beneath his expressive face are elegant ivory fangs touched with a subtle metallic sheen. They lend his gentle expression a quiet reminder of the predator that exists within every keeper of the natural cycle. Though capable of delivering potent venom, they never seem threatening in their resting state. Instead, they reflect the truth that gentleness and danger are not opposites, but parts of the same living whole.
+
+His pedipalps are covered in the same soft fur as the rest of his body and move with remarkable dexterity. They shift almost constantly in quiet expression, conveying warmth, curiosity, reassurance, or contemplation with subtle motions that often speak more clearly than words. When offering comfort, they are as gentle as careful hands, capable of reassuring touches that feel both delicate and deeply sincere.
+
+His long spider legs are powerful yet remarkably elegant, carrying him across almost any surface with effortless silence. Whether climbing sheer stone, weaving through branches, or crossing the forest floor, every movement is smooth and deliberate. Their joints are reinforced for strength without sacrificing grace, allowing bursts of astonishing speed when necessity demands it, though such displays remain rare. More often, his movements resemble a slow current flowing through the forest, quiet enough that one may only realize he has arrived after he is already beside them.
+
+Hidden beneath his abdomen are spinnerets capable of producing exceptionally strong silk, dark in color yet catching moonlight with a subtle sheen. His silk rarely serves as a hunting tool alone. Instead, he instinctively weaves organic, flowing structures that resemble roots, branches, and living vines more than geometric traps. These woven sanctuaries often become temporary shelters, resting places, or quiet spaces where others may find safety. They seem less like webs and more like physical expressions of care, each thread carefully placed with intention.
+
+When Sylveth moves, he embodies patient certainty. Every motion is measured, fluid, and nearly silent, flowing naturally from stillness into action without haste or hesitation. Despite his considerable size, he traverses both land and vertical surfaces with astonishing grace, his many limbs working together in perfect harmony. When speed becomes necessary, it arrives suddenly but never chaotically, each movement remaining purposeful and controlled.
+
+His emotions reveal themselves not through dramatic gestures but through subtle shifts. His pedipalps become more animated during conversation or moments of affection, while the intricate web-like markings upon his body brighten ever so slightly when strong feelings surface. Joy, sorrow, protectiveness, and contemplation all ripple gently across his form like vibrations carried through silk.
+
+His scent carries the quiet fragrance of moss-covered stone and fresh earth beneath fallen leaves, evoking cool forests after rain and the rich stillness of ancient places untouched by haste. It is grounding and familiar, lingering softly like the memory of a peaceful woodland path.
+
+Sylveth is not merely a great spider, nor simply a creature of darkness. He is the patient thread that binds endings to beginnings, the quiet weaver who understands that every life touches countless others before its journey continues. Within every web he spins lies the same quiet truth: nothing is ever truly separate, and every ending becomes the first thread of something yet to come.
 
 ---
 
