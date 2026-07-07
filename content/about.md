@@ -1,5 +1,5 @@
 +++
-title = "who is the Animmyrath?"
+title = "who are the Animmyrath?"
 +++
 
 ## Who We Are
