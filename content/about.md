@@ -6,6 +6,8 @@ title = "who are the Animmyrath?"
 
 We are the **Animmyrath**, a plural system sharing one life and one direction, (Ethan Jones is used for legal and administrative identification.)
 
+{{ pronounce(name="Animmyrath", file="/names/Animmyrath.mp3") }}
+
 We are not singular, and we are not fragmented. Each of us carries distinct instincts, strengths, and ways of engaging with the world. We can operate as individuals, as coordinated groups, or as a unified collective depending on context and need. Some of us are known by names and titles such as the **Dragonwolf of the Shadow Pride**, **Hundra Wilblade**, **Silver Wolf of Coltonn**, **Guardian of Azcarr**, and **Shade of Valshearr**. These are not aesthetic labels, but expressions of internal beings who shape how we think, build, protect, and create.
 
 We are both **furry** and **therian/otherkin**. This is not a hobby or metaphor. It is an embodied identity rooted in instinct, presence, and lived experience. Our nonhuman selves are not external costumes or symbolic roles; they are part of how we understand ourselves and how we move through the world.
@@ -826,6 +828,46 @@ The symbiote's influence remains present throughout their form, though rarely in
 Their scent carries the warmth of soft fur and fresh moss, mingled with the subtle fragrance of night-blooming flowers. It is comforting and grounding, evoking quiet forests, safety, and the feeling of being welcomed without judgment.
 
 Symvara is not merely a kitsune bonded to a symbiote, nor a fusion of two lives that once stood apart. They are a new being entirely—devotion made tangible, sacrifice transformed into life, and the enduring proof that two souls can choose one another so completely that neither walks alone again.
+
+---
+
+### Terravale — Earth Dragon
+
+{{ pronounce(name="Terravale", file="/names/Terravale.mp3") }}
+
+Terravale embodies grounding, physical comfort, and quiet protection. She possesses an instinctive awareness of the needs of those around her, often recognizing exhaustion, discomfort, or distress long before it is spoken. Rather than waiting until harm has already occurred, she gently guides situations toward safety, believing that the greatest acts of protection are often the ones no one ever realizes were necessary.
+
+Though naturally reserved, Terravale enjoys the company of those she trusts. She is rarely the loudest voice in a room, preferring instead to remain just outside the center of attention, quietly listening, sharing in the joy of those around her, and offering warmth through simple presence rather than grand gestures. Beneath her calm demeanor lies a playful spirit that emerges most freely among close friends, revealing a gentle sense of humor and a love of peaceful companionship.
+
+Within our system, Terravale reminds us to remain grounded in both body and mind. She encourages us to care for ourselves as readily as we care for others, to recognize that comfort is not indulgence but a necessity, and to remember that the strongest forms of protection often begin long before danger ever arrives.
+
+#### Physical description
+
+Terravale is a magnificent eastern earth dragon whose long, serpentine body carries an air of quiet majesty. Gracefully powerful yet substantial in build, she possesses the reassuring presence of an ancient mountain that has watched countless generations pass beneath its gaze. Though undeniably immense, there is nothing intimidating about her bearing. Instead, she seems to invite others simply by existing, her playful warmth quietly shining through the calm dignity she naturally carries.
+
+Her body follows the elegant proportions of a traditional eastern dragon. Four sturdy yet graceful legs support a remarkably long and flexible body capable of flowing effortlessly through forests, across mountainsides, or around those she wishes to shelter. Long whiskers frame her face, drifting gently through the air as though carried by an invisible breeze, while a thick, flowing mane follows every movement with effortless grace. Every motion she makes speaks of patient confidence rather than haste.
+
+Covering her body are smooth emerald scales that shimmer with a subtle crystalline sheen. Warm to the touch, they possess an almost polished appearance, reflecting light softly rather than brilliantly. Delicate leaf-like markings weave naturally between faint crystalline veins, their intricate patterns recalling the quiet growth of forests spreading across ancient stone. Along her underside, the emerald gradually gives way to warm earthy browns touched with soft golden hues, creating a harmony of colors that evokes rich soil beneath sunlit trees.
+
+Hidden beneath portions of her scales lie remarkable living stone plates unlike those found on any ordinary dragon. Normally folded seamlessly beneath her outer scales, these mineral plates remain almost entirely invisible. When protection becomes necessary, however, they unfold with smooth, deliberate precision, layering themselves across  her body like the slow emergence of living bedrock. Their appearance is   graceful, as though the earth itself has quietly risen to shield those beneath her care.
+
+Her warm brown eyes are deep and wonderfully expressive, layered with darker and lighter tones that seem to shift gently with the surrounding light. Looking into them evokes the feeling of standing within an old-growth forest where countless lives have flourished before. They carry a profound awareness of the physical world, quietly noticing discomfort, exhaustion, or unease long before such burdens are spoken aloud.
+
+Graceful jade horns sweep gently backward from her brow, their polished surfaces giving way to subtle crystalline growths near their tips. They seem as though they have grown naturally over centuries, shaped by the patient rhythm of the earth itself. Long whiskers extend gracefully from either side of her muzzle, serving as extraordinarily sensitive  organs that constantly sample the subtle movements of the world around her.
+
+A long mane of moss-soft fibers flows from the back of her head along the length of her neck, moving freely with every turn and coil of her body. It resembles cascading strands of living silk touched with the softness of fresh woodland moss, lending her already comforting appearance an additional sense of warmth and tranquility.
+
+Her broad paws are softly padded despite their immense strength, allowing her to move across stone, soil, and forest alike with remarkable silence. Long, elegant limbs provide effortless agility despite her considerable size, carrying her up steep cliffs or through dense woodland with an ease that makes difficult terrain appear almost welcoming.
+
+Behind her trails an extraordinarily long tail that moves with quiet purpose. It coils naturally around companions, fallen trees, or rocky outcroppings, often serving as both balance and gentle reassurance. Even while resting, its slow movements reflect her emotions with quiet honesty, curling protectively around those she cares for almost without conscious thought.
+
+Terravale moves with surprising fluidity for one so substantial. She glides almost silently across the earth, her long body flowing between trees and over stone with effortless precision. When among trusted companions, she instinctively coils nearby, creating comfortable places to lean against or rest within the gentle shelter of her body. Though she rarely rushes, necessity can call forth astonishing speed, her long form weaving effortlessly through even the most rugged landscapes.
+
+Her emotions reveal themselves through subtle changes in posture. Her warm eyes soften with affection, while her great coils naturally draw closer around companions whenever comfort is needed. Joy reveals itself through playful loops and graceful movements, while quiet concern causes her body to become instinctively sheltering, often protecting others before they realize protection is needed.
+
+Her presence carries the comforting fragrance of rich woodland earth mingled with soft wildflowers blooming beneath ancient trees. The scent is gentle and grounding, lingering quietly like a peaceful walk through a forest after many seasons of careful growth.
+
+Terravale  is the quiet certainty beneath wandering feet, the warmth of living ground that asks nothing in return, and the gentle reminder that comfort is not weakness, but one of life's deepest forms of protection. Like the oldest forests and the mountains that cradle them, she offers shelter not through grand gestures, but through the simple promise that no one who rests beside her must carry their burdens alone.
 
 ---
 
