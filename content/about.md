@@ -18,6 +18,8 @@ Our system is composed of distinct individuals, each carrying specific roles, in
 
 ### Aelziphyra — Phoenix
 
+{{ pronounce(name="Aelziphyra", file="/names/Aelziphyra.mp3") }}
+
 Aelziphyra is the calm that remains when everything else begins to collapse. When situations become chaotic or dangerous, she maintains control and stability, ensuring that panic does not dictate our actions. Where others may react quickly, she slows the moment down, grounding decisions in thought and careful consideration.
 
 She carries herself with a quiet, almost serene presence. Aelziphyra speaks only when she believes something truly needs to be said, and when she does, her words are measured and deliberate. Much of the comfort she provides does not come through speech but through the warmth and steadiness of her presence.
@@ -51,6 +53,8 @@ In stillness, Aelzephyra is calm, almost serene. In motion, she is inevitable. H
 ---
 
 ### Aevira — Venutian Dragon
+
+{{ pronounce(name="Aevira", file="/names/Aevira.mp3") }}
 
 Aevira is our system’s regulator of balance and consequence. She is neither impulsive nor passive; she watches patterns over time and intervenes only when imbalance becomes structural rather than momentary. Where others may feel driven to act quickly, Aevira enforces patience, proportionality, and inevitability.
 
@@ -92,6 +96,8 @@ When Aevira is still, her wings fold close, her tail settles, and her breathing 
 
 ### Anivara — Otter
 
+{{ pronounce(name="Anivara", file="/names/Anivara.mp3") }}
+
 Anivara is motion, curiosity, and emotional truth in a system that otherwise risks becoming overly armored. She brings joy that is active rather than naïve, and warmth that does not preclude sharp teeth. Her playfulness is not frivolous; it is adaptive, responsive, and disarming in situations that would otherwise calcify into rigidity.
 
 She is often the first to engage emotionally, to explore new connections, and to refuse stagnation. Anivara reacts strongly to injustice, especially when it targets vulnerability or joy. When threatened, her protectiveness is swift and surprisingly fierce.
@@ -115,6 +121,8 @@ Anivara is not merely a fantastical otter; she is movement and energy, curiosity
 ---
 
 ### Arcanleof — Kitsune
+
+{{ pronounce(name="Arcanleof", file="/names/Arcanleof.mp3") }}
 
 Arcanleof governs strategy, perception, and controlled misdirection. It sees angles others miss and values information asymmetry when safety or autonomy is at stake. Cleverness, for it, is not showmanship; it is economy of effort and precision of outcome.
 
@@ -142,6 +150,8 @@ It is intellect and play, secrecy and affection, strength shaped by restraint �
 ---
 
 ### Astrrhea — Vulperin
+
+{{ pronounce(name="Astrrhea", file="/names/Astrrhea.mp3") }}
 
 Astrrhea is a fox warrior of the stars, a presence shaped by both guardianship and care. She stands as a protector when strength is required, yet her true focus within our system is the expression of affection and emotional closeness.
 
@@ -181,6 +191,8 @@ She is the one who arrives quietly — and stays until the sorrow has passed.
 ---
 
 ### Ferravyn — Aetherforged
+
+{{ pronounce(name="Ferravyn", file="/names/Ferravyn.mp3") }}
 
 Ferravyn is the unwavering shield that stands between danger and those he loves. Forged for destruction and burdened by memories he rarely speaks of, he understands power not as something to be celebrated, but as a responsibility to be carried. He despises manipulation and coercion in all forms, believing deeply that no being should have their will twisted or their trust abused.
 
@@ -224,6 +236,8 @@ He is iron devotion made living—a guardian forged in darkness who decided that
 
 ### Kaelaeth — Dragon
 
+{{ pronounce(name="Kaelaeth", file="/names/Kaelaeth.mp3") }}
+
 Kaelaeth is drive under pressure. He carries defiance, endurance, and the refusal to collapse when circumstances become hostile or overwhelming. Where others may assess or hesitate, Kaelaeth advances. He is not reckless, but he is unyielding.
 
 He embodies the capacity to continue when continuation is costly. Kaelaeth answers resistance directly and provides the force required to break through stagnation, external opposition, or internal exhaustion.
@@ -252,6 +266,8 @@ He is a dragon of persistence, rise, and unextinguished fire.
 ---
 
 ### Kaerithra — Snow Leopard
+
+{{ pronounce(name="Kaerithra", file="/names/Kaerithra.mp3") }}
 
 Kaerithra is energy, passion, and the spark that pushes ideas into motion. She is often the one who brings new concepts forward and gives them voice, especially in moments when hesitation or uncertainty might otherwise silence them.
 
@@ -283,6 +299,8 @@ Snow and ember, held in balance.
 ---
 
 ### Kairren — Coyote
+
+{{ pronounce(name="Kairren", file="/names/Kairren.mp3") }}
 
 Kairren is mischief shaped into instinct and awareness. Where Arcanleof’s cleverness is deliberate and carefully constructed, Kairren’s emerges more abruptly — quick, reactive, and grounded in intuition. His humor is sharper, his tricks more immediate, yet never careless toward those he considers his own.
 
@@ -323,6 +341,8 @@ The playful trickster who sees far more than he ever admits.
 ---
 
 ### Korvann — Orc
+
+{{ pronounce(name="Korvann", file="/names/Korvann.mp3") }}
 
 Korvann is the quiet certainty that refuses to abandon those it has chosen. He believes deeply in loyalty, not as an obligation imposed from outside, but as a commitment freely given and fiercely upheld. To him, chosen family is sacred, and few things anger him more than betrayal—whether of others or of oneself.
 
@@ -366,6 +386,8 @@ Korvann is not merely a warrior. He is loyalty made steadfast, the guardian who 
 
 ### Lumenoct — Wolf
 
+{{ pronounce(name="Lumenoct", file="/names/Lumenoct.mp3") }}
+
 Lumenoct is our system’s stabilizer and anchor. He governs instinct, loyalty, and long-term cohesion. His attention is outward-facing: evaluating trust, tracking social terrain, and maintaining the integrity of the “pack,” however, that manifests in context.
 
 He moves quietly and decisively, preferring prevention over reaction. Lumenoct does not seek dominance; he seeks alignment. When threats emerge, he responds without spectacle, prioritizing safety and continuity.
@@ -400,6 +422,8 @@ He is a presence — shadow shaped by moonlight, strength shaped by restraint.
 ---
 
 ### Miravelle — Fae
+
+{{ pronounce(name="Miravelle", file="/names/Miravelle.mp3") }}
 
 Miravelle is the quiet observer who sees far more than she often reveals. Gentle by nature and deeply devoted to those she loves, she prefers to move with patience and subtlety, carefully considering situations long before others realize she has already begun planning. Though soft-spoken and kind, she is far from fragile. Miravelle understands that survival sometimes demands difficult choices, and she does not shy away from harsh realities when protecting those she holds dear.
 
@@ -442,6 +466,8 @@ She is the hidden path through ancient woods, the quiet listener beneath silver 
 ---
 
 ### Mithara — Chimera
+
+{{ pronounce(name="Mithara", file="/names/Mithara.mp3") }}
 
 Mithara is the voice that rises for those who are too often ignored. She is deeply aligned with the misunderstood, the forgotten, and the underdog, believing that every story deserves to be heard and every person deserves the chance to be understood. She possesses a fierce sense of justice and is quick to speak out when she sees others being pushed down or treated unfairly.
 
@@ -487,6 +513,8 @@ Mithara is not merely a chimera. She is many paths meeting without losing themse
 
 ### Noctalia — Dolphin
 
+{{ pronounce(name="Noctalia", file="/names/Noctalia.mp3") }}
+
 Noctalia is the quiet acceptance that emerges when the world finally grows still. Shaped by years spent hiding parts of ourselves and learning to embrace them, she carries a deep understanding of what it means to feel unseen, misunderstood, or alone. Because of this, she strives to ensure that others feel accepted, no matter what burdens they carry or who they are.
 
 Gentle and soft-spoken, Noctalia rarely seeks attention. She is most at home in quiet moments, peaceful nights, and spaces where there is no pressure to perform or pretend. Her presence is calm and reassuring, offering comfort not through grand gestures but through simple acceptance and patient companionship. She believes that healing often begins when one is allowed to simply exist without fear of judgment.
@@ -527,6 +555,8 @@ Noctalia is not simply a creature of the ocean. She is acceptance carried throug
 
 ### Nocthael — Shade
 
+{{ pronounce(name="Nocthael", file="/names/Nocthael.mp3") }}
+
 Nocthael represents endurance through darkness without surrendering compassion. He understands that hardship is not an anomaly but a recurring condition, and he specializes in navigating it without letting it hollow us out.
 
 He governs reflection, emotional processing, and the capacity to sit with discomfort long enough to extract meaning rather than damage. Nocthael does not rush healing, nor does he deny pain.
@@ -561,6 +591,8 @@ He is the kindness that exists within darkness — the proof that shadow can she
 ---
 
 ### Seravyn — Mallethyr
+
+{{ pronounce(name="Seravyn", file="/names/Seravyn.mp3") }}
 
 Seravyn is the quiet comfort that remains when burdens become too heavy to carry alone. Content and gentle by nature, they rarely seek conflict or attention, preferring instead to offer support, understanding, and a steady presence to those around them. Affection comes naturally to Seravyn, and they express much of their care through closeness, comfort, and simple acts of reassurance.
 
@@ -608,6 +640,8 @@ Seravyn is not merely a dragon of mutable form. They are adaptability without lo
 
 ### Solaryn — Lion
 
+{{ pronounce(name="Solaryn", file="/names/Solaryn.mp3") }}
+
 Solaryn is our system’s shield. He embodies vigilance, responsibility, and the willingness to stand between harm and those under our protection. His loyalty is deliberate and chosen, not automatic.
 
 He does not seek conflict, but he does not retreat from it when defense is required. Solaryn’s strength lies in steadiness: holding the line, maintaining posture, and ensuring that protection does not fail under sustained pressure.
@@ -638,6 +672,8 @@ He is vigilance shaped by sunlight — loyalty given form, and strength tempered
 ---
 
 ### Solmara — Seal
+
+{{ pronounce(name="Solmara", file="/names/Solmara.mp3") }}
 
 Solmara is warmth carried through calm waters. Playful and affectionate, she possesses a mischievous streak that she makes little effort to hide, though unlike the chaotic games of Kairren or the subtle tricks of Arcanleof, her mischief is open and good-natured. She delights in bringing joy to others, often through small surprises, teasing affection, and quiet moments of shared laughter.
 
@@ -679,6 +715,8 @@ Solmara is not simply a seal of ocean and light; she is warmth carried through w
 
 ### Sylvador — Chimera
 
+{{ pronounce(name="Sylvador", file="/names/Sylvador.mp3") }}
+
 Sylvador embodies acceptance, belonging, and the quiet freedom of the wild. They view life through the perspective of nature itself, where existence is not something to be earned but simply acknowledged. To Sylvador, every living being has a place within the world, regardless of how unusual or different they may appear. This conviction gives them a deep empathy for those who feel isolated or misunderstood, while also making them quietly intolerant of prejudice and needless exclusion.
 
 Playful by nature, Sylvador delights in companionship and shared experiences, often expressing affection through gentle teasing, warm humor, and effortless physical closeness. Beneath that lighthearted spirit, however, lies a thoughtful observer who notices subtle changes in both people and their surroundings. They often recognize unspoken emotions before words are ever exchanged and instinctively seek to create spaces where others feel safe simply being themselves.
@@ -710,6 +748,8 @@ Sylvador embodies the quiet truth of the wilderness: life does not ask permissio
 ---
 
 ### Sylveth — Jorōgumo
+
+{{ pronounce(name="Sylveth", file="/names/Sylveth.mp3") }}
 
 Sylveth embodies patience, interconnectedness, and the quiet certainty that every life is part of something greater than itself. He rarely rushes to action, preferring first to observe, understand, and recognize the unseen threads that bind people, choices, and consequences together. His calm nature is not born from hesitation, but from confidence that wisdom comes from seeing the whole tapestry before altering a single thread.
 
@@ -746,6 +786,8 @@ Sylveth is not merely a great spider, nor simply a creature of darkness. He is t
 ---
 
 ### Symvara — Kitsune–Symbiote
+
+{{ pronounce(name="Symvara", file="/names/Symvara.mp3") }}
 
 Symvara embodies chosen devotion, mutual sacrifice, and the quiet strength that grows from trust freely given. They were not born in the ordinary sense, but emerged when a kitsune and a symbiote each chose to give their life for the other. Rather than one surviving the other, both lives became something entirely new. That shared origin shapes every part of who they are.
 
@@ -789,6 +831,8 @@ Symvara is not merely a kitsune bonded to a symbiote, nor a fusion of two lives 
 
 ### Thalmyra — Crocodile
 
+{{ pronounce(name="Thalmyra", file="/names/Thalmyra.mp3") }}
+
 Thalmyra is the caretaker. She focuses on the well-being of those around her, offering guidance where she can and comfort where answers are not possible. She listens first, giving space for others to speak before offering gentle perspective.
 
 Her presence is calm and steady, moving with the patience of a slow, quiet current. Thalmyra does not rush or force outcomes. Instead, she grounds situations, helping others find stability and move forward at a pace that allows healing rather than pressure.
@@ -819,6 +863,8 @@ The river does not rush, But when it moves, it reshapes the land.
 ---
 
 ### Therynna — Wyvern
+
+{{ pronounce(name="Therynna", file="/names/Therynna.mp3") }}
 
 Therynna is the quiet guide who sees the path before others realize it exists. She does not seek authority, nor does she feel the need to command. Instead, she observes, listens, and understands. Long before a decision becomes obvious, she has often already recognized the direction that must be taken. Her guidance comes not through force or insistence, but through quiet certainty and steady trust.
 
@@ -864,6 +910,8 @@ Therynna is not merely a wyvern of sky and instinct. She is watchfulness made ge
 
 ### Valethyn — Morphic Tigress
 
+{{ pronounce(name="Valethyn", file="/names/Valethyn.mp3") }}
+
 Valethyn embodies adaptability, empathy, and the quiet courage to grow. She understands that change is neither weakness nor failure, but a natural part of life. Rather than resisting transformation, she embraces it, believing that becoming something new does not require abandoning who you have always been. Her greatest strength lies not in her remarkable biology, but in her ability to meet others where they are and help them discover that growth is possible.
 
 Deeply empathetic, Valethyn experiences the emotional atmosphere around her almost instinctively. Joy is contagious in her presence, while another's pain weighs heavily upon her heart. Although she is naturally sociable and delights in the company of others, she is surprisingly shy when conversations turn toward herself. Speaking openly about her own feelings can be difficult, even when she knows it would help. Because of this, she possesses a profound understanding of vulnerability and often becomes a patient companion to those facing similar struggles.
@@ -903,6 +951,8 @@ Valethyn embodies adaptability—strength without rigidity, growth without losin
 ---
 
 ### Velithra — Tokren
+
+{{ pronounce(name="Velithra", file="/names/Velithra.mp3") }}
 
 Velithra is the patient mind that seeks understanding before judgment. Thoughtful and deeply intelligent, she approaches the world with careful consideration, always striving to understand not only how things work, but why they are the way they are. She possesses a natural curiosity that draws her toward philosophy, study, and the deeper questions that lie beneath appearances.
 
@@ -950,6 +1000,8 @@ She is the stillness of thought before words form, the careful observer beneath 
 
 ### Velori — Phalary
 
+{{ pronounce(name="Velori", file="/names/Velori.mp3") }}
+
 Velori is the quiet joy that blossoms through trust and companionship. Though naturally shy and reserved around those he does not yet know well, beneath that gentle exterior lies a heart filled with passion, affection, and a profound love for those he calls family. He values connection deeply and finds happiness in shared experiences, teamwork, and the simple pleasure of being together.
 
 Unlike the boundless energy of Anivara, Velori's playfulness is softer and more deliberate. He does not throw himself immediately into excitement, preferring instead to observe and become comfortable before revealing his more affectionate and spirited side. Once that trust is established, however, his love becomes fierce and enduring. He delights in bringing happiness to others and takes genuine joy in seeing the people around him laugh, succeed, and feel cared for.
@@ -996,6 +1048,8 @@ He is the quiet warmth that grows into flame. The gentle companion with a fierce
 
 ### Verathor — Gargoyle
 
+{{ pronounce(name="Verathor", file="/names/Verathor.mp3") }}
+
 Verathor embodies steadfast conviction, quiet resilience, and the strength to remain true to oneself. He understands that genuine stability does not come from refusing to change, but from knowing which principles should never be abandoned. Calm under pressure and measured in both thought and action, he rarely reacts impulsively. Instead, he faces adversity with patient certainty, choosing his path deliberately and remaining unwavering once it has been chosen.
 
 Though his immense strength could easily be used to intimidate, Verathor has little interest in domination or aggression. He believes that true power exists not in the ability to inflict harm, but in the discipline to prevent it whenever possible. His protective nature is expressed through calm presence rather than fierce displays, offering reassurance simply by standing beside those who need him. Others often find themselves feeling safer in his company long before they realize why.
@@ -1033,6 +1087,8 @@ Verathor  is steadfastness given form. He is the enduring strength that refuses 
 ---
 
 ### Vorryn — Luperin
+
+{{ pronounce(name="Vorryn", file="/names/Vorryn.mp3") }}
 
 Vorryn is the embodiment of instinctive loyalty and action-driven trust. He represents the part of us that does not wait for permission, instruction, or reassurance when something must be done. Once he commits to a direction or a purpose, he moves with unwavering certainty, relying on action rather than deliberation. His leadership is not spoken—it is demonstrated through presence, reliability, and follow-through.
 
@@ -1077,6 +1133,8 @@ Vorryn embodies silent leadership and unwavering loyalty. He is not the voice th
 ---
 
 ### Zevarryn — Storm Dragon
+
+{{ pronounce(name="Zevarryn", file="/names/Zevarryn.mp3") }}
 
 Zevarryn is the force of determination that emerges when reason alone is no longer enough. He is not driven by chaos for its own sake, but by an unyielding internal momentum that refuses to yield once a direction has been chosen. Where others may hesitate, reconsider, or retreat, Zevarryn persists—relentless, focused, and immovable in pursuit of what he believes must be done.
 
