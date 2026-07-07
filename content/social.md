@@ -12,13 +12,13 @@ For the latest news, insights, and discoveries, join our **Telegram Channel**: [
 
 ---
 
-## ❓ Ask the Dragonwolf
+## ❓ Ask The Animmyrath
 
 If you have a question, a curious thought, or a mystery you’d like to cast into the dark, you can send it directly to us through our **Ask page**.
 
 No account is required, and if you prefer to remain unseen, you may ask **anonymously**. Whether your question is about technology, writing, philosophy, accessibility, music, or the stranger corners of the world, one of us will be happy to answer.
 
-- **Ask a Question**: [questions for the Shadoe Pride](//ask.dragonwolfsp.com)
+- **Ask a Question**: [questions for the Animmyrath](//ask.dragonwolfsp.com)
 
 ---
 
