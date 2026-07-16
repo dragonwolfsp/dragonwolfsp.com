@@ -15,7 +15,6 @@ taxonomies = [
 ]
 
 
-
 [markdown]
 smart_punctuation = true
 render_emoji = true
@@ -41,4 +40,4 @@ footer_content_license = "Creative Commons Attribution-NonCommercial-ShareAlike 
 footer_content_license_link = "https://creativecommons.org/licenses/by-nc-sa/4.0/"
 copy_year = "2026"
 favicon = "graphics/dragonwolf.ico"
-title_404 = "Lost in the shadows"
+
