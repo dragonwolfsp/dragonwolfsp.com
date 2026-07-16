@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="content-section">
+
+  <h1>{{ section.title }}</h1>
+
+  {{ section.content | safe }}
+
+  <ul class="posts">
+    {% for song in section.pages %}
+    <li class="title-list">
+      <a href="{{ song.permalink }}" class="content-link">
+        {{ song.title }}
+    </a>
+        {% if song.extra.cover_image %}
+        <img class="song-thumb" src="{{ song.extra.cover_image }}" alt="{{ song.extra.cover_image_alt }}">
+        {% endif %}
+        {% if song.date %}
+        <time datetime="{{ song.date | date(format='%Y-%m-%d') }}" class="content-meta">
+          {{ song.date | date(format='%B %Y') }}
+        </time>
+        {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+</section>
+{% endblock content %}

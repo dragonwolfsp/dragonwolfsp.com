@@ -2,6 +2,8 @@
 title = "Along the Trail"
 template = "blog/section.html"
 page_template = "journal_page.html"
+
+sort_by = "date"
 +++
 
 

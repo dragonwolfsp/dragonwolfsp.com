@@ -1,0 +1,15 @@
+
+{% extends "base.html" %}
+
+{% block content %}
+<section class="genre-page">
+  <h1>{{ term.name }}</h1>
+  <ul class="song-list">
+    {% for song in term.pages %}
+    <li>
+      <a href="{{ song.permalink }}">{{ song.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endblock content %}

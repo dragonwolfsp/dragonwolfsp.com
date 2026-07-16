@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+<article class="song">
+
+  <header class="song-header">
+    <h1>{{ page.title }}</h1>
+
+    {% if page.extra.cover_image %}
+    <img class="song-cover" src="{{ page.extra.cover_image }}" alt="{{ page.extra.cover_image_alt }} ">
+    {% endif %}
+
+    {% if page.date %}
+    <time class="song-date" datetime="{{ page.date | date(format='%Y-%m-%d') }}">
+      {{ page.date | date(format='%B %Y') }}
+    </time>
+    {% endif %}
+  </header>
+
+    {{ page.content | safe }}
+
+  <div class="song-player">
+    <audio controls preload="none" src="{{ page.extra.audio_url }}">
+      Your browser doesn't support inline audio playback.
+      <a href="{{ page.extra.audio_url }}">Listen to {{ page.title }}</a>.
+    </audio>
+  </div>
+
+
+  {% if page.taxonomies.genres %}
+  <ul class="song-tags">
+    {% for genre in page.taxonomies.genres %}
+    <li><a href="{{ get_taxonomy_url(kind='genres', name=genre) }}">{{ genre }}</a></li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+
+</article>
+{% endblock content %}

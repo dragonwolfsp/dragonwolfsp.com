@@ -10,6 +10,11 @@ theme = "anemone"
 title = "The Den of the Animmyrath"
 author = "Animmyrath(Ethan Jones legally.)"
 feed_filenames = ["rss.xml"]
+taxonomies = [
+    { name = "genres", paginate_by = 10},
+]
+
+
 
 [markdown]
 smart_punctuation = true
@@ -25,6 +30,7 @@ header_nav = [
     { url = "/resume", name_en = "resume"},
     { url = "/blog", name_en = "blog" },
     { url = "/journal", name_en = "journal" },
+    { url = "/music", name_en = "music" },
     { url = "/buttons", name_en = "buttons" },
     { url = "/social", name_en = "social media" },
     { url = "/about", name_en = "about" },
