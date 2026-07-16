@@ -2,8 +2,22 @@
 <html lang="{% if page %}{{ page.lang }}{% else %}{{ config.default_language }}{% endif %}">
 {% block head %}
 <head>
-    {% include "head.html" %}
-    <a href = "https://dragonscave.space/@dragonwolfsp" style = "display: none;"></a>
+{% block title %}
+{% if page.title %}
+  {% set_global title = page.title %}
+{% elif section.title %}
+  {% set_global title = section.title %}
+{% elif term.name %}
+  {% set_global title = term.name %}
+{% elif config.title %}
+  {% set_global title = config.title %}
+{% endif %}
+{% if title %}
+<title>{{ title }}</title>
+{% endif %}
+{% endblock title %}
+{% include "head.html" %}
+<a href = "https://dragonscave.space/@dragonwolfsp" style = "display: none;"></a>
 </head>
 {% endblock head %}
 <body>

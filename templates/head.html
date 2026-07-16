@@ -3,15 +3,6 @@
 <meta content="text/html; charset=UTF-8" http-equiv="content-type"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <meta name="robots" content="index, follow">
-{% if page.title %}
-{% set title = page.title %}
-{% elif section.title %}
-{% set title = section.title %}
-{% elif not page  and not section  and config.extra.title_404%}
-{% set title = config.extra.title_404 %}
-{% elif config.title %}
-{% set title = config.title %}
-{% endif %}
 
 {% if page.extra.author %}
 {% set author = page.extra.author %}
@@ -41,9 +32,7 @@
 {% elif config.base_url %}
 {% set url = config.base_url %}
 {% endif %}
-{% if title %}
-<title>{{ title }}</title>
-{% endif %}
+
 {% block metatags %}
 {% if title %}
 <meta name="title" content="{{ title }}">
