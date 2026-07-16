@@ -84,6 +84,10 @@
                 weatherDescripter = "veiled";
 } else if (lowerWeatherDescription.includes('overcast')) {
                 weatherDescripter = "duskwrapped";
+        } else if (lowerWeatherDescription.includes('clear')) {
+                weatherDescripter = "serene";
+        } else if (lowerWeatherDescription.includes('haze')) {
+                weatherDescripter = "muted";
             } else {
                 weatherDescripter = "enigmatic";
             }

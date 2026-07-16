@@ -1,6 +1,6 @@
 +++
 title = "You Are the Wolf Inside"
-date = 2025-06-34
+date = 2025-06-03
 
 [taxonomies]
 genres = ["ambient", "experimental"]

@@ -6,5 +6,5 @@ date = 2025-12-13
 genres = ["ambient", "experimental"]
 
 [extra]
-audio_url = "//media.dragonwolfsp.com/music/the_dragon_is_free.flac
+audio_url = "//media.dragonwolfsp.com/music/the_dragon_is_free.flac"
 +++
