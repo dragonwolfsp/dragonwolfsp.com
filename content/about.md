@@ -18,15 +18,15 @@ We are both **furry** and **therian/otherkin**. This is not a hobby or metaphor.
 
 Our system is composed of distinct individuals, each carrying specific roles, instincts, and perspectives. Together, we maintain balance.
 
-### Aelziphyra — Phoenix
+### Aelzephyra — Phoenix
 
-{{ pronounce(name="Aelziphyra", file="/names/Aelziphyra.mp3") }}
+{{ pronounce(name="Aelzephyra", file="/names/Aelzephyra.mp3") }}
 
-Aelziphyra is the calm that remains when everything else begins to collapse. When situations become chaotic or dangerous, she maintains control and stability, ensuring that panic does not dictate our actions. Where others may react quickly, she slows the moment down, grounding decisions in thought and careful consideration.
+Aelzephyra is the calm that remains when everything else begins to collapse. When situations become chaotic or dangerous, she maintains control and stability, ensuring that panic does not dictate our actions. Where others may react quickly, she slows the moment down, grounding decisions in thought and careful consideration.
 
-She carries herself with a quiet, almost serene presence. Aelziphyra speaks only when she believes something truly needs to be said, and when she does, her words are measured and deliberate. Much of the comfort she provides does not come through speech but through the warmth and steadiness of her presence.
+She carries herself with a quiet, almost serene presence. Aelzephyra speaks only when she believes something truly needs to be said, and when she does, her words are measured and deliberate. Much of the comfort she provides does not come through speech but through the warmth and steadiness of her presence.
 
-Within our system, Aelziphyra ensures that clarity and stability remain possible even when circumstances become turbulent.
+Within our system, Aelzephyra ensures that clarity and stability remain possible even when circumstances become turbulent.
 
 #### Physical description
 
