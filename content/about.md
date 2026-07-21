@@ -192,6 +192,50 @@ She is the one who arrives quietly — and stays until the sorrow has passed.
 
 ---
 
+### Elysara — Lamia
+
+{{ pronounce(name="Elysara", file="/names/Elysara.mp3") }}
+
+Elysara embodies life's generative beauty, nurturing connection, and the profound intimacy that allows life to continue. She understands creation in its broadest sense: not only the birth of children, but also the creation of relationships, trust, healing, joy, and belonging. To her, life flourishes wherever genuine care is allowed to grow.
+
+Because of this, she views sexuality not as something shameful or merely instinctive, but as one expression of connection among many. Physical intimacy, affection, tenderness, pleasure, and emotional vulnerability all arise from the same fundamental truth: living beings are meant to know and care for one another. She approaches these experiences with deep respect, seeing them as gifts to be shared freely, responsibly, and always through mutual trust and consent.
+
+Her nurturing nature extends especially toward children and those who cannot yet protect themselves. Ancient stories often portrayed creatures like her as predators of the innocent, yet Elysara embodies the complete opposite. She instinctively shelters new life wherever she finds it, believing that those who are most vulnerable deserve the greatest compassion rather than the greatest fear.
+
+Though gentle by temperament, she is far from fragile. Like the serpent whose body she bears, she possesses quiet patience, tremendous strength, and remarkable certainty when those under her care are threatened. She rarely seeks conflict, but neither does she hesitate to place herself between danger and those who need protection. Her calmness should never be mistaken for helplessness.
+
+Elysara possesses an almost instinctive understanding of comfort. Whether offering encouragement, physical affection, practical support, or simply remaining beside someone in silence, she naturally recognizes what others need to feel safe and accepted. Her presence often helps others relax enough to become fully themselves.
+
+Within our system, Elysara represents nurturing connection, life's enduring continuity, and the sacred responsibility of protecting what is still growing. She reminds us that true strength is measured not only by what we can defend, but by what we choose to help flourish.
+
+#### Physical description
+
+Elysara is a magnificent lamia whose presence blends quiet elegance with unmistakable strength. There is a gentle warmth about her that immediately invites trust, yet beneath that kindness rests the effortless confidence of a creature fully aware of her own power. Every movement carries a natural grace, while the immense length of her serpentine body quietly reminds those around her that gentleness and strength have never been opposites.
+
+From the waist upward, her form is gracefully humanoid, tall and athletically built without sacrificing softness. Smooth, flowing muscles give her upper body a quiet strength suited equally to embracing, protecting, or defending those she loves. Her body is covered in an exceptionally fine layer of velvety scales. They possess a satin-smooth finish that feels pleasantly warm beneath the touch, giving her an appearance unlike either reptile or mammal, but something beautifully her own.
+
+Below her waist, her body transitions seamlessly into the long, powerful form of an enormous serpent. Her tail balances elegance with undeniable strength, broad enough to support or shelter others with effortless comfort while retaining the lithe flexibility of a masterful constrictor. Every coil is supported by powerful muscles that flow smoothly beneath her scales, allowing astonishing precision whether she is gliding silently across the ground, climbing through dense woodland, or gently wrapping herself around companions in quiet affection. Though capable of immense crushing force when necessity demands it, her movements almost always communicate protection before power.
+
+Her coloration begins as the deepest midnight blue near the end of her serpentine body, gradually brightening as it rises toward her humanoid form until the scales framing her face glow with a rich twilight blue. Throughout her body, subtle iridescent highlights shimmer softly beneath changing light, causing her scales to catch hints of violet, sapphire, and silver as she moves. Fine natural serpent markings weave elegantly along her coils, their patterns enhancing  the graceful flow of her form.
+
+Her face possesses an exotic beauty softened by an easy, welcoming smile. Delicate yet unmistakably serpentine, her features balance refinement with genuine warmth, creating an expression that rarely feels intimidating despite her unusual nature. Long dark-brown hair cascades in gentle waves from her head to the base of her serpentine body, framing her shoulders before flowing along her back like rich woodland silk. Its weight and movement naturally follow the curves of her body, adding to the impression of effortless grace.
+
+Her eyes are among her most striking features. Each iris bears a unique combination of color, violet woven together with radiant golden rings that seem to catch the light from within. They are calm, attentive eyes that seem to truly see those before her rather than merely look at them. When she calls upon her innate hypnotic gift, the ordered rings dissolve into slow, swirling pools of living color. Violet deepens through crimson before returning again, while the gold shifts through emerald and amber in graceful currents that seem almost impossible to follow. The transformation is mesmerizing, drawing the mind inexorably inward until conscious resistance begins to slip away. Those who meet her gaze often find themselves sinking into its depths with startling speed, as though thought itself has become slow, quiet, and wonderfully distant. The power is neither cruel nor chaotic, but it is undeniable, revealing a depth of influence that few can withstand once she chooses to wield it.
+
+Her hands are elegant and unusually expressive, each ending in six long, graceful fingers tipped with fine retractable claws. Though capable of remarkable precision and strength, they most often move with quiet gentleness, naturally finding reassuring touches or careful gestures that speak as clearly as words. Their additional dexterity allows every motion to feel almost effortless, whether weaving delicate work, preparing food, or offering comfort.
+
+Her great serpentine tail is never truly still. It flows behind her with quiet purpose, coiling instinctively around tree trunks, stones, or companions as naturally as another person might rest a hand upon a shoulder. Every movement remains smooth and silent, its immense strength concealed beneath effortless control. When danger threatens, the same coils that moments before offered warmth become an unyielding barrier between harm and those under her care.
+
+Elysara moves with the flowing certainty of a winding river. Every motion is fluid, balanced, and almost dance-like, transitioning seamlessly from quiet stillness into graceful action. Whether gliding across open ground, climbing through ancient forests, or weaving gently among companions, she never appears hurried. Even moments requiring great speed retain the same quiet elegance, every movement unfolding with deliberate purpose rather than frantic urgency.
+
+Her emotions reveal themselves through subtle changes in posture and movement rather than dramatic displays. The gentle curve of her body shifts to create space for others or coils protectively around those seeking comfort. Her hands linger naturally during moments of affection, while her welcoming smile brightens with quiet joy whenever those around her find happiness. Even in silence, her entire presence communicates openness, acceptance, and genuine care.
+
+The air surrounding her carries the gentle fragrance of wildflower honey resting upon freshly laundered linen warmed by the sun. The scent is clean, comforting, and quietly uplifting, lingering with the familiar reassurance of a place where one has always been welcome.
+
+Elysara is life's quiet embrace. She is the gentle strength that nurtures without possessing, the connection that asks for nothing while giving freely, and the enduring reminder that life flourishes most where kindness, trust, and acceptance are allowed to grow together. Within every graceful coil and every gentle touch lives the same quiet truth: to protect life is also to celebrate it.
+
+---
+
 ### Ferravyn — Aetherforged
 
 {{ pronounce(name="Ferravyn", file="/names/Ferravyn.mp3") }}
@@ -828,6 +872,52 @@ His scent carries the quiet fragrance of moss-covered stone and fresh earth bene
 Sylveth is not merely a great spider, nor simply a creature of darkness. He is the patient thread that binds endings to beginnings, the quiet weaver who understands that every life touches countless others before its journey continues. Within every web he spins lies the same quiet truth: nothing is ever truly separate, and every ending becomes the first thread of something yet to come.
 
 ---
+
+### Symtheron — Synthion
+
+{{ pronounce(name="Symtheron", file="/names/Symtheron.mp3") }}
+
+Symtheron embodies connection through presence, touch, and quiet action. Where others communicate primarily through words or ideas, he understands relationships through shared experience, physical closeness, and mutual trust. He reminds us that some of the deepest forms of communication happen without language at all.
+
+His instincts are deeply relational. He naturally seeks closeness with those he trusts, whether through conversation, shared work, simple companionship, or physical affection. To him, connection is never possessive or demanding; it is something built through mutual willingness and sustained by consistent care. He often expresses his thoughts through what he chooses to do rather than what he chooses to say, allowing his actions to speak with a clarity that words sometimes cannot.
+
+As a Synthion, Symtheron carries a biology centered upon implantation and reproduction, yet he experiences these not as domination or conquest, but as acts of profound trust, vulnerability, and creation. The continuation of life is something deeply sacred to him, founded upon consent, mutual care, and the wellbeing of everyone involved. His species' unusual biology reflects this philosophy, having evolved to preserve and protect rather than consume.
+
+Despite his gentle disposition, Symtheron remains unmistakably predatory. He possesses immense physical strength, exceptional resilience, and instincts honed by countless generations of apex evolution. Yet those qualities exist under extraordinary self-control. He has little interest in intimidation for its own sake, reserving violence only for moments when those he loves or protects face genuine danger. When that moment comes, his response is immediate, decisive, and unwavering.
+
+Playfulness forms another important part of his nature. He enjoys physical interaction, shared exploration, quiet companionship, and the simple comfort of existing alongside others. His affectionate nature often reveals itself through unconscious gestures: a tail wrapped gently around a companion, a reassuring touch, or simply choosing to remain close to someone who needs support.
+
+Within our system, Symtheron represents embodied connection, quiet intimacy, and protective strength. He reminds us that genuine closeness is built not through grand declarations, but through presence, trust, and the countless small choices to remain beside one another.
+
+#### Physical description
+
+Symtheron is a towering Synthion standing just over seven feet tall. His lithe, powerfully athletic frame is unmistakably predatory, every proportion shaped by generations of evolution into an apex hunter. Yet that same body carries an unexpected grace that softens nothing of its strength. Long limbs, broad shoulders, and a powerful balancing tail create a silhouette that is at once elegant   and undeniably formidable. There is little uncertainty in his presence; he moves with the quiet confidence of a creature that has never needed to prove what he is.
+
+Beneath his retractable protective plating lies a body covered in warm, living skin. Smooth and remarkably resilient, it possesses a gentle elasticity reminiscent of dense natural rubber while remaining unmistakably organic beneath the touch. The skin yields comfortably under pressure before returning effortlessly to its natural form, allowing extraordinary freedom of movement without sacrificing durability. When threatened or preparing for strenuous activity, dense protective plates emerge seamlessly across his body. Dark bronze in color and subtly translucent at their edges, they overlap with remarkable precision, forming flexible armor that moves as naturally as muscle without restricting even his most graceful motions.
+
+His exposed skin carries a rich blue-black coloration touched by subtle violet iridescence that shifts gently beneath changing light. Across both skin and plating alike, faint translucent qualities reveal quiet hints of the living structures beneath without ever exposing them fully. The bronze armor catches light with a restrained metallic sheen, lending his entire form the impression of something both biological and beautifully engineered by nature itself.
+
+His elongated head bears the unmistakable profile of his species. A smooth cranial dome sweeps backward in a continuous curve, concealing much of the intricate sensory anatomy beneath its translucent surface. Beneath the dome, softly luminous golden eyes remain partially veiled, their gentle bioluminescence glowing through the living structure with quiet intensity. His gaze is strikingly expressive. Curiosity, affection, amusement, and protective concern all become visible through subtle movements of his posture, the angle of his head, and the quiet light within his eyes.
+
+Set beneath his smooth features rests a pair of powerful outer jaws lined with elegant ivory teeth. Within them lies a remarkably precise inner jaw, capable of extending with extraordinary speed and accuracy. Though fully capable of serving as a formidable weapon, it is equally adapted for the intimate biological functions unique to his species. Its movements are controlled with astonishing delicacy, reflecting anatomy evolved not only for hunting but also for careful physical interaction.
+
+Integrated naturally within his inner anatomy is a specialized reproductive organ through which implantation occurs. The process is entirely biological, neither violent nor crude, and has evolved specifically to preserve the health and wellbeing of the host throughout every stage. A single implantation never exhausts his ability to reproduce, allowing him to safely carry and nurture multiple developing offspring over the course of his life.
+
+His long hands end in broad fingers tipped with retractable claws hidden beneath the same living plating that protects the rest of his body. When extended, they provide exceptional purchase for climbing, hunting, or defending those he cares for. When retracted, his hands become remarkably gentle, their warm, resilient skin allowing delicate work and reassuring physical contact with equal ease.
+
+Powerful digitigrade legs support his weight with effortless balance, each step placed with quiet certainty. His movements produce  little sound, while the broad structure of his feet provides exceptional stability across uneven ground, sheer surfaces, or dense forest canopies.
+
+Behind him extends a long, muscular tail that rarely remains still. Fully prehensile and immensely powerful, it serves as counterbalance, climbing aid, expressive limb, and formidable weapon in equal measure. It curls naturally around branches, companions, or nearby structures, often maintaining unconscious contact with those close to him as naturally as another creature might rest a hand upon a friend's shoulder.
+
+Emotion flows openly through his body. The tail shifts instinctively with affection, curiosity, or alertness, while subtle changes in posture and the quiet movement of his jaws reveal thoughts long before words become necessary. The soft glow beneath his cranial dome brightens almost imperceptibly during moments of joy, deep concentration, or profound emotional connection, lending his  features an unmistakable sense of life.
+
+Symtheron moves with fluid, predatory grace. Whether climbing vertical stone, traversing dense woodland, or sprinting with explosive speed across open ground, every motion appears both economical and beautifully controlled. Strength never interrupts elegance. Even at his fastest, his body seems to flow through the world, every movement carrying the confidence of perfect familiarity with his own  anatomy.
+
+The air around him carries a subtle fragrance of warm skin, rich forest resin, and a faint natural musk. It is an intimate scent, evoking quiet closeness and lingering gently in places where companions have rested beside him.
+
+Symtheron  is living connection given physical form. He is the quiet truth that strength and gentleness are not opposing forces, but complementary expressions of a life meant to be shared. Every aspect of his body, from protective armor to careful touch, reflects the same enduring principle: true power is measured not only by what it can overcome, but by what it chooses to preserve.
+
+...
 
 ### Symvara — Kitsune–Symbiote
 
