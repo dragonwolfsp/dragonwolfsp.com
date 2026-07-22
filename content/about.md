@@ -917,7 +917,7 @@ The air around him carries a subtle fragrance of warm skin, rich forest resin, a
 
 Symtheron  is living connection given physical form. He is the quiet truth that strength and gentleness are not opposing forces, but complementary expressions of a life meant to be shared. Every aspect of his body, from protective armor to careful touch, reflects the same enduring principle: true power is measured not only by what it can overcome, but by what it chooses to preserve.
 
-...
+---
 
 ### Symvara — Kitsune–Symbiote
 
