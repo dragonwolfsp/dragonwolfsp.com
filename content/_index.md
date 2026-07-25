@@ -14,3 +14,7 @@ There is something to be sed about your moon, but unfortunately its mystery has 
 <div id="temperatureFraze">
 The air around you is far too mysterious for even us  to quantify.
 </div>
+
+---
+
+{{ increment(key="dragonwolfsp")}}
