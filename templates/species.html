@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+
+{% block content %}
+{# Labels resolve page -> section -> default, so a guide can reword them once and an entry can still override. #}
+{% set guide = get_section(path="about/system/species/_index.md") %}
+{% set attrs_heading = page.extra.attributes_heading | default(value=guide.extra.attributes_heading | default(value="Shared traits")) %}
+{% set breeds_heading = page.extra.breeds_heading | default(value=guide.extra.breeds_heading | default(value="Breeds")) %}
+{% set members_heading = page.extra.members_heading | default(value=guide.extra.members_heading | default(value="Members")) %}
+{% set members_empty = page.extra.members_empty | default(value=guide.extra.members_empty | default(value="No members recorded yet.")) %}
+
+<article class="entry entry-guide entry-species">
+
+  <header class="entry-header">
+    {{ macros::entry_heading(title=page.title, tagline=page.extra.tagline | default(value="")) }}
+  </header>
+
+  <div class="entry-body">
+    {{ page.content | safe }}
+  </div>
+
+  {{ macros::attributes_block(items=page.extra.attributes | default(value=""), heading=attrs_heading) }}
+
+  {# Breeds live in their own subsection to stay out of the paginated species index, so it is loaded explicitly. #}
+  {# Tera's `filter` treats a dotted attribute as a JSON pointer, so extra.breed_of works and entries lacking it drop out. #}
+  {% set breed_section = get_section(path="about/system/species/breeds/_index.md") %}
+  {% set breeds = breed_section.pages | filter(attribute="extra.breed_of", value=page.slug) %}
+  {% if breeds | length > 0 %}
+  <section class="entry-breeds">
+    <h2>{{ breeds_heading }}</h2>
+    {% set items = breeds %}
+    {% set empty_note = "" %}
+    {% include "partials/entry_list.html" %}
+  </section>
+  {% endif %}
+
+  {{ macros::taxonomy_members(kind="species", slug=page.slug, heading=members_heading, empty_note=members_empty) }}
+
+</article>
+{% endblock content %}

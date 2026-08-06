@@ -1,0 +1,74 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+
+{% block content %}
+{% set member_name = page.extra.name | default(value=page.title) %}
+<article class="entry entry-member">
+
+  <header class="entry-header">
+    <h1>{{ page.title }}</h1>
+    {{ macros::pronounce_button(name=member_name, file="/names/" ~ member_name ~ ".mp3") }}
+    {% if page.extra.tagline %}
+    <p class="entry-tagline">{{ page.extra.tagline }}</p>
+    {% endif %}
+  </header>
+
+  {{ macros::entry_image(image=page.extra.image | default(value=""), title=page.title) }}
+
+  <dl class="entry-facts">
+    {% if page.extra.gender %}
+    <dt>Gender</dt>
+    <dd>{{ page.extra.gender }}</dd>
+    {% endif %}
+
+    {% if page.extra.pronouns %}
+    <dt>Pronouns</dt>
+    <dd>{{ page.extra.pronouns }}</dd>
+    {% endif %}
+
+    {% if page.taxonomies.species %}
+    <dt>Species</dt>
+    <dd class="entry-tags">
+      {% for name in page.taxonomies.species %}
+      {% set slug = name | slugify %}
+      <a class="entry-tag" href="{{ get_url(path='@/about/system/species/' ~ slug ~ '.md') }}">{{ name }}</a>
+      {% endfor %}
+    </dd>
+    {% endif %}
+
+    {% if page.taxonomies.breed %}
+    <dt>Breed</dt>
+    <dd class="entry-tags">
+      {% for name in page.taxonomies.breed %}
+      {% set slug = name | slugify %}
+      <a class="entry-tag" href="{{ get_url(path='@/about/system/species/breeds/' ~ slug ~ '.md') }}">{{ name }}</a>
+      {% endfor %}
+    </dd>
+    {% endif %}
+
+    {% if page.taxonomies.form %}
+    <dt>Form</dt>
+    <dd class="entry-tags">
+      {% for name in page.taxonomies.form %}
+      {% set slug = name | slugify %}
+      <a class="entry-tag" href="{{ get_url(path='@/about/system/forms/' ~ slug ~ '.md') }}">{{ name }}</a>
+      {% endfor %}
+    </dd>
+    {% endif %}
+  </dl>
+
+  <div class="entry-body">
+    {{ page.content | safe }}
+  </div>
+
+  {% if page.extra.physical_description %}
+  <section class="entry-physical">
+    <h2>Physical description</h2>
+    <div class="entry-description">
+      {{ page.extra.physical_description | markdown | safe }}
+    </div>
+  </section>
+  {% endif %}
+
+</article>
+{% endblock content %}

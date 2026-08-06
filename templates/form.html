@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% import "macros.html" as macros %}
+
+{% block content %}
+{% set guide = get_section(path="about/system/forms/_index.md") %}
+{% set attrs_heading = page.extra.attributes_heading | default(value=guide.extra.attributes_heading | default(value="Shared traits")) %}
+{% set members_heading = page.extra.members_heading | default(value=guide.extra.members_heading | default(value="Members")) %}
+{% set members_empty = page.extra.members_empty | default(value=guide.extra.members_empty | default(value="No members recorded yet.")) %}
+
+<article class="entry entry-guide entry-form">
+
+  <header class="entry-header">
+    {{ macros::entry_heading(title=page.title, tagline=page.extra.tagline | default(value="")) }}
+  </header>
+
+  <div class="entry-body">
+    {{ page.content | safe }}
+  </div>
+
+  {{ macros::attributes_block(items=page.extra.attributes | default(value=""), heading=attrs_heading) }}
+
+  {{ macros::taxonomy_members(kind="form", slug=page.slug, heading=members_heading, empty_note=members_empty) }}
+
+</article>
+{% endblock content %}

@@ -12,6 +12,9 @@ author = "Animmyrath(Ethan Jones legally.)"
 feed_filenames = ["rss.xml"]
 taxonomies = [
     { name = "genres", paginate_by = 10},
+    { name = "species", paginate_by = 10, render = false },
+    { name = "breed", paginate_by = 10, render = false },
+    { name = "form", paginate_by = 10, render = false },
 ]
 
 

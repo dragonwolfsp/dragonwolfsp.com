@@ -1,5 +1,6 @@
 +++
 title = "who are the Animmyrath?"
+draft = true
 +++
 
 ## Who We Are
@@ -93,6 +94,52 @@ Her scent is subtle but persistent: a warm, clean musk layered with a restrained
 Despite her firmness, there is softness in how she lowers herself, how her fur shifts when she rests, how her wings relax when she allows proximity. She can hold space with authority or share it with quiet generosity, both expressed through the same controlled presence.
 
 When Aevira is still, her wings fold close, her tail settles, and her breathing remains steady and deep. She does not need to announce herself. Her form speaks clearly enough: contained strength, measured intent, and balance enforced only when imbalance persists.
+
+---
+
+### Amelira — Morphic Fox
+
+{{ pronounce(name="Amelira", file="/names/Amelira.mp3") }}
+
+Amelira embodies joyful connection, shared laughter, and the simple happiness of being together. She represents the part of us that instinctively reaches toward others, believing that friendship, affection, and play are among life's greatest gifts. To her, joy is not something to be kept, but something that naturally grows when it is shared.
+
+Movement is one of Amelira's native languages. Rarely content to remain still, she bounds, stretches, curls, and dances through the world with infectious enthusiasm. Her playful energy is never aimless, however. Every movement becomes another opportunity to invite someone into the moment, whether through laughter, a gentle embrace, or the quiet comfort of simply sharing space together.
+
+Her remarkable morphic biology reflects this philosophy perfectly. She changes size, shape, softness, and reach with effortless ease, not simply because she can, but because every transformation allows her to better meet the needs of those around her. A comforting embrace, an exuberant greeting, a playful game, or quiet companionship all become expressions of the same underlying desire: to make others feel welcomed, valued, and included.
+
+Although endlessly energetic, Amelira is never frivolous. She understands that genuine friendship is built upon mutual joy rather than obligation. Her affection is freely offered but never imposed, and she delights most when everyone involved is able to laugh, grow, and simply enjoy being themselves together.
+
+Within our system, Amelira serves as the embodiment of shared happiness, playful affection, and joyful adaptability. She reminds us that connection flourishes through sincerity rather than performance, that growth often begins with the simple willingness to reach toward another, and that even the smallest moments of shared joy can leave lasting warmth behind.
+
+#### Physical description
+
+Amelira is a graceful morphic fox whose bright presence seems to invite laughter long before she speaks. Her slender athletic build carries an unmistakable vitality that makes her appear constantly ready to spring into motion. Every movement feels lighthearted without ever becoming careless, balancing playful enthusiasm with quiet confidence. Whether bounding eagerly through a woodland clearing or curling comfortably beside a close friend, she possesses the effortless warmth of someone who believes happiness is best experienced together.
+
+Her body is built upon an extraordinarily adaptable anatomy that responds freely to her own will. She can grow from the size of a small fox to truly enormous proportions or become smaller still, every change occurring with perfect natural balance. Alongside her changing size, she may alter the firmness and density of her body at will, becoming wonderfully soft and yielding or remarkably resilient without ever losing her graceful proportions. Her entire form can stretch to extraordinary lengths, every muscle, bone, and organ expanding seamlessly while remaining completely healthy and functional. No matter how dramatically she changes, every movement retains the unmistakable elegance of a fox.
+
+Covering her body is a luxuriously thick coat of exceptionally soft pine-green fur. Rich and inviting, the dense double coat carries a quiet warmth that naturally encourages closeness. Deep indigo striping flows gracefully across her body, following the contours of her form with patterns that stretch and contract effortlessly alongside every transformation. Her fur seems  alive in the way it moves with her, preserving its plush fullness whether she is scarcely larger than a kit or towering high above those around her.
+
+Amelira possesses the remarkable ability to retract her fur completely beneath her skin. As the soft coat withdraws, it reveals an underlying surface unlike that of any ordinary creature. Her living skin carries a subtle organic texture, gently patterned and faintly resilient beneath the touch. Though possessing an elasticity similar to her furred form, it feels firmer, its subtly rough, naturally patterned surface providing a  sense of warmth and stability rather than smoothness. Every transformation occurs without wrinkles, seams, or visible strain, preserving the graceful lines of her body regardless of size or shape.
+
+Her coloration remains striking in either form. The deep pine green gradually darkens along her legs while the indigo striping continues naturally across every contour of her body. Upon each side of her magnificent tail rest three deep crimson triangular markings,  their rich color standing out boldly against the surrounding fur. They remain perfectly proportioned regardless of her size, becoming a distinctive signature visible even from afar.
+
+Her face carries the gentle proportions of a fox softened by perpetual warmth and curiosity. Large expressive ears crown her head, constantly shifting with every conversation, folding bashfully during moments of embarrassment, or lifting high whenever excitement overtakes her. Their subtle movements often reveal her thoughts long before words ever do.
+
+Her warm brown eyes sparkle with delicate flecks of green and silver that catch the light whenever she turns her head. Gentle by nature yet wonderfully expressive, they brighten almost constantly in the company of others. Looking into them gives the unmistakable impression of someone genuinely delighted simply because another living being is present to share the moment.
+
+Behind her trails an extraordinarily full and wonderfully fluffy tail that seems almost to possess a personality of its own. Though naturally proportional to her changing size, its remarkable fullness remains constant, making it an irresistible source of warmth and comfort. The tail moves almost continuously, wrapping affectionately around companions, swaying excitedly during conversation, or stretching remarkable distances to maintain gentle contact with someone she cares for. It feels less like a separate appendage than another voice through which she expresses herself.
+
+Her paws are broad enough to provide secure footing while retaining the quiet softness of well-padded fox feet. Strong, gently curved claws provide effortless purchase across earth, bark, and stone. The remarkable flexibility of her anatomy allows each paw to stretch and reshape with extraordinary precision. Individual digits lengthen, narrow, and articulate as needed, granting a level of dexterity that rivals plantigrade hands while preserving the strength expected of a powerful predator. At larger sizes, that same flexibility allows tremendous strength to coexist naturally alongside delicate control.
+
+Her emotions ripple openly across her entire body. Her ears dance constantly with excitement, her tail rarely stops moving, and moments of happiness often cause her size or softness to shift unconsciously without the slightest awareness. During particularly joyful moments she stretches instinctively toward those around her, reaching for playful embraces, gentle nudges, or simple physical closeness with effortless sincerity.
+
+Amelira moves with endless  grace. She bounds effortlessly over fallen logs, scales trees with playful agility, and incorporates stretching naturally into nearly every movement. Watching her travel through the world feels almost like watching music made visible, every leap flowing seamlessly into the next without hesitation or wasted effort. Around those she loves, remaining still seems almost impossible, her body constantly finding joyful new ways to share the space with others.
+
+The atmosphere surrounding her carries an infectious warmth that encourages others to relax and simply enjoy one another's company. Conversations seem easier, laughter arrives more readily, and quiet companionship feels every bit as meaningful as celebration. Her presence never demands attention, yet it naturally draws people closer together.
+
+Her scent carries the gentle fragrance of warm honey mingled with the familiar musk of a healthy fox. Softly sweet without becoming overpowering, it lingers like the comforting memory of a joyful afternoon spent among close friends.
+
+Amelira is joyful connection given living form. She is the playful reminder that affection is meant to be shared freely, that laughter grows when offered to others, and that genuine friendship leaves everyone involved richer than before. Every joyful change she embraces reflects the same quiet truth: there is always room to grow, to reach farther, and to welcome another into the happiness already being shared.
 
 ---
 
@@ -425,6 +472,60 @@ Kairren embodies the watcher who knows more than he lets on. He is playful, chao
 He is the rustle in tall grass. The flash of movement at the edge of vision.
 
 The playful trickster who sees far more than he ever admits.
+
+---
+
+### Kitsunari — Bioforged Fox
+
+{{ pronounce(name="Kitsunari", file="/names/Kitsunari.mp3") }}
+
+Kitsunari embodies personal freedom, self-determination, and the strength to defend both. He represents the belief that every individual deserves the opportunity to choose their own path, to stand upon their own feet, and to shape their own future without coercion or unnecessary restraint. To him, true protection is not creating dependence, but helping others become capable of protecting themselves.
+
+Open, expressive, and endlessly energetic, Kitsunari thrives in the company of others. Conversation comes naturally to him, and he delights in exchanging ideas, sharing excitement, and encouraging those around him to discover strengths they may not yet recognize in themselves. His confidence is infectious rather than overwhelming, inspiring others not by demanding they follow him, but by reminding them they are capable of standing on their own.
+
+His bioforged nature reflects that philosophy. Living biology and adaptive technology exist within him as a single unified whole, each strengthening the other rather than competing for control. The formidable weapon systems woven throughout his body are never symbols of domination. They exist to defend freedom, preserve life, and ensure that those under his protection remain free to make their own choices. Even his optional pilot chamber reflects this trust: he willingly places control in another's hands only when that trust has been fully earned, and only because he freely chooses to do so.
+
+Despite his immense firepower, Kitsunari is anything but aggressive. He genuinely enjoys helping others learn, grow, and gain confidence in themselves. He celebrates independence wherever he finds it, taking particular satisfaction in watching someone accomplish something they once believed impossible. Victory, to him, is measured less by defeating an opponent than by seeing another person realize they no longer need to rely on anyone else's permission to succeed.
+
+When freedom is threatened, however, his demeanor changes without hesitation. The same cheerful fox who moments before was laughing with friends becomes calm, focused, and extraordinarily decisive. Every weapon at his disposal exists for precisely these moments. He neither glorifies conflict nor avoids it when it becomes necessary. Once danger has passed, his warmth returns just as naturally as if it had never left.
+
+Within our system, Kitsunari serves as the embodiment of freedom, empowerment, and joyful resilience. He reminds us that genuine strength is measured not by how many depend upon us, but by how many leave our presence more capable than when they arrived. He stands as a quiet affirmation that the greatest gift one person can offer another is not control, but the freedom and confidence to become fully themselves.
+
+#### Physical description
+
+Kitsunari is a towering Bioforged Fox whose very presence radiates energetic confidence. Standing noticeably larger than any natural fox, his broad, athletic frame balances tremendous physical strength with the effortless agility of a born runner. There is an unmistakable readiness about him, as though every movement carries the promise of action should it become necessary. Yet despite the formidable capabilities hidden beneath his fur, his expression remains remarkably approachable, often brightened by an eager smile or the unmistakable excitement of genuine conversation. Around friends, he carries himself with the easy openness of someone who believes freedom is best shared rather than guarded alone.
+
+His powerful  body is built upon a reinforced skeletal structure capable of enduring tremendous forces without sacrificing flexibility. Long  limbs provide both explosive acceleration and graceful maneuverability, while his broad shoulders and deep chest house the complex biological systems that sustain his extraordinary physiology. Every proportion feels purpose-built  for speed, endurance, combat, and the freedom to move wherever his instincts lead him.
+
+Covering nearly his entire body is a dense double coat of exceptionally soft black fur threaded with deep crimson undertones that become visible where light catches individual hairs. His legs darken into near-black, grounding his silhouette, while subtle metallic reflections shimmer faintly throughout the coat. Beneath the fur, living biomechanical fibers intertwine so completely with his natural anatomy that no true boundary exists between flesh and machine.
+
+Subtle crimson markings weave naturally across his body, echoing the familiar patterns of a fox while incorporating elegant seams where hidden armor rests beneath the surface. Faint energy channels glow softly beneath the fur during moments of excitement or heightened readiness, tracing graceful lines that feel  organically grown over countless generations.
+
+His body itself is a seamless union of living biology and sophisticated biomechanical architecture. Mechanical structures grow alongside his natural anatomy, , flexing with muscle and responding with the same effortless coordination as living tissue. Internal mechanisms breathe, shift, and move with quiet rhythm beneath his skin, every system alive in its own right. He appears as though evolution itself had embraced living technology as another path toward life.
+
+When danger presents itself, his protective armor emerges in one continuous, fluid transformation. Beginning beneath the fur, overlapping segmented plates rise silently across his body like scales unfolding from beneath the skin. Each dark metallic plate slides naturally into position with extraordinary precision, following the contours of his muscles until nearly his entire frame is protected by streamlined living armor. Crimson energy pulses softly between each articulated segment, while every joint remains as flexible and responsive as before. The transformation resembles neither mechanical deployment nor biological mutation alone, but a living creature calmly revealing another aspect of itself.
+
+Integrated throughout this armor rests an extensive defensive arsenal, every weapon hidden until the moment it is required. Powerful claws extend from his paws surrounded by controlled energy capable of enhancing both cutting power and precision. Compact shotgun-like weapons rise smoothly from concealed housings upon his shoulders, while heavier forelimb cannons emerge seamlessly along his front legs. A missile system concealed along his back unfolds only when needed, each launcher integrating perfectly with the armored silhouette. Along the length of his broad tail, hidden panels open to deploy energy explosives or brilliant flash charges, while dormant electromagnetic coils awaken beneath the armor, allowing the tail itself to become a devastating energy whip without sacrificing its natural flexibility. Though formidable in every respect, the entire arsenal remains carefully integrated into his body, never overwhelming the elegant lines of his natural form.
+
+Hidden safely within his torso lies a living control chamber that only he may reveal. The biological interior is warm, resilient, and unmistakably alive, surrounding a carefully integrated array of mechanical controls designed for those whom he willingly entrusts with shared control of his body. The chamber cannot be forced open and may be sealed completely at his discretion, ensuring that trust always remains his choice rather than another's privilege. Even when another occupies the chamber, he remains fully conscious, working alongside them as equal partners rather than surrendering himself.
+
+His broad fox head remains unmistakably recognizable despite its increased size and subtle biomechanical refinement. Strong cheeks and a slightly reinforced jaw frame an expression that remains remarkably animated, allowing curiosity, determination, amusement, and excitement to appear with exceptional clarity. Large fox ears pivot constantly toward voices and distant sounds, rotating independently with extraordinary precision while hidden mechanical structures enhance their already remarkable sensitivity.
+
+His brilliant golden eyes shine with a gentle internal glow, intricate mechanical iris patterns shifting almost imperceptibly within them as they gather information from the world around him. Their light brightens naturally alongside his emotions, making excitement, determination, or simple happiness immediately visible to those who know him well.
+
+Behind him sweeps an enormous, luxuriously full tail whose impressive size serves both practical and expressive purposes. Beneath its soft fur lie integrated mechanical systems concealed so completely that they disappear into its natural movement. It balances him effortlessly during impossible leaps, communicates emotion through constant motion, and houses many of the remarkable defensive capabilities unique to his species. Despite everything hidden within it, the tail never loses the soft warmth and expressive character expected of a fox.
+
+His broad padded paws conceal retractable claws strengthened by living mechanical reinforcement. They provide secure footing across rock, metal, or forest floor alike while remaining gentle enough to handle fragile objects with remarkable precision. Whether climbing sheer surfaces, operating delicate machinery, or offering a reassuring touch, every movement reflects equal measures of immense strength and careful control.
+
+His emotions ripple openly throughout his entire body. His ears perk eagerly toward conversation, his tail sweeps enthusiastically behind him, and the subtle glow beneath his fur brightens whenever excitement or joy takes hold. Even in complete silence, his posture communicates confidence, warmth, and genuine engagement with those around him.
+
+Kitsunari moves with joyful precision. Every stride combines explosive athleticism with effortless grace, allowing him to sprint, leap, climb, and weave through complex terrain with astonishing fluidity. He seems perfectly at home within motion itself, as though freedom is something expressed through every step.
+
+The atmosphere surrounding him carries a quiet optimism balanced by unmistakable readiness. There is the reassuring sense that whatever danger may appear, he has already begun preparing for it without sacrificing his enthusiasm for the present moment. Around him, strength encourages others to stand confidently upon their own feet.
+
+His scent carries the subtle fragrance of clean forest air touched by warm ozone and the familiar musk of a healthy fox. Beneath it lingers the faint metallic warmth of living machinery gently cooling after movement, blending seamlessly into a scent that is both vibrant and unmistakably alive.
+
+Kitsunari is freedom strengthened by responsibility. Every living mechanism within him exists to ensure that neither fear nor oppression can take freedom away. His remarkable body reflects the same truth that guides his spirit: true strength is not measured by how completely one can control another, but by how fully one can protect the right of every living being to stand upon their own path.
 
 ---
 

@@ -1,0 +1,56 @@
+{# Shared macros. Tera macros cannot see the caller's context, so everything they need is passed as an argument. #}
+{# The linked-entry list is an include in partials/entry_list.html rather than a macro here, because taxonomy_members needs to render it and Tera cannot import a macro file into itself. #}
+
+{# The class and data-audio attribute are what static/js/pronounce.js matches on. #}
+{% macro pronounce_button(name, file) -%}
+<button class="pronounce-btn" data-audio="{{ file | safe }}" aria-label="Hear pronunciation of {{ name }}">
+  {{ name }} 🔊
+</button>
+{%- endmacro pronounce_button %}
+
+{% macro entry_image(image="", title="") %}
+{% if image %}
+<figure class="entry-image">
+  <img src="{{ get_url(path=image, trailing_slash=false) | safe }}" alt="Illustration of {{ title }}" loading="lazy">
+</figure>
+{% endif %}
+{% endmacro entry_image %}
+
+{# The <header> wrapper stays with the caller so breed.html can put its parent backlink inside the same element. #}
+{% macro entry_heading(title, tagline="") %}
+  <h1>{{ title }}</h1>
+  {% if tagline %}
+  <p class="entry-tagline">{{ tagline }}</p>
+  {% endif %}
+{% endmacro entry_heading %}
+
+{% macro attributes_block(items="", heading="Shared traits") %}
+{% if items %}
+  <section class="entry-attributes">
+    <h2>{{ heading }}</h2>
+    <dl>
+      {% for attribute in items %}
+      <dt>{{ attribute.name }}</dt>
+      <dd>{{ attribute.value }}</dd>
+      {% endfor %}
+    </dl>
+  </section>
+{% endif %}
+{% endmacro attributes_block %}
+
+{# Filters get_taxonomy rather than calling get_taxonomy_term, which errors on a term with no pages yet. #}
+{# Matches on the calling page's filename slug, so that must equal the term slug. #}
+{% macro taxonomy_members(kind, slug, heading="Members", empty_note="No members recorded yet.") %}
+  <section class="entry-members">
+    <h2>{{ heading }}</h2>
+    {% set_global items = [] %}
+    {% set taxonomy = get_taxonomy(kind=kind, required=false) %}
+    {% if taxonomy %}
+      {% set matches = taxonomy.items | filter(attribute="slug", value=slug) %}
+      {% if matches | length > 0 %}
+        {% set_global items = matches | first | get(key="pages") %}
+      {% endif %}
+    {% endif %}
+    {% include "partials/entry_list.html" %}
+  </section>
+{% endmacro taxonomy_members %}

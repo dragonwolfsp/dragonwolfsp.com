@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+{#- Local override: the theme's version walked only root pages plus one level of subsections, so everything under about/system/ and every section index page was missing. -#}
+{#- Unrolled to four levels below root because Tera macros cannot recurse. A deeper tree needs another nested loop. -#}
+{#- Zola does not expose `render` to templates, so a section that builds no page (species/breeds/) sets extra.sitemap = false to keep its 404 URL out. -#}
+
+{%- macro url(link, date="") %}
+    <url>
+        <loc>{{ link | safe }}</loc>
+        {%- if date %}
+        <lastmod>{{ date | date(format="%Y-%m-%d") }}</lastmod>
+        {%- endif %}
+    </url>
+{%- endmacro url %}
+
+{%- macro section_urls(sec) %}
+    {%- if sec.extra.sitemap | default(value=true) %}
+        {{- self::url(link=sec.permalink) }}
+    {%- endif %}
+    {%- for p in sec.pages %}
+        {{- self::url(link=p.permalink, date=p.date | default(value="")) }}
+    {%- endfor %}
+{%- endmacro section_urls %}
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- set root = get_section(path="_index.md") %}
+{{- self::section_urls(sec=root) }}
+{%- for path1 in root.subsections %}
+    {%- set s1 = get_section(path=path1) %}
+    {{- self::section_urls(sec=s1) }}
+    {%- for path2 in s1.subsections %}
+        {%- set s2 = get_section(path=path2) %}
+        {{- self::section_urls(sec=s2) }}
+        {%- for path3 in s2.subsections %}
+            {%- set s3 = get_section(path=path3) %}
+            {{- self::section_urls(sec=s3) }}
+            {%- for path4 in s3.subsections %}
+                {%- set s4 = get_section(path=path4) %}
+                {{- self::section_urls(sec=s4) }}
+            {%- endfor %}
+        {%- endfor %}
+    {%- endfor %}
+{%- endfor %}
+
+{#- Taxonomies are a separate axis, so the walk above cannot reach them. -#}
+{#- `genres` is named explicitly because Zola does not expose config.taxonomies, and it is the only taxonomy that builds pages. Add a block here if another is enabled. -#}
+{#- Term permalinks are canonical; their /page/1/ variants are duplicates and are left out. -#}
+{%- set genres = get_taxonomy(kind="genres", required=false) %}
+{%- if genres %}
+    {{- self::url(link=get_url(path="genres/", trailing_slash=true)) }}
+    {%- for term in genres.items %}
+        {{- self::url(link=term.permalink) }}
+    {%- endfor %}
+{%- endif %}
+</urlset>

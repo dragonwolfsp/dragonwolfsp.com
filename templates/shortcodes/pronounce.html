@@ -1,3 +1,2 @@
-<button class="pronounce-btn" data-audio="{{ file | safe }}" aria-label="Hear pronunciation of {{ name }}">
-  {{ name }} 🔊
-</button>
+{% import "macros.html" as macros -%}
+{{ macros::pronounce_button(name=name, file=file) }}

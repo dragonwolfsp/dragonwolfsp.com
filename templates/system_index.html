@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{% block content %}
+<section class="system-index">
+
+  <h1>{{ section.title }}</h1>
+
+  <div class="system-intro">
+    {{ section.content | safe }}
+  </div>
+
+  <h2>Members</h2>
+  {% if section.pages | length > 0 %}
+  <ul class="member-list">
+    {% for member in section.pages %}
+    <li class="member-card">
+      <a class="member-name" href="{{ member.permalink | safe }}">{{ member.title }}</a>
+      {% if member.extra.tagline %}
+      <p class="member-tagline">{{ member.extra.tagline }}</p>
+      {% endif %}
+      <p class="member-meta">
+        {% if member.taxonomies.species %}
+        <span class="meta-species"><span class="meta-label">Species:</span> {{ member.taxonomies.species | join(sep=", ") }}</span>
+        {% endif %}
+        {% if member.taxonomies.breed %}
+        <span class="meta-breed"><span class="meta-label">Breed:</span> {{ member.taxonomies.breed | join(sep=", ") }}</span>
+        {% endif %}
+        {% if member.taxonomies.form %}
+        <span class="meta-form"><span class="meta-label">Form:</span> {{ member.taxonomies.form | join(sep=", ") }}</span>
+        {% endif %}
+      </p>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="empty-note">No members recorded yet.</p>
+  {% endif %}
+
+</section>
+{% endblock content %}

@@ -1,0 +1,16 @@
+{# An include rather than a macro because macros.html needs to render it and Tera cannot import a macro file into itself. #}
+{# Expects `items` (array of pages) and `empty_note` (string) in context. #}
+{% if items | length > 0 %}
+    <ul class="member-list">
+      {% for item in items %}
+      <li class="member-card">
+        <a class="member-name" href="{{ item.permalink | safe }}">{{ item.title }}</a>
+        {% if item.extra.tagline %}
+        <p class="member-tagline">{{ item.extra.tagline }}</p>
+        {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+{% else %}
+    <p class="empty-note">{{ empty_note }}</p>
+{% endif %}

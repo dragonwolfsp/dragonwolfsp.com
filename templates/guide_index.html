@@ -1,0 +1,40 @@
+{% extends "base.html" %}
+
+{# Serves every field guide -- which one is determined entirely by the section. #}
+{# Set `extra.empty_note` in the section's front matter to word its empty state. #}
+
+{% block content %}
+{% set empty_note = section.extra.empty_note | default(value="Nothing recorded yet.") %}
+
+<section class="guide-index">
+
+  <h1>{{ section.title }}</h1>
+
+  <div class="guide-intro">
+    {{ section.content | safe }}
+  </div>
+
+  {% set entries = paginator.pages | default(value=section.pages) %}
+  {% if entries | length > 0 %}
+  <ul class="guide-list">
+    {% for entry in entries %}
+    <li class="guide-card">
+      <a class="guide-name" href="{{ entry.permalink | safe }}">{{ entry.title }}</a>
+      {% if entry.extra.tagline %}
+      <p class="guide-tagline">{{ entry.extra.tagline }}</p>
+      {% elif entry.description %}
+      <p class="guide-tagline">{{ entry.description }}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="empty-note">{{ empty_note }}</p>
+  {% endif %}
+
+  {% if paginator %}
+    {% include "partials/pagination.html" %}
+  {% endif %}
+
+</section>
+{% endblock content %}
