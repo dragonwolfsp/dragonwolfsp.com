@@ -139,6 +139,8 @@ Several of the things described elsewhere in this guide are extra forces rather 
 
 **Kitsune shapeshifting and soul-stealing**, which is the original [kitsune](../species/kitsune/) magic and sits apart from the light and dark they inherited later.
 
+**Gumiho shifting and taking**, which carries a [gumiho](../species/gumiho/) between shapes and lets them keep the shape and abilities of a creature they have eaten. Like the kitsune force it stands outside the ordinary structure of magic, and the two are not the same force.
+
 **Wyvern venom**, whose elemental character runs through biology rather than through an ordinary affinity — which is part of why the [wyvern](../species/wyvern/) elemental bloodlines are breeds.
 
 **Phoenix fire**, which purifies and heals poison as readily as it burns. That is not something elemental fire does, and it is why [phoenix](../species/phoenix/) fire is not simply the fundamental force under another name.
