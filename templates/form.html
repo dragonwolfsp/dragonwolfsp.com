@@ -10,7 +10,7 @@
 <article class="entry entry-guide entry-form">
 
   <header class="entry-header">
-    {{ macros::entry_heading(title=page.title, tagline=page.extra.tagline | default(value="")) }}
+    {{ macros::entry_heading(title=page.title | title, tagline=page.extra.tagline | default(value="")) }}
   </header>
 
   <div class="entry-body">

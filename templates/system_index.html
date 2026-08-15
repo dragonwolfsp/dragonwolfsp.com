@@ -20,13 +20,13 @@
       {% endif %}
       <p class="member-meta">
         {% if member.taxonomies.species %}
-        <span class="meta-species"><span class="meta-label">Species:</span> {{ member.taxonomies.species | join(sep=", ") }}</span>
+        <span class="meta-species"><span class="meta-label">Species:</span> {{  member.taxonomies.species | join(sep=", ") | title }}</span>
         {% endif %}
         {% if member.taxonomies.breed %}
-        <span class="meta-breed"><span class="meta-label">Breed:</span> {{ member.taxonomies.breed | join(sep=", ") }}</span>
+        <span class="meta-breed"><span class="meta-label">Breed:</span> {{ member.taxonomies.breed | join(sep=", ") | title}}</span>
         {% endif %}
         {% if member.taxonomies.form %}
-        <span class="meta-form"><span class="meta-label">Form:</span> {{ member.taxonomies.form | join(sep=", ") }}</span>
+        <span class="meta-form"><span class="meta-label">Form:</span> {{ member.taxonomies.form | join(sep=", ") | title }}</span>
         {% endif %}
       </p>
     </li>

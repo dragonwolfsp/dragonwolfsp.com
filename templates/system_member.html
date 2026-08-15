@@ -31,7 +31,7 @@
     <dd class="entry-tags">
       {% for name in page.taxonomies.species %}
       {% set slug = name | slugify %}
-      <a class="entry-tag" href="{{ get_url(path='@/about/system/species/' ~ slug ~ '.md') }}">{{ name }}</a>
+      <a class="entry-tag" href="{{ get_url(path='@/about/system/species/' ~ slug ~ '.md') }}">{{ name | title }}</a>
       {% endfor %}
     </dd>
     {% endif %}
@@ -41,7 +41,7 @@
     <dd class="entry-tags">
       {% for name in page.taxonomies.breed %}
       {% set slug = name | slugify %}
-      <a class="entry-tag" href="{{ get_url(path='@/about/system/species/breeds/' ~ slug ~ '.md') }}">{{ name }}</a>
+      <a class="entry-tag" href="{{ get_url(path='@/about/system/species/breeds/' ~ slug ~ '.md') }}">{{ name | title }}</a>
       {% endfor %}
     </dd>
     {% endif %}
@@ -51,7 +51,7 @@
     <dd class="entry-tags">
       {% for name in page.taxonomies.form %}
       {% set slug = name | slugify %}
-      <a class="entry-tag" href="{{ get_url(path='@/about/system/forms/' ~ slug ~ '.md') }}">{{ name }}</a>
+      <a class="entry-tag" href="{{ get_url(path='@/about/system/forms/' ~ slug ~ '.md') }}">{{ name | title }}</a>
       {% endfor %}
     </dd>
     {% endif %}

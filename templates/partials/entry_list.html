@@ -4,7 +4,7 @@
     <ul class="member-list">
       {% for item in items %}
       <li class="member-card">
-        <a class="member-name" href="{{ item.permalink | safe }}">{{ item.title }}</a>
+        <a class="member-name" href="{{ item.permalink | safe }}">{{ item.title | title }}</a>
         {% if item.extra.tagline %}
         <p class="member-tagline">{{ item.extra.tagline }}</p>
         {% endif %}

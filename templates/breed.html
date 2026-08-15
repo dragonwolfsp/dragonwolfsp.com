@@ -10,12 +10,12 @@
 <article class="entry entry-guide entry-breed">
 
   <header class="entry-header">
-    {{ macros::entry_heading(title=page.title, tagline=page.extra.tagline | default(value="")) }}
+    {{ macros::entry_heading(title=page.title | title, tagline=page.extra.tagline | default(value="")) }}
 
     {# extra.breed_of holds the parent's filename slug. get_page takes a content-relative path, with no @/ prefix. #}
     {% if page.extra.breed_of %}
     {% set parent = get_page(path="about/system/species/" ~ page.extra.breed_of ~ ".md") %}
-    <p class="breed-parent">A breed of <a href="{{ parent.permalink | safe }}">{{ parent.title }}</a></p>
+    <p class="breed-parent">A breed of <a href="{{ parent.permalink | safe }}">{{ parent.title  | title }}</a></p>
     {% endif %}
   </header>
 
