@@ -19,7 +19,7 @@ Dragons are an elemental people, and the element is the through-line — the cha
 
 They did not stay in one place. After dragons came into contact with spacefaring races they spread across the world and then well past it, quite quickly. Some live in the [Veil](../../magic/). Others, the Venutians and the Metallurgists among them, ended up with homeworlds of their own.
 
-They and [wyverns](../wyvern/) come from the same root, but the two are only distant cousins now.
+They and [wyverns](../wyvern/) come from the same root, but the two are only distant cousins now. [Leviathans](../leviathan/) are a third branch of that root, sharing it with the Solari specifically, and they have diverged a long way since.
 
 ## Physical traits
 
