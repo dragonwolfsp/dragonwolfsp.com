@@ -141,6 +141,8 @@ Several of the things described elsewhere in this guide are extra forces rather 
 
 **Gumiho shifting and taking**, which carries a [gumiho](../species/gumiho/) between shapes and lets them keep the shape and abilities of a creature they have eaten. Like the kitsune force it stands outside the ordinary structure of magic, and the two are not the same force.
 
+**The sorberanth absorption**, which takes a creature swallowed whole and alive and adds its magic, its soul and part of its biology to the [sorberanth](../species/sorberanth/) permanently. It sits near the gumiho taking and works differently: a gumiho comes away with a shape they can wear, and a sorberanth comes away with parts built into the one body they keep for life.
+
 **Wyvern venom**, whose elemental character runs through biology rather than through an ordinary affinity — which is part of why the [wyvern](../species/wyvern/) elemental bloodlines are breeds.
 
 **Phoenix fire**, which purifies and heals poison as readily as it burns. That is not something elemental fire does, and it is why [phoenix](../species/phoenix/) fire is not simply the fundamental force under another name.
@@ -148,6 +150,8 @@ Several of the things described elsewhere in this guide are extra forces rather 
 **Gargoyle stone**, meaning a [gargoyle's](../species/gargoyle/) control over their own substance. Their stone is far stronger than ordinary stone and deflects many kinds of magic, which a material should not be able to do.
 
 **Metallurgist metal control**, carried by the Metallurgist [dragon](../species/dragon/) breed and distinct from the fundamental elemental affinity other dragons carry.
+
+**Kraken ink**, which alters any biological trait of whatever living thing it reaches. It runs along the ground the body affinity covers and goes well past it — body governs speed, strength, endurance, density and healing, and the ink rewrites what a creature is, species included. That is exactly the sort of overreach that puts a power in this category rather than among the affinities.
 
 **Orc forging magic**, which every [orc](../species/orc/) carries. It flows into whatever they make and typically produces effects the orc did not choose and could not have predicted.
 
@@ -159,9 +163,13 @@ Not everything species-fixed is an extra force, and the distinction is worth kee
 
 Magical hypnosis deserves its own heading, because it is the one extra force that shows up in more than one species and stays recognisably the same thing in each.
 
-It appears to have been born out of both **thought** and **will** together, and it is oddly consistent for an extra force — the only real variation is in how it gets channelled. A [kitsune](../species/kitsune/) puts it out as foxfire. A [lamia](../species/lamia/) delivers it through the gaze. A [chimera](../species/chimera/) carries the gaze form too. The mechanism differs; the force does not.
+It appears to have been born out of both **thought** and **will** together, and it is oddly consistent for an extra force — nearly all of the variation is in how it gets channelled. A [kitsune](../species/kitsune/) puts it out as foxfire. A [lamia](../species/lamia/) delivers it through the gaze, and a [chimera](../species/chimera/) carries the gaze form too. A [kraken](../species/kraken/) carries it in the voice. A [harpy](../species/harpy/) delivers it through the gaze as well. The mechanism differs; the force does not.
+
+Every channel depends on the sense it travels through. A gaze passes over someone who cannot see it, and a voice passes over someone who cannot hear it, and in both cases nothing arrives at all.
 
 It grants powerful influence over a mind, and resisting it is mostly futile — only someone exceptionally strong-willed has much chance. Whatever else it is, it is unfailingly pleasant to be on the receiving end of.
+
+The [harpy](../species/harpy/) version is the one place the force itself varies rather than the channel. Every other version runs while its channel runs and stops when the channel stops; a harpy's hold outlasts the look entirely. Eye contact is how it arrives and has nothing to do with how long it stays, so a harpy can catch someone, look away and leave the room, and the hold goes with them. Two things end it: the harpy letting go, which they can do at any moment, and distance, which breaks it at roughly three miles.
 
 [Otters](../species/otter/) are the notable exception, and they prove the rule rather than break it: every otter carries the *will* affinity unusually strongly, and along with it a very strong resistance both to will magic and to hypnosis.
 
