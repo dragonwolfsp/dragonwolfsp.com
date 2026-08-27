@@ -62,6 +62,8 @@ A sorberanth can swallow a living creature whole, and doing so takes that creatu
 
 **The magic comes entire.** Whatever the creature was tied to, the sorberanth is now tied to. Nothing is diluted on the way in and nothing is left behind.
 
+The reason sits in where magic is held. A creature's magic lives in its soul, and the soul goes in whole, so the magic travels with it and there is no point in the process at which any of it could be set aside. A sorberanth chooses the creature and chooses the memories. What magic arrives is settled by the swallow, which means a sorberanth can finish an absorption carrying something they would never have gone looking for.
+
 **The biology comes partially, and it shows.** A sorberanth who takes a dragon comes away with wings, and likely more besides. One who takes a [kitsune](../kitsune/) comes away with tails, and quite possibly a set of large fox paws. Which aspects arrive varies, and the arrival is visible — this is a body that accumulates a record of itself.
 
 **The instincts come with the body.** What a creature knew in its reflexes arrives along with the parts those reflexes belonged to: the drives, the instinctual skills, the things it never had to learn.
