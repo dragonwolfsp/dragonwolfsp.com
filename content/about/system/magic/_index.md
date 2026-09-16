@@ -51,7 +51,7 @@ It cannot be wielded. That is not a matter of difficulty or of nobody having man
 
 It and the aether are of the same age, and the two are entwined with one another. Neither made the other, and neither is the elder.
 
-Where wild magic is visible in this guide is in the [forms](../forms/) — every one of them is a mutation it produced.
+Where wild magic is visible in this guide is in the [forms](../forms/) — every one of them is a mutation it produced. It also appears to have settled on the [mantheryn](../species/mantheryn/) as a whole, and is the likeliest reason every one of them survives open space unaided.
 
 ## The pure magics
 
@@ -70,6 +70,8 @@ Because a light wielder is never spending themselves, they do not run out. Their
 Dark magic draws its energy directly from the wielder, or from a sacrificial object such as a bone or a piece of tissue.
 
 The cost is paid rather than gathered. Dark is not a synonym for evil; it describes a power source and nothing more.
+
+Every demon carries it.
 
 ### Chaos
 
@@ -131,7 +133,7 @@ An extra force is a magic that fell out of the interplay of other magics. Their 
 
 Several of the things described elsewhere in this guide are extra forces rather than fundamental ones.
 
-**Hellfire**, carried by every [tiefling](../species/tiefling/). It burns materials that are not flammable and burns through magical wards, and it forges artifacts that very little can break.
+**Hellfire**, carried by some demons and not others, for reasons nobody knows — every [tiefling](../species/tiefling/) and every [hellhound](../species/hellhound/) among them. It burns materials that are not flammable and burns through magical wards, and it forges artifacts that very little can break. Anyone who carries it cannot be burned.
 
 **Shadow magic**, which every [shade](../species/shade/) uses implicitly.
 
@@ -152,6 +154,8 @@ Several of the things described elsewhere in this guide are extra forces rather 
 **Metallurgist metal control**, carried by the Metallurgist [dragon](../species/dragon/) breed and distinct from the fundamental elemental affinity other dragons carry.
 
 **Kraken ink**, which alters any biological trait of whatever living thing it reaches. It runs along the ground the body affinity covers and goes well past it — body governs speed, strength, endurance, density and healing, and the ink rewrites what a creature is, species included. That is exactly the sort of overreach that puts a power in this category rather than among the affinities.
+
+**The mantheryn cocoon**, made by a parent and bound to the [mantheryn](../species/mantheryn/) it was made for. It answers the needs of whoever is inside and reshapes perfectly around any being its owner permits, whatever their size, which no ordinary material or living thing manages.
 
 **Orc forging magic**, which every [orc](../species/orc/) carries. It flows into whatever they make and typically produces effects the orc did not choose and could not have predicted.
 

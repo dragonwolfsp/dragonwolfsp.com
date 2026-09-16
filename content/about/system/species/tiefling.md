@@ -33,9 +33,9 @@ There are no tiefling breeds. Variation runs on bloodline, and it is *mostly* co
 
 ## Magic
 
-Every tiefling carries dark magic and hellfire as part of what they are. That much the species fixes. What any individual does with it does not follow from the species at all.
+Every tiefling carries dark magic and hellfire as part of what they are. Dark magic comes with being a demon. Hellfire is carried by only some demons, and nobody knows why some carry it and others do not; every tiefling does, as does every [hellhound](../hellhound/). That much the species fixes. What any individual does with it does not follow from the species at all.
 
-Tieflings also cannot be burned. The immunity is absolute and comes with the species, in the same way a [snow leopard](../snow-leopard/) cannot be frozen.
+Tieflings also cannot be burned. The immunity is absolute and comes with the hellfire, in the same way a [snow leopard](../snow-leopard/) cannot be frozen.
 
 ## Hellfire
 
