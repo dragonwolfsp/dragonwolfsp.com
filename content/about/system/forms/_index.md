@@ -21,7 +21,7 @@ Five things hold across every entry here.
 
 **A form leaves everything a species or breed already fixes exactly as it was.** Whatever someone's species settles — an element, a magic carried by everyone of that kind, a capability that comes with being what they are — stays settled and stays whole. A form adds what it adds, and the rest carries on untouched.
 
-**One being can hold more than one form.** They stack the way the pure magics stack and the way affinities do, and carrying one leaves the rest open.
+**One being can hold more than one form.** They stack the way the pure magics stack and the way affinities do, and carrying one leaves the rest open. How they combine is wild magic's own business, and it settles that the way it settles everything. Two beings carrying the same forms can find them meeting in entirely different ways, with a trait one form ordinarily brings arriving altered, softened, or absent altogether.
 
 **A form arrives of its own accord.** It may be present from birth, whether inherited or not, or it may come later in life through wild magic acting on someone who did not have it before. Either way it happens to a person rather than being sought, earned or decided on, and it marks nothing about them.
 

@@ -31,7 +31,7 @@ Flesh and machine are continuous. Careful examination finds living tissue throug
 
 ## Size
 
-The mutation makes a bioforged being substantially larger than their species runs. How much larger varies, and it is conspicuous in all of them.
+The mutation makes a bioforged being substantially larger than their species runs. How much larger varies, and it is conspicuous in nearly all of them.
 
 The whole body is built to that scale. Skeleton, musculature and the integrated systems alike are proportioned for the larger frame from the outset, so a bioforged being is sized rather than enlarged.
 
