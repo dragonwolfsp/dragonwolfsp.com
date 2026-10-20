@@ -17,7 +17,7 @@ attributes = [
 
 Dark touched kitsune are those descended from the crossing between kitsune bloodlines and demons. That crossing left them dark magic, and it held even after the bloodlines stopped mixing.
 
-Because [dark magic](../../magic/) draws on the wielder or on a sacrifice rather than on the surroundings, its cost is paid rather than gathered.
+Because [dark magic](../../../magic/) draws on the wielder or on a sacrifice rather than on the surroundings, its cost is paid rather than gathered.
 
 Dark touched kitsune are also the only ones who can possess. Entered into consensually and handled with care, possession can be a pleasant thing for both parties. Forced, it crushes the mind completely and the person is unlikely to survive it — though doing it by force is considerably harder than doing it with agreement.
 

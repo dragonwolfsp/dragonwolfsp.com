@@ -41,7 +41,7 @@ Time inside runs unevenly. The deeper in you go, the faster it moves, so someone
 
 The Veil is not a prison and not a wall. Anyone can enter or leave at a crossing. Those who live there are not confined to it, and those who live outside it are not shut out.
 
-Everything not in the Veil is still on this plane. Species with homeworlds of their own — [feliry](../species/feliry/), [luperin](../species/luperin/), [tokren](../species/tokren/), [syntheon](../species/syntheon/), [vulperin](../species/vulperin/) — are simply elsewhere in it, on other worlds or out in space.
+Everything not in the Veil is still on this plane. Species with homeworlds of their own — [feliry](../species/feliry/), [luperin](../species/luperin/), [tokren](../species/tokren/), [syntheon](../species/syntheon/), [vulperin](../species/vulperin/), [plumaleon](../species/plumaleon/), [hypnosphex](../species/hypnosphex/) — are simply elsewhere in it, on other worlds or out in space.
 
 ## Wild magic
 
@@ -51,7 +51,7 @@ It cannot be wielded. That is not a matter of difficulty or of nobody having man
 
 It and the aether are of the same age, and the two are entwined with one another. Neither made the other, and neither is the elder.
 
-Where wild magic is visible in this guide is in the [forms](../forms/) — every one of them is a mutation it produced. It also appears to have settled on the [mantheryn](../species/mantheryn/) as a whole, and is the likeliest reason every one of them survives open space unaided.
+Where wild magic is visible in this guide is in the [forms](../forms/) — every one of them is a mutation it produced. It also appears to have settled on the [mantheryn](../species/mantheryn/) as a whole, and is the likeliest reason every one of them survives open space unaided. It runs through the vivoment of every [plumaleon](../species/plumaleon/) as well, and is what keeps that living substance alive.
 
 ## The pure magics
 
@@ -145,6 +145,8 @@ Several of the things described elsewhere in this guide are extra forces rather 
 
 **The sorberanth absorption**, which takes a creature swallowed whole and alive and adds its magic, its soul and part of its biology to the [sorberanth](../species/sorberanth/) permanently. It sits near the gumiho taking and works differently: a gumiho comes away with a shape they can wear, and a sorberanth comes away with parts built into the one body they keep for life.
 
+**Walker magic**, which every [skinwalker](../species/skinwalker/) carries: the making of a morphoderm from the skin of the dead, the full transformation it grants, and the absorption that lets a skinwalker carry it beneath their own skin. Like the gumiho taking it puts on the shape and power of another creature, and it works entirely differently: nothing is eaten, the morphoderm exists as a thing in its own right, and any skinwalker can wear one that has not been keyed.
+
 **Wyvern venom**, whose elemental character runs through biology rather than through an ordinary affinity — which is part of why the [wyvern](../species/wyvern/) elemental bloodlines are breeds.
 
 **Phoenix fire**, which purifies and heals poison as readily as it burns. That is not something elemental fire does, and it is why [phoenix](../species/phoenix/) fire is not simply the fundamental force under another name.
@@ -167,13 +169,15 @@ Not everything species-fixed is an extra force, and the distinction is worth kee
 
 Magical hypnosis deserves its own heading, because it is the one extra force that shows up in more than one species and stays recognisably the same thing in each.
 
-It appears to have been born out of both **thought** and **will** together, and it is oddly consistent for an extra force — nearly all of the variation is in how it gets channelled. A [kitsune](../species/kitsune/) puts it out as foxfire. A [lamia](../species/lamia/) delivers it through the gaze, and a [chimera](../species/chimera/) carries the gaze form too. A [kraken](../species/kraken/) carries it in the voice. A [harpy](../species/harpy/) delivers it through the gaze as well. The mechanism differs; the force does not.
+It appears to have been born out of both **thought** and **will** together, and it is oddly consistent for an extra force — nearly all of the variation is in how it gets channelled. A [kitsune](../species/kitsune/) puts it out as foxfire. A [lamia](../species/lamia/) delivers it through the gaze, and a [chimera](../species/chimera/) carries the gaze form too. A [kraken](../species/kraken/) carries it in the voice. A [hypnosphex](../species/hypnosphex/) carries it in the buzz of their wings and body. A [harpy](../species/harpy/) delivers it through the gaze as well. The mechanism differs; the force does not.
 
 Every channel depends on the sense it travels through. A gaze passes over someone who cannot see it, and a voice passes over someone who cannot hear it, and in both cases nothing arrives at all.
 
 It grants powerful influence over a mind, and resisting it is mostly futile — only someone exceptionally strong-willed has much chance. Whatever else it is, it is unfailingly pleasant to be on the receiving end of.
 
-The [harpy](../species/harpy/) version is the one place the force itself varies rather than the channel. Every other version runs while its channel runs and stops when the channel stops; a harpy's hold outlasts the look entirely. Eye contact is how it arrives and has nothing to do with how long it stays, so a harpy can catch someone, look away and leave the room, and the hold goes with them. Two things end it: the harpy letting go, which they can do at any moment, and distance, which breaks it at roughly three miles.
+The [harpy](../species/harpy/) and [hypnosphex](../species/hypnosphex/) versions are the two places the force itself varies rather than the channel. Every other version runs while its channel runs and stops when the channel stops; a harpy's hold outlasts the look entirely. Eye contact is how it arrives and has nothing to do with how long it stays, so a harpy can catch someone, look away and leave the room, and the hold goes with them. Two things end it: the harpy letting go, which they can do at any moment, and distance, which breaks it at roughly three miles.
+
+A hypnosphex's hold outlasts the buzz that carried it. It stays in full for as long as they share a room with whoever they have caught, and once they leave it wears off slowly. Letting go ends it at once, and they can do that at any moment.
 
 [Otters](../species/otter/) are the notable exception, and they prove the rule rather than break it: every otter carries the *will* affinity unusually strongly, and along with it a very strong resistance both to will magic and to hypnosis.
 

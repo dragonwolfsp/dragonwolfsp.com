@@ -16,7 +16,7 @@ attributes = [
 
 Light touched kitsune are those descended from the crossing between kitsune bloodlines and the Seelie fae. That crossing left them light magic, and the inheritance has held ever since even though the bloodlines themselves stopped mixing a very long time ago.
 
-Because [light magic](../../magic/) draws on the world around the wielder rather than on the wielder, a light-touched kitsune never runs low. Their exhaustion comes from exertion instead — they tire the way anyone tires from hard work, not from being drained.
+Because [light magic](../../../magic/) draws on the world around the wielder rather than on the wielder, a light-touched kitsune never runs low. Their exhaustion comes from exertion instead — they tire the way anyone tires from hard work, not from being drained.
 
 The one capability they do not have is possession, which belongs to the dark touched alone. Shapeshifting, illusion, foxfire and soul-feeding all work exactly as they do for any kitsune.
 

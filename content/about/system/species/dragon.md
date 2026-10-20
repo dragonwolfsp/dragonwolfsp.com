@@ -23,7 +23,7 @@ They and [wyverns](../wyvern/) come from the same root, but the two are only dis
 
 ## Physical traits
 
-There is no single dragon body plan, because the breeds diverged too far for one. The eastern and western forms are both real and both here; so are Venutians, who carry fur over hide instead of scales, and Metallurgists, whose scales are organic metal.
+There is no single dragon body plan, because the breeds diverged too far for one. The eastern and western forms are both real and both here; so are Venutians, who carry fur over hide instead of scales, Metallurgists, whose scales are organic metal, and Levari, small, three-eyed and spined.
 
 What generalises is less about shape than about scale and structure: a long muscular tail that matters magically as well as physically, and a body built around whatever the breed's element or power asks of it.
 
