@@ -3,8 +3,8 @@ title = "Seravyn"
 
 [extra]
 tagline = "A liquiform dragon built to hold rather than to loom."
-gender = "Non-binary"
-pronouns = "they/them"
+gender = "Aporagender"
+pronouns = "she/they"
 physical_description = """
 Seravyn is a large dragon, broad enough to offer shelter and comfort, yet graceful enough that their size never feels oppressive. Their build carries quiet strength rather than overt power. Smooth, well-defined musculature lies beneath their unusual body composition, giving them a presence that feels dependable and secure. There is a sense that they were made to hold, protect, and support rather than dominate. Even at rest, they radiate a calm steadiness that encourages others to relax in their presence.
 
