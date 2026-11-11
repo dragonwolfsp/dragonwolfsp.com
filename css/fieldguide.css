@@ -1,0 +1,167 @@
+/* Field-guide styling for member, species, breed and form pages. */
+/* Line and tint colours are mixed from --text rather than taken from suCSS's --border, so they stay visible whatever the theme sets. */
+
+.entry,
+.system-index,
+.guide-index {
+  --fg-line: color-mix(in srgb, var(--text, currentColor) 25%, transparent);
+  --fg-soft: color-mix(in srgb, var(--text, currentColor) 6%, transparent);
+}
+
+/* headers */
+
+.entry-header {
+  border-bottom: 1px solid var(--fg-line);
+  padding-bottom: 0.75rem;
+  margin-bottom: 1.25rem;
+}
+
+.entry-header h1 {
+  margin-bottom: 0.25rem;
+}
+
+.entry-tagline,
+.guide-tagline,
+.member-tagline {
+  font-style: italic;
+  opacity: 0.85;
+  margin: 0.35rem 0 0;
+}
+
+/* Parent-species backlink on a breed page. */
+.breed-parent {
+  margin: 0.35rem 0 0;
+  font-size: 0.95em;
+  opacity: 0.85;
+}
+
+/* optional creature image */
+
+.entry-image {
+  margin: 0 0 1.5rem;
+}
+
+/* Dashed accent frame matching how suCSS draws every other image on the site. */
+.entry-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  padding: 0.125rem;
+  border: 2px dashed var(--accent, currentColor);
+  border-radius: 15px;
+}
+
+/* fact list */
+/* suCSS leaves dl/dt/dd unstyled, so the two-column grid is defined here. */
+
+.entry-facts,
+.entry-attributes dl {
+  display: grid;
+  grid-template-columns: minmax(6rem, max-content) 1fr;
+  gap: 0.4rem 1rem;
+  margin: 0 0 1.75rem;
+}
+
+.entry-facts dt,
+.entry-attributes dt {
+  font-weight: bold;
+  opacity: 0.75;
+}
+
+.entry-facts dd,
+.entry-attributes dd {
+  margin: 0;
+}
+
+/* physical description */
+/* A div rather than a blockquote: nothing is being quoted, and suCSS renders blockquotes italic at reduced contrast, which is unreadable at this length. */
+
+.entry-physical {
+  margin-top: 2rem;
+}
+
+.entry-description {
+  border-left: 3px solid var(--accent, currentColor);
+  background: var(--fg-soft);
+  margin: 0;
+  padding: 0.85rem 1.15rem;
+}
+
+.entry-description > :first-child {
+  margin-top: 0;
+}
+
+.entry-description > :last-child {
+  margin-bottom: 0;
+}
+
+/* member and field-guide listings */
+
+.member-list,
+.guide-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.85rem;
+}
+
+.member-card,
+.guide-card {
+  border: 1px solid var(--fg-line);
+  border-radius: 6px;
+  padding: 0.85rem 1rem;
+}
+
+.member-name,
+.guide-name {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.member-meta {
+  margin: 0.4rem 0 0;
+  font-size: 0.9em;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1.25rem;
+}
+
+.member-meta .meta-label {
+  opacity: 0.7;
+}
+
+/* field-guide links on the system page */
+/* Authored as a markdown list inside a <nav>, so these style the list and its anchors through the container. */
+
+.guide-links {
+  margin: 1.5rem 0 2rem;
+}
+
+.guide-links ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.guide-links a {
+  display: inline-block;
+  border: 1px solid var(--fg-line);
+  border-radius: 6px;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+}
+
+.guide-links a:hover,
+.guide-links a:focus {
+  border-color: var(--accent, currentColor);
+  color: var(--accent, currentColor);
+}
+
+.empty-note {
+  opacity: 0.7;
+  font-style: italic;
+}
