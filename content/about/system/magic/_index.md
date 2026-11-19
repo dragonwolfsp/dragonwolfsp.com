@@ -41,7 +41,7 @@ Time inside runs unevenly. The deeper in you go, the faster it moves, so someone
 
 The Veil is not a prison and not a wall. Anyone can enter or leave at a crossing. Those who live there are not confined to it, and those who live outside it are not shut out.
 
-Everything not in the Veil is still on this plane. Species with homeworlds of their own — [feliry](../species/feliry/), [luperin](../species/luperin/), [tokren](../species/tokren/), [syntheon](../species/syntheon/), [vulperin](../species/vulperin/), [plumaleon](../species/plumaleon/), [hypnosphex](../species/hypnosphex/) — are simply elsewhere in it, on other worlds or out in space.
+Everything not in the Veil is still on this plane. Species with homeworlds of their own — [feliry](../species/feliry/), [luperin](../species/luperin/), [tokren](../species/tokren/), [syntheon](../species/syntheon/), [vulperin](../species/vulperin/), [plumaleon](../species/plumaleon/), [hypnosphex](../species/hypnosphex/), [sideryn](../species/sideryn/), [nemalor](../species/nemalor/) — are simply elsewhere in it, on other worlds or out in space.
 
 ## Wild magic
 
@@ -51,7 +51,7 @@ It cannot be wielded. That is not a matter of difficulty or of nobody having man
 
 It and the aether are of the same age, and the two are entwined with one another. Neither made the other, and neither is the elder.
 
-Where wild magic is visible in this guide is in the [forms](../forms/) — every one of them is a mutation it produced. It also appears to have settled on the [mantheryn](../species/mantheryn/) as a whole, and is the likeliest reason every one of them survives open space unaided. It runs through the vivoment of every [plumaleon](../species/plumaleon/) as well, and is what keeps that living substance alive.
+Where wild magic is visible in this guide is in the [forms](../forms/) — every one of them is a mutation it produced. It also appears to have settled on the [mantheryn](../species/mantheryn/) as a whole, and is the likeliest reason every one of them survives open space unaided. It runs through the vivoment of every [plumaleon](../species/plumaleon/) as well, and is what keeps that living substance alive. It lives within zoesider, a metal found only on the [sideryn](../species/sideryn/) homeworld, too, and is why the plates every sideryn carries take the place of their scales, become a living part of them, and keep them warm in the cold. It is the energy in the filaments of every [nemalor](../species/nemalor/), harmful or soothing as they choose, and it fills the caves of the nemalor homeworld where each of them grows their living armour. It lives in the bodies of every [hypnanguil](../species/hypnanguil/) as well, as the energy that forms their field.
 
 ## The pure magics
 
@@ -139,6 +139,8 @@ Several of the things described elsewhere in this guide are extra forces rather 
 
 **Star-essence, sun-and-moon, and the void** — the three marking powers of the [vulperin](../species/vulperin/).
 
+**Void-born magic**, which every [void](../species/void/) carries. It lets a void travel through the void to anywhere they are aware of, other realities included; the more powerful can change parts of what they are, and the strongest can make small alterations to reality itself. This reality restricts it heavily. It is unrelated to the vulperin void above; the two share a word and nothing else.
+
 **Kitsune shapeshifting and soul-stealing**, which is the original [kitsune](../species/kitsune/) magic and sits apart from the light and dark they inherited later.
 
 **Gumiho shifting and taking**, which carries a [gumiho](../species/gumiho/) between shapes and lets them keep the shape and abilities of a creature they have eaten. Like the kitsune force it stands outside the ordinary structure of magic, and the two are not the same force.
@@ -169,9 +171,9 @@ Not everything species-fixed is an extra force, and the distinction is worth kee
 
 Magical hypnosis deserves its own heading, because it is the one extra force that shows up in more than one species and stays recognisably the same thing in each.
 
-It appears to have been born out of both **thought** and **will** together, and it is oddly consistent for an extra force — nearly all of the variation is in how it gets channelled. A [kitsune](../species/kitsune/) puts it out as foxfire. A [lamia](../species/lamia/) delivers it through the gaze, and a [chimera](../species/chimera/) carries the gaze form too. A [kraken](../species/kraken/) carries it in the voice. A [hypnosphex](../species/hypnosphex/) carries it in the buzz of their wings and body. A [harpy](../species/harpy/) delivers it through the gaze as well. The mechanism differs; the force does not.
+It appears to have been born out of both **thought** and **will** together, and it is oddly consistent for an extra force — nearly all of the variation is in how it gets channelled. A [kitsune](../species/kitsune/) puts it out as foxfire. A [lamia](../species/lamia/) delivers it through the gaze, and a [chimera](../species/chimera/) carries the gaze form too. A [kraken](../species/kraken/) carries it in the voice. A [hypnosphex](../species/hypnosphex/) carries it in the buzz of their wings and body. A [hypnanguil](../species/hypnanguil/) carries it in their electric field when they choose. A [harpy](../species/harpy/) delivers it through the gaze as well. The mechanism differs; the force does not.
 
-Every channel depends on the sense it travels through. A gaze passes over someone who cannot see it, and a voice passes over someone who cannot hear it, and in both cases nothing arrives at all.
+Every channel depends on the sense it travels through. A gaze passes over someone who cannot see it, and a voice passes over someone who cannot hear it, and in both cases nothing arrives at all. The hypnanguil field is the one exception: it reaches anyone inside it, whatever they can see or hear.
 
 It grants powerful influence over a mind, and resisting it is mostly futile — only someone exceptionally strong-willed has much chance. Whatever else it is, it is unfailingly pleasant to be on the receiving end of.
 
