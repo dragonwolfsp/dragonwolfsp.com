@@ -1,0 +1,39 @@
+/* Taxonomy links as outlined pills, wherever they appear. */
+/* Covers member pages (species/breed/form), music pages (genres) and the blog's tag markup, so it is deliberately not part of fieldguide.css. */
+/* The border colour is mixed inline rather than borrowing fieldguide.css's --fg-line, so this file does not depend on that one being loaded. */
+
+.entry-tags,
+.song-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* .song-tags is a real <ul>, so suCSS's per-item spacing needs clearing too. */
+.song-tags li {
+  margin: 0;
+}
+
+.entry-tag,
+.song-tags a,
+.tag {
+  display: inline-block;
+  padding: 0.1rem 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--text, currentColor) 25%, transparent);
+  border-radius: 999px;
+  font-size: 0.9em;
+  text-decoration: none;
+}
+
+.entry-tag:hover,
+.entry-tag:focus,
+.song-tags a:hover,
+.song-tags a:focus,
+.tag:hover,
+.tag:focus {
+  border-color: var(--accent, currentColor);
+  color: var(--accent, currentColor);
+}
