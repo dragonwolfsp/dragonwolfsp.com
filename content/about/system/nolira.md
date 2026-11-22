@@ -35,6 +35,36 @@ The atmosphere surrounding her encourages thoughtful openness. Silence never fee
 Her scent blends the soft musk of a healthy lion with the fresh earthiness of river mud after gentle rain, underscored by the unmistakable fragrance of well-loved books whose pages have absorbed years of careful reading. Warm, familiar, and quietly contemplative, it evokes peaceful evenings spent exchanging stories while the world outside grows still.
 
 Nolira is shared understanding given living form. She embodies the quiet truth that wisdom rarely grows in isolation, but flourishes when thoughtful minds meet with open hearts. Every expression her remarkable hybrid body adopts reflects the same enduring principle: the deepest conversations do not simply exchange ideas—they gently draw people closer together until understanding becomes a bond shared by all who took part.
+
+### Her otter end
+
+At her otter end she can be an otter through and through, on four legs, or stand upright on an otter frame, as she likes. Either way she is the size of an ordinary otter, with a long, flexible torso and short, powerful limbs.
+
+Her coat here is the dense, sleek, waterproof deep blue all over, with darker indigo striping following the lines of her body.
+
+Her face takes the rounded otter muzzle and small rounded otter ears, and her expressive whiskers can read the currents underwater. Her easy smile stays close at hand.
+
+Behind her is the thick, muscular otter tail with its silver tip, though her lion tail can still show if she likes.
+
+Her hands and feet are webbed otter paws by default, plantigrade, with short claws. Whenever she likes, her paws can change into dextrous anthro hands, and like everything else about her, they can draw on her lion side whenever she wishes.
+
+In the water she glides with smooth, economical strokes, and she floats easily, even at rest. On land she is quick and supple. Her scent here carries more of the river mud after rain.
+
+### Her lion end
+
+At her lion end she can be a lioness through and through, on four legs, or stand upright on a lion frame, as she likes. She is the size of an ordinary lioness, or anywhere within her range, at will. Her body is powerful and compact, with a deep chest and muscular forequarters.
+
+Her coat here is thick, plush dark green all over, with bold black striping, and her limbs darken toward near black, still striped in green. Her mane can grow into a full, thick mantle, or recede at will, just as it does now.
+
+Her face takes the broader features of a lioness, with rounded feline ears and fine whiskers.
+
+Behind her is the long lion tail ending in its golden-yellow tuft, though her otter tail can still show if she likes.
+
+Her hands and feet are powerful feline paws by default, with retractable claws, thick padded feet and digitigrade legs. Whenever she likes, her paws can change into dextrous anthro hands. All of this shifts along her spectrum as she wishes.
+
+Her scent here carries more of the lion's musk.
+
+At either end, she chooses exactly which traits of her other heritage stay. Her eyes never change: green on the left and dark brown on the right. Her feelings show just as they always do, in her ears, her tails, her posture and her eyes. Her tails still curl around companions, and her body still drifts toward whichever balance fits how she feels. The scent of well-loved books stays with her in every form.
 """
 
 [taxonomies]

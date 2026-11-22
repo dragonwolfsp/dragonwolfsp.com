@@ -33,6 +33,32 @@ The atmosphere around her makes pretence difficult to sustain. People find thems
 Close up she carries something faintly sweet, warm and hard to place, sitting beneath clean fur and the smell of open air. It registers at an embrace's distance and lingers a little afterwards.
 
 Imathea is a lantern left burning in a window, warmth put deliberately where someone travelling in the dark will see it. She is still water holding a reflection, giving back a truer picture of whoever looks into it than they were braced for. And she is frost giving way in morning sun — whatever has hardened around a person tends to loosen near her, slowly, and without anyone having decided that it should.
+
+### Her fox form
+
+Her fox form is the size of an ordinary fox. She is balanced and athletic in it, as she is in her anthro form, and plush and heavy-coated besides, under the same dense coat: deep gold across the whole of her, streaked through with white.
+
+Any number of her tails can show here, from one to six, and the choice is hers. They are just as full and plush as ever. She can hide them all and pass as an ordinary fox, and very few people would think to look twice.
+
+Her eyes stay honey gold, with pale silver slit pupils that she can still round at will. As a fox the silver catches low light more strongly, two narrow lines of it set close to the ground.
+
+She moves near-silently, as she always does, only quicker and lighter on four feet than on two. The sudden drop from motion into stillness comes with her, and in a fox it startles all the more.
+
+Her scent runs heavier as a fox, more fur and musk, with the faint sweet note still underneath.
+
+### Her human form
+
+In her human form Imathea stands about five foot eight, long-limbed and balanced, the way she is as an anthro. Her hair is thick and soft, like her fur, deep gold streaked through with white. Her skin is deep-toned, with a warm golden undertone.
+
+Her age is hard to place. Her face keeps its high cheekbones and its warm, open resting expression, which gives as little away here as it does anywhere else. The overall effect is ageless, and close to eerie.
+
+Her eyes are honey gold with pale silver pupils, rounded and human by default and slit whenever she likes. She can also make them look entirely ordinary.
+
+She can pass as entirely human. She can also bring out her fox ears, any number of her tails up to six, her claws, fur, slit pupils, a muzzle, or digitigrade legs, a little at a time or all at once, and draw them back again whenever she likes.
+
+Without ears or tails to give her away, what she feels shows in her face, her eyes and her hands. The gold warms and the silver sharpens when her attention lands, and her hands say what the tails would have said. Stillness stays her clearest signal of all.
+
+Her scent is fainter here, though the faint sweet note stays with her in every form.
 """
 
 [taxonomies]

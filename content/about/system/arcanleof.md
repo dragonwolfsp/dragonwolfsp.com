@@ -21,6 +21,28 @@ Arcanleof's scent is fresh and cool, like night air stirred by gentle movement, 
 The atmosphere surrounding Arcanleof is one of quiet authority — a sense that space bends around it not from threat but from recognition. Rooms reorganise slightly when it settles into them, conversations angle its way without anyone having handed it the floor, and people find themselves being rather more careful about what they claim than they had planned to be. To those it trusts it offers warmth, protection and playful affection without reservation. To those who would harm or deceive it becomes distant and untouchable, present in the room and entirely out of reach, and unmistakably still paying attention.
 
 It is not merely a fox made larger or more fantastical. It is intellect and play, secrecy and affection, and strength shaped by restraint — cleverness and care and subtle power, held together in one creature who would much rather you underestimated it a little longer.
+
+### Its fox form
+
+Its fox form is the size of an ordinary fox unless it decides otherwise, and it can grow or shrink that form at will. There is a limit. It grows no larger than its anthro form, around eight feet, which still makes it a great deal bigger than any wolf and built in proportion to match. It cannot make mass out of nothing, and it has never pretended otherwise.
+
+As a fox it is heavy and powerful, deep through the chest and shoulders, under a plush, thick coat with a full winter ruff gathered at its throat and chest. The colouring carries across unchanged: pure silver streaked with subtle gray, darkening into charcoal-blue along the chest and throat, deepest at the centre and fading outward, so that the ruff seems to hold a little gathered shadow. Its muzzle is long and fine.
+
+Any number of its tails can show here, from one to nine, and they are the same tails as ever: long, powerfully muscled and exceptionally soft. They still give it away before anything else does. Its eyes stay exactly as they are, the left deep violet and the right pale amber, and they look, if anything, sharper set in a fox's face.
+
+It moves much as it does in its anthro form, measured and silent and precise, only lower to the ground. Its scent runs heavier here, more clean fur and musk over the night air and crushed herbs.
+
+### Its human form
+
+In its human form Arcanleof stands around six feet tall, lean and wiry, with the same grace and control it carries as an anthro. Its hair falls to its shoulders, close to pure silver, with none of the gray that streaks its fur. Its skin is dark-toned. It looks young, with soft, open features that make it very easy to underestimate, which suits it entirely.
+
+Its eyes stay left violet and right amber. Of everything about it, they are the one thing that never changes, whatever form it takes.
+
+It can pass as entirely human. It can also bring out its fox ears, any number of its tails, its claws, fur along its arms or chest, or a fox's muzzle blended into its face, a little at a time or all at once, and draw them back again whenever it likes.
+
+Without tails to give it away, what it feels shows in its eyes and its hands. The violet deepens and the amber warms just as they do in any other shape, and its hands, gone still or quietly busy, say a good deal of what the tails would have said. Those who know it watch the hands.
+
+Its scent is fainter here, only the night air and the dry stone.
 """
 
 [taxonomies]

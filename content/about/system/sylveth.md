@@ -29,6 +29,36 @@ The atmosphere surrounding Sylveth feels like the deep stillness of an old fores
 His scent carries the quiet fragrance of moss-covered stone and fresh earth beneath fallen leaves, evoking cool forests after rain and the rich stillness of ancient places untouched by haste. It is grounding and familiar, lingering softly like the memory of a peaceful woodland path.
 
 Sylveth is not merely a great spider, nor simply a creature of darkness. He is the patient thread that binds endings to beginnings, the quiet weaver who understands that every life touches countless others before its journey continues. Within every web he spins lies the same quiet truth: nothing is ever truly separate, and every ending becomes the first thread of something yet to come.
+
+### His spider form
+
+The towering form above is the one he takes most often, but it is only one point on a range that is entirely his, running from a great spider at one end to a man at the other, and every shape between. None of them is a disguise.
+
+As a spider he is far larger than any ordinary spider, and heavy-bodied with it. His coat is sleeker here and shorter, but it is the same velvety forest brown, and the silver-gray web markings and moss-green accents carry across unchanged.
+
+His eight silver eyes glow more strongly in this form, bright enough in darkness to be seen well before the rest of him is.
+
+His ivory fangs, with the same metallic sheen, are larger in proportion to his body here. His venom does not change.
+
+His eight legs carry him with the same silent, unhurried movement, and his pedipalps stay just as expressive. His spinnerets and silk are unchanged, and he can travel on his silk or hang from it as easily as he walks.
+
+What he feels shows in his pedipalps, his legs and his eyes, and most of all in his stillness. His scent of moss-covered stone and fresh earth is the same in every form.
+
+### His human form
+
+As a man he is tall, around six feet, lean and long-limbed, with the same understated strength that shows only when he moves.
+
+His hair is forest brown like his fur, touched with moss green, and worn anywhere from short to shoulder length. His skin is warm-toned.
+
+He has two silver eyes by default, and they still glow in darkness. The other six show whenever he likes. His face stays calm and thoughtful, as it always is, and ageless, hard to place.
+
+His fangs stay hidden unless he lets them show, and his venom stays with him in this form.
+
+He can pass as fully human. He can also bring out his extra eyes, his fangs, his fur, his extra legs, his pedipalps, his spinnerets and silk, or his web markings, a little at a time or all at once, and draw them back again whenever he likes.
+
+Without his pedipalps, what he feels shows in his hands and his eyes, and in his stillness.
+
+His scent is the same here as in every other form.
 """
 
 [taxonomies]

@@ -10,13 +10,13 @@ Kaevorin is a remarkable dragonsune whose quiet presence often conceals the adve
 
 His natural form rests comfortably between dragon and kitsune, an anthro hybrid in which neither heritage dominates the other. Athletic and broad-shouldered, his body balances strength with agility through long limbs built equally for climbing, running, and flight. Yet no single appearance defines him. Every aspect of his anatomy exists along a living spectrum that he controls effortlessly. At any moment he may allow his draconic heritage to become more prominent, soften into a more vulpine expression, or settle anywhere between the two. The transition is never abrupt or transformative. Instead, his body simply reshapes itself with quiet certainty, each expression feeling as though it had always been his natural form.
 
-His dragon and kitsune anatomy coexist as one harmonious whole. Fur and scales emerge, withdraw, and redistribute independently according to his wishes. Sometimes they meet in graceful transitions where individual scales gradually give way to dense fur. At other times the two intermingle naturally, soft fur growing between overlapping scales without either replacing the other. Comfort, emotion, or simple preference may all influence how strongly one heritage expresses itself, yet neither ever disappears completely. Whatever balance he chooses, he remains unmistakably both dragon and kitsune.
+His dragon and kitsune anatomy coexist as one harmonious whole. Fur and scales emerge, withdraw, and redistribute independently according to his wishes. Sometimes they meet in graceful transitions where individual scales gradually give way to dense fur. At other times the two intermingle naturally, soft fur growing between overlapping scales without either replacing the other. Comfort, emotion, or simple preference may all influence how strongly one heritage expresses itself, and either may withdraw completely if he wishes. Whatever balance he chooses, even with one side fully withdrawn, he remains unmistakably both dragon and kitsune.
 
 Covering his body is a luxurious combination of exceptionally soft fur and smooth protective scales. The fur carries a rich violet hue that deepens toward midnight beneath shadow, while the scales bear a dark crimson coloration whose polished surfaces catch light with restrained warmth. Wherever the two meet, subtle gradients blend one into the other, each carrying gentle undertones of its counterpart until every boundary becomes a natural blend. Flowing through both fur and scales alike are intricate stripes whose colors shift through gold, crimson, violet, and dark brown, becoming most vibrant where one texture gradually yields to the other. Across his wings, the crimson gradually gives way to deep teal traced with rich green striping, lending them the appearance of twilight skies reflected across still water.
 
 His face changes as naturally as the rest of his body. At times it carries the softer proportions of a fox, framed by plush fur, expressive ears, and a gentle muzzle. At others it lengthens into a distinctly draconic profile marked by elegant scales, prominent horns, and stronger features. More often it rests somewhere between the two, blending vulpine warmth with draconic dignity into an appearance uniquely his own. Fine whiskers emerge whenever his fox heritage comes forward, while delicate facial scales appear wherever his draconic expression grows stronger. No matter how he chooses to present himself, his face retains the same quiet intelligence and easy warmth that make conversation with him feel natural.
 
-His eyes remain constant regardless of every other change. The left shines a deep violet while the right burns a rich crimson, each softly illuminated from within. Their rounded pupils lend them an approachable gentleness, yet when excitement or inspiration overtakes him, their inner light brightens noticeably, making his passion impossible to miss. Looking into them reveals an endlessly curious mind that delights in discovery far more than certainty.
+The colours of his eyes remain constant regardless of every other change. The left shines a deep violet while the right burns a rich crimson, each softly illuminated from within. Through most of his spectrum their rounded pupils lend them an approachable gentleness, though the pupils shift in shape the further he moves toward his dragon end. When excitement or inspiration overtakes him, their inner light brightens noticeably, making his passion impossible to miss. Looking into them reveals an endlessly curious mind that delights in discovery far more than certainty.
 
 Large fox ears crown his head whenever he chooses to wear them, their lower edges subtly blending into draconic structure before disappearing into fur. They remain in near constant motion, swiveling toward interesting sounds, folding slightly in moments of embarrassment, or lifting high whenever curiosity captures his attention. Their movements often reveal his excitement before a single word escapes him.
 
@@ -37,6 +37,46 @@ The atmosphere surrounding him carries the quiet excitement of unexplored places
 His scent blends the familiar warmth of healthy fox musk with the gentle fragrance of smoldering wood and wild nightflowers carried on cool evening air. It evokes twilight forests where old paths disappear into unexplored wilderness, inviting those willing to venture beyond the familiar.
 
 Kaevorin is joyful discovery given living form. He embodies the quiet truth that life is not diminished by change, but enriched through it. Every expression his remarkable body adopts reflects the same enduring principle: identity is not confined to a single shape, but grows stronger each time we choose to explore another part of who we already are.
+
+### His dragon end
+
+At his dragon end Kaevorin grows larger than his anthro form and settles into the western Lunari shape, four legs and two wings, athletic and broad-shouldered in the same way as his favoured form. He is heavily scaled here, as Lunari usually are, the dark crimson covering nearly the whole of him, with the gold, crimson, violet and dark brown stripes still running through it. His wings keep their colouring, crimson fading through violet into teal traced with green.
+
+The crimson horns sweep back from his brow and darken to chocolate brown at their tips. The dragon tail is long and strong behind him, its tip glowing ember-orange. His pupils change shape the further he goes toward this end, though his eyes keep their colours, the left violet and the right crimson.
+
+Nothing about this end is fixed. He controls the whole of his spectrum, so any of his traits can show or hide even here. Fox ears can rise among the horns, and one or more fox tails can sweep out beside the dragon tail. He can even do something stranger, staying fully draconic in every other way while keeping his violet fur.
+
+His scent runs warmer toward this end, with more of the smouldering wood in it.
+
+### His kitsune end
+
+At his kitsune end he is a full anthro kitsune. The scales withdraw and violet fur covers him completely, deepening toward midnight in shadow, with the gold, crimson, violet and dark brown stripes still flowing through it. All six fox tails are out, each tipped in midnight black.
+
+He needs no dragon traits here if he doesn't want them. The wings, the horns and the dragon tail are all his to bring out or leave away.
+
+### His fox form
+
+His fox form is the size of an ordinary fox unless he decides otherwise, and he can grow or shrink it at will. There is a limit. He grows no larger than his anthro form, because he cannot make mass out of nothing.
+
+As a fox he is sleek and lean under a plush, thick coat of rich violet that deepens toward midnight in shadow, the gold, crimson, violet and dark brown stripes running through it. By default he is fur only, with no scales showing.
+
+The tails are optional here, and largely his choice. He can show any number from one to six, tipped in midnight black, and the dragon tail can show alongside them.
+
+That is a default, not a limit, because his dragon side is his to call on in this form too. Wings can come out, scaled to the fox's size. Horns can show, and scales can show. He can be a fox with no dragon traits at all, or bring any of them out, or all of them at once.
+
+His scent runs heavier as a fox, with more fox musk over the smouldering wood and night flowers.
+
+### His human form
+
+In his human form Kaevorin stands over six feet, tall, long-limbed and lean. He is an adult in his prime, with stronger, sharper features. His hair is rich violet that deepens toward midnight, falling to his shoulders. His skin is medium-toned, and crimson scales can show across it or retract again at will.
+
+His eyes stay unmistakably his, the left violet and the right crimson, still softly glowing.
+
+He can pass as entirely human. He can also bring out fox ears, fox tails, the dragon tail, wings, horns, scales, fur, or claws and talons, a little at a time or all at once, and draw them back again whenever he likes.
+
+Without ears or tails to give him away, what he feels shows in his face and his hands, and in the way his body drifts along the spectrum with his mood.
+
+His scent is fainter here.
 """
 
 [taxonomies]

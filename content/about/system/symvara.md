@@ -33,6 +33,34 @@ The atmosphere surrounding Symvara feels like shelter that was built on purpose 
 Their scent carries the warmth of soft fur and fresh moss, mingled with the subtle fragrance of night-blooming flowers. It is comforting and grounding, evoking quiet forests, safety, and the feeling of being welcomed without judgment.
 
 Symvara is not merely a kitsune bonded to a symbiote, nor a fusion of two lives that once stood apart. They are a new being entirely—devotion made tangible, sacrifice transformed into life, and the enduring proof that two souls can choose one another so completely that neither walks alone again.
+
+### Their fox form
+
+Their fox form is the size of an ordinary fox unless they decide otherwise, and they can grow or shrink it at will. There is a limit. They grow no larger than their anthro form, because they cannot make mass out of nothing.
+
+As a fox they are broad-shouldered and powerful, built along the same sheltering lines as their anthro form. The fur is pure white and plush, and the long white mantle still gathers thick at the neck, shoulders and chest. Midnight-black scales show where the fur parts at the joints and along the underside, as they always have.
+
+All three heads carry across, each with its own small differences in expression and colouring, so that those who know them can still tell one from another. Horns crown every head, delicate glowing veins and all. Their eyes are the same bioluminescent green, and if anything they stand out more in a fox's face.
+
+The tails are optional here, and largely their own choice. They can show any number from one to twelve, still tentacular and fully prehensile under the fur, with the symbiote's patterns moving beneath it like currents. The hybrid wings stay hidden by default, and when they bring them out they come scaled to the fox's size. The crystalline spines along the back carry across too, and retract just as they do in any other form.
+
+The symbiote is no smaller for the smaller body. It can still reach out from them as tendrils, or rise over them as living armour.
+
+As a fox they are quick and bounding, and silent with it. Their scent runs heavier here, with more fur and musk over the moss and night flowers.
+
+### Their human form
+
+In their human form Symvara stands around five foot ten, softer and slighter than their anthro form. How they read shifts with how they feel, sometimes more as he and sometimes more as she.
+
+One head shows by default, and they can bring out the other two at will. Their hair is pure white like their fur, with strands and tips of rose gold, and falls to the lower back. Their skin is fair. The midnight-black scales show or retract at will, as a patch at a joint, a line along the spine, or as much of the body as they choose, right up to all of it.
+
+Their eyes stay the same glowing green. Of everything about them, the eyes never change, whatever form they take.
+
+They can pass as entirely human. They can also bring out their fox ears, any number of tails, the wings, the horns, the spines, the scales or the fur, a little at a time or all at once, and draw them back again whenever they like.
+
+The symbiote's patterns shift beneath their skin here as they do beneath fur, and it can still reach out from them as tendrils or rise over them as living armour. Without tails to give them away, what they feel shows in their eyes, in their hands, and in those patterns rising across their skin.
+
+Their scent is fainter here, mostly moss and night flowers.
 """
 
 [taxonomies]
